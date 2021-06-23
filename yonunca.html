@@ -37,6 +37,7 @@ License: You must have a valid license purchased only from themes.getbootstrap.c
 		<link href="assets/css/themes/layout/aside/dark.css" rel="stylesheet" type="text/css" />
 		<!--end::Layout Themes-->
 		<link rel="shortcut icon" href="assets/media/logos/favicon.ico" />
+		<link href="assets/css/mystyle.css" rel="stylesheet" type="text/css" />
 	</head>
 	<!--end::Head-->
 	<!--begin::Body-->
@@ -48,10 +49,10 @@ License: You must have a valid license purchased only from themes.getbootstrap.c
 		<!-- End Google Tag Manager (noscript) -->
 		<!--begin::Main-->
 		<!--begin::Header Mobile-->
-		<div id="kt_header_mobile" class="header-mobile align-items-center header-mobile-fixed d-flex justify-content-between bd-highlight">
-			<div class="p-2 bd-highlight"><i class="fas fa-arrow-left"></i></div>
-			<div class="p-2 bd-highlight text-white text-uppercase">Yo nunca</div>
-			<div class="p-2 bd-highlight"></div>
+		<div id="kt_header_mobile" class="bg-warning header-mobile align-items-center header-mobile-fixed d-flex justify-content-between bd-highlight">
+			<a href="actividades.html"><h6 class="p-2 bd-highlight"><i class="fas fa-arrow-left text-white"></i></h6></a>
+			<h6 class="p-2 bd-highlight text-white text-uppercase">Yo nunca</h6>
+			<h6 class="p-2 bd-highlight"></h6>
 		</div>
 		<!--end::Header Mobile-->
 		<div class="d-flex flex-column flex-root">
@@ -65,7 +66,7 @@ License: You must have a valid license purchased only from themes.getbootstrap.c
 						<div class="container-fluid d-flex justify-content-between">
 							<!--begin::Header Menu Wrapper-->
 							<div class="header-menu-wrapper header-menu-wrapper-left" id="kt_header_menu_wrapper">
-								<div class="p-2 bd-highlight"><i class="fas fa-arrow-left"></i></div>
+								<div class="p-2 bd-highlight"><i class="fas fa-arrow-left text-white"></i></div>
 								<div class="p-2 bd-highlight text-white text-uppercase">Yo nunca</div>
 								<div class="p-2 bd-highlight"></div>
 							</div>
@@ -75,29 +76,35 @@ License: You must have a valid license purchased only from themes.getbootstrap.c
 					</div>
 					<!--end::Header-->
 					<!--begin::Content-->
-					<div class="content d-flex flex-column flex-column-fluid" id="kt_content">
+					<div class="content d-flex flex-column flex-column-fluid h-100 p-0" id="kt_content">
 						<!--begin::Entry-->
 						<div class="d-flex flex-column-fluid">
 							<!--begin::Container-->
 							<div class="container">
-								<div class="card card-custom gutter-b">
-									<div class="card-body py-20">
+								<div class="card card-custom gutter-b h-100">
+									<div class="card-body py-20 bg-warning">
 										<div class="row">
 											<!--begin: Tarjeta 1-->
 											<div class="col-xl-4">
-												<div class="py-20 px-10 px-lg-20">
+												<div class="py-10 mb-5 px-10 px-lg-20">
+													<!--begin::Content-->
+													<div class="d-flex flex-column flex-left pb-10">
+														<div class="d-flex justify-content-left pb-5">
+															<span class="font-weight-bolder display-4 text-white align-self-center">Yo nunca me he comido un moco.</span>
+														</div>
+													</div>
+													<!--end::Content-->
 													<!--begin::Icon-->
 													<div class="d-flex flex-center position-relative py-20">
-														<i class="fas fa-question fa-10x"></i>
+														<i style="font-size: 15em;" class="text-white fas fa-question"></i>
 													</div>
 													<!--end::Icon-->
 													<!--begin::Content-->
 													<div class="d-flex flex-column flex-left pt-10">
-														<h4 class="font-size-h6 d-block d-block font-weight-bold text-dark-50 pb-5">Yo nunca...</h4>
-														<div class="d-flex justify-content-left pb-5">
-															<span class="font-weight-bolder display-4 text-dark-75 align-self-center">Me he comido un moco.</span>
+														<!-- <a href="yonunca.html" class="btn btn-dark text-uppercase text-white font-weight-bolder px-16 py-4">Otra</a> -->
+														<div class="d-flex flex-column flex-center pt-10">
+															<button class="btn btn-dark rounded-circle h-60px w-60px"><i style="font-size: 2em;" class="fas fa-redo-alt p-0"></i></button>
 														</div>
-														<a href="#" class="btn btn-primary text-uppercase font-weight-bolder px-16 py-4">Siguente</a>
 													</div>
 													<!--end::Content-->
 												</div>

@@ -1,0 +1,13 @@
+.carousel-indicators li {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+}
+
+.header-mobile-fixed .header-mobile {
+    height: 80px;
+}
+
+.container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
+    padding: 0%;
+}
