@@ -1,5 +1,5 @@
 
-# :tada: App Fiesta :tada:
+# :tada: Fiestapp! :tada:
 
 Una aplicación web con juegos de fiesta :)
 
