@@ -138,5 +138,100 @@
     "id": 27,
     "frase": "Videojuego favorito?",
     "icono": "fas fa-question"
+  },
+  {
+    "id": 28,
+    "frase": "La minoría bebe: Playa o montaña?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 29,
+    "frase": "La minoría bebe: Nike o Adidas?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 30,
+    "frase": "La minoría bebe: Star Wars o Harry Potter?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 31,
+    "frase": "La minoría bebe: Twitter o Instagram?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 32,
+    "frase": "La minoría bebe: Fiesta en casa o Discoteca?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 33,
+    "frase": "La minoría bebe: Pizza o Hamburguesa?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 34,
+    "frase": "Has fingido que alguien presente te caía bien?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 35,
+    "frase": "A quién te tirarías de los presentes?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 36,
+    "frase": "Follar arriba o abajo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 37,
+    "frase": "Última vez que te masturbaste?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 38,
+    "frase": "Con quien de los presentes harías un trío?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 39,
+    "frase": "La minoría bebe: Perros o Gatos?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 40,
+    "frase": "La minoría bebe: Ginebra o Vodka?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 41,
+    "frase": "La minoría bebe: Vino o Cerveza?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 42,
+    "frase": "Más probable que se duerma antes?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 43,
+    "frase": "Más probable que acabe siendo presidente?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 44,
+    "frase": "Más probable que atraque un banco?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 45,
+    "frase": "Más probable que acabe en Portugal una noche de borrachera?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 46,
+    "frase": "Más probable que ligue en una discoteca?",
+    "icono": "fas fa-question"
   }
 ]

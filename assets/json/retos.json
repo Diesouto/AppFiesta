@@ -158,5 +158,55 @@
     "id": 31,
     "frase": "Durante una ronda, al terminar tus frases di: 'Viva España'.",
     "icono": "fas fa-flag"
+  },
+  {
+    "id": 32,
+    "frase": "Contar como fue tu primera vez. Si fue trágica o ridícula bebe 3 tragos.",
+    "icono": "fas fa-flag"
+  },
+  {
+    "id": 33,
+    "frase": "Agachad la cabeza, a la de tres debes mirar a alguien, si os miráis bebéis.",
+    "icono": "fas fa-eye"
+  },
+  {
+    "id": 34,
+    "frase": "Todos beben.",
+    "icono": "fas fa-users"
+  },
+  {
+    "id": 35,
+    "frase": "Chupar el pezón del 2º de tu derecha.",
+    "icono": "far fa-dot-circle"
+  },
+  {
+    "id": 36,
+    "frase": "Llama a la 4ª persona de tu WhatsApp.",
+    "icono": "fab fa-whatsapp"
+  },
+  {
+    "id": 37,
+    "frase": "Sube algo a tus stories (y publicita el juego jeje).",
+    "icono": "fab fa-instagram"
+  },
+  {
+    "id": 38,
+    "frase": "Twittea con el autocorrector.",
+    "icono": "fab fa-twitter"
+  },
+  {
+    "id": 39,
+    "frase": "Escríbele a tu ex.",
+    "icono": "fas fa-user-times"
+  },
+  {
+    "id": 40,
+    "frase": "Repite una foto antigua lo más exactamente posible.",
+    "icono": "fas fa-image"
+  },
+  {
+    "id": 41,
+    "frase": "Planea la próxima quedada.",
+    "icono": "fas fa-map-marked-alt"
   }
 ]

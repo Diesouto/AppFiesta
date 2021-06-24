@@ -127,7 +127,7 @@
   {
     "id": 25,
     "frase": "He llevado cuernos.",
-    "icono": "fas fa-affiliatetheme"
+    "icono": "fab fa-affiliatetheme"
   },
   {
     "id": 26,
@@ -208,5 +208,30 @@
     "id": 41,
     "frase": "He pensado que en la droguería vendían drogas.",
     "icono": "fas fa-comment"
+  },
+  {
+    "id": 42,
+    "frase": "He cargado con las culpas de otrx voluntariamente.",
+    "icono": "fas fa-times"
+  },
+  {
+    "id": 43,
+    "frase": "Me he hecho el enfermo para faltar a clase.",
+    "icono": "fas fa-head-side-cough"
+  },
+  {
+    "id": 44,
+    "frase": "He robado en una tienda.",
+    "icono": "fas fa-hand-rock"
+  },
+  {
+    "id": 45,
+    "frase": "Me he tirado a un extranjero.",
+    "icono": "fas fa-flag"
+  },
+  {
+    "id": 46,
+    "frase": "He viajado al extranjero.",
+    "icono": "fas fa-plane"
   }
 ]
