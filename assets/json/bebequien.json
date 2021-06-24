@@ -1,0 +1,232 @@
+[
+  {
+    "id": 0,
+    "frase": "Tenga la A en su nombre.",
+    "icono": "fas fa-angular"
+  },
+  {
+    "id": 1,
+    "frase": "Sea hombre.",
+    "icono": "fas fa-mars"
+  },
+  {
+    "id": 2,
+    "frase": "Sea mujer.",
+    "icono": "fas fa-venus"
+  },
+  {
+    "id": 3,
+    "frase": "Tenga el vaso más lleno.",
+    "icono": "fas fa-wine-glass"
+  },
+  {
+    "id": 4,
+    "frase": "Fume.",
+    "icono": "fas fa-smoking"
+  },
+  {
+    "id": 5,
+    "frase": "Lleve ropa interior oscura",
+    "icono": "fas fa-columns"
+  },
+  {
+    "id": 6,
+    "frase": "No sea virgen.",
+    "icono": "fas fa-venus-mars"
+  },
+  {
+    "id": 7,
+    "frase": "La persona que lee elige",
+    "icono": "fas fa-hand-point-right"
+  },
+  {
+    "id": 8,
+    "frase": "Se haya liado con alguien presente.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 9,
+    "frase": "Se haya liado con más gente.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 10,
+    "frase": "Tenga piercings",
+    "icono": "fas fa-deaf"
+  },
+  {
+    "id": 11,
+    "frase": "Tenga el vaso en la mano",
+    "icono": "fas fa-wine-glass"
+  },
+  {
+    "id": 12,
+    "frase": "Tenga la E en su nombre",
+    "icono": "fas fa-etsy"
+  },
+  {
+    "id": 13,
+    "frase": "Tenga los ojos marrones",
+    "icono": "fas fa-eye"
+  },
+  {
+    "id": 14,
+    "frase": "Tenga los ojos azules.",
+    "icono": "fas fa-eye"
+  },
+  {
+    "id": 15,
+    "frase": "Ligue más",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 16,
+    "frase": "Haya ligado en las últimas 24 horas.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 17,
+    "frase": "Prefiera líos a relaciones.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 18,
+    "frase": "Vaya más fumado.",
+    "icono": "fas fa-joint"
+  },
+  {
+    "id": 19,
+    "frase": "Le guste el puerto de indias.",
+    "icono": "fas fa-wine-glass"
+  },
+  {
+    "id": 20,
+    "frase": "Esté más moreno.",
+    "icono": "fas fa-sun"
+  },
+  {
+    "id": 21,
+    "frase": "Esté más blanco.",
+    "icono": "fas fa-moon"
+  },
+  {
+    "id": 22,
+    "frase": "Tenga más hermanos.",
+    "icono": "fas fa-user-friends"
+  },
+  {
+    "id": 23,
+    "frase": "Haya vomitado por el alcohol.",
+    "icono": "fas fa-wine-bottle"
+  },
+  {
+    "id": 24,
+    "frase": "Haya visto porno hoy.",
+    "icono": "fas fa-youtube"
+  },
+  {
+    "id": 25,
+    "frase": "Sea el más mandón.",
+    "icono": "fas fa-hand-point-up"
+  },
+  {
+    "id": 26,
+    "frase": "Tenga un juguete sexual.",
+    "icono": "fas fa-angellist"
+  },
+  {
+    "id": 27,
+    "frase": "Se meta relleno.",
+    "icono": "fas fa-angellist"
+  },
+  {
+    "id": 28,
+    "frase": "Miente mejor.",
+    "icono": "fas fa-angellist"
+  },
+  {
+    "id": 29,
+    "frase": "Sea el más pesado.",
+    "icono": "fas fa-thumbs-down"
+  },
+  {
+    "id": 30,
+    "frase": "Sea más tóxico.",
+    "icono": "fas fa-virus"
+  },
+  {
+    "id": 31,
+    "frase": "Olvide los cumpleaños.",
+    "icono": "fas fa-thumbs-down"
+  },
+  {
+    "id": 32,
+    "frase": "Termine siendo rico.",
+    "icono": "fas fa-coins"
+  },
+  {
+    "id": 33,
+    "frase": "Sea más irresponsable.",
+    "icono": "fas fa-thumbs-down"
+  },
+  {
+    "id": 34,
+    "frase": "Lleve ropa interior clara",
+    "icono": "fas fa-columns"
+  },
+  {
+    "id": 35,
+    "frase": "Sea LGBT+",
+    "icono": "fas fa-mars-double"
+  },
+  {
+    "id": 36,
+    "frase": "Lleve gafas.",
+    "icono": "fas fa-glasses"
+  },
+  {
+    "id": 37,
+    "frase": "Bese mejor",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 38,
+    "frase": "Bese peor.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 39,
+    "frase": "Sea más egocéntrico.",
+    "icono": "fas fa-thumbs-down"
+  },
+  {
+    "id": 40,
+    "frase": "Haya hecho una página web para sus amigos.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 41,
+    "frase": "Haya usado aparato.",
+    "icono": "fas fa-tooth"
+  },
+  {
+    "id": 42,
+    "frase": "Haya ido por ciencias.",
+    "icono": "fas fa-flask"
+  },
+  {
+    "id": 43,
+    "frase": "Haya ido por letras.",
+    "icono": "fas fa-comments"
+  },
+  {
+    "id": 44,
+    "frase": "Sea creyente.",
+    "icono": "fas fa-cross"
+  },
+  {
+    "id": 45,
+    "frase": "Sea ateo/agnóstico.",
+    "icono": "fas fa-cross"
+  }
+]

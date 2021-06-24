@@ -28,20 +28,8 @@
 	</head>
 	<!--end::Head-->
 	<!--begin::Body-->
-	<body id="kt_body" class="quick-panel-right demo-panel-right offcanvas-right header-fixed header-mobile-fixed subheader-enabled">
-		<!-- Google Tag Manager (noscript) -->
-		<noscript>
-			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FS8GGP" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-		</noscript>
-		<!-- End Google Tag Manager (noscript) -->
+	<body id="kt_body" class="quick-panel-right demo-panel-right offcanvas-right header-fixed header-mobile-fixed subheader-enabled w-100">
 		<!--begin::Main-->
-		<!--begin::Header Mobile-->
-		<div id="kt_header_mobile" class="bg-warning header-mobile align-items-center header-mobile-fixed d-flex justify-content-between bd-highlight">
-			<h6 class="p-2 bd-highlight"></h6>
-			<h6 class="p-2 bd-highlight text-white text-uppercase"></h6>
-			<h6 class="p-2 bd-highlight"></h6>
-		</div>
-		<!--end::Header Mobile-->
 		<div class="d-flex flex-column flex-root">
 			<!--begin::Page-->
 			<div class="d-flex flex-row flex-column-fluid page">
@@ -59,7 +47,7 @@
 					</div>
 					<!--end::Header-->
 					<!--begin::Content-->
-					<div class="content d-flex flex-column flex-column-fluid h-100 p-0" id="kt_content">
+					<div class="content d-flex flex-column flex-column-fluid h-100 w-100 p-0" id="kt_content">
 						<!--begin::Entry-->
 						<div class="d-flex flex-column-fluid bg-warning">
 							<!--begin::Container-->
@@ -73,20 +61,20 @@
 												<div style="z-index: 1;" class="d-flex flex-column flex-left pt-20 pb-10">
 													<h4 class="font-size-h6 d-block d-block font-weight-bold text-white pb-5">Por Diego Souto</h4>
 													<div class="d-flex justify-content-left pb-5">
-														<span id="frase" style="font-size: 3em!important;" class="font-weight-bolder display-4 text-white align-self-center">Bienvenido a la fiestapp! </span>
+														<span id="frase" style="font-size: 3em!important;" class="font-weight-bolder display-4 text-white align-self-center">Bienvenido a la Fiestapp! </span>
 													</div>
 												</div>
 												<!--end::Content-->
 												<!--begin::Icon-->
-												<div class="d-flex flex-center position-relative py-10">
+												<div class="d-flex flex-center position-relative m-0 m-auto py-10">
 													<!-- <i id="icono" style="font-size: 15em;" class="text-white"></i> -->
 													<img style="transform: scaleX(-1); width:25em; position: absolute;
-													top: 10px; left: 40px; z-index: 0;" src="assets/media/logos/android-chrome-512x512.png">
+													top: -4em; z-index: 0;" src="assets/media/logos/android-chrome-512x512.png">
 												</div>
 												<!--end::Icon-->
 												<!--begin::Content-->
 												<div class="d-flex flex-column flex-left">
-													<a href="juegos.html" style="z-index: 1; margin-top: 23em!important;" class="btn btn-dark text-uppercase text-white font-weight-bolder px-16 py-4">A Jugar</a>
+													<a href="juegos.html" style="z-index: 1; margin-top: 17em!important;" class="btn btn-dark text-uppercase text-white font-weight-bolder px-16 py-4">A Jugar</a>
 												</div>
 												<!--end::Content-->
 											</div>
@@ -138,7 +126,7 @@
 		<!--end::Global Theme Bundle-->
 		
 		<!-- Confeti -->
-		<canvas id="miconfeti" style="position: absolute; top: 0;"></canvas>
+		<canvas id="miconfeti" class="w-100 h-100" style="position: absolute; top: 0;"></canvas>
 		<script src="/assets/js/pages/features/confeti/confeti.js"></script>
 		<script>
 			var confettiSettings = { target: 'miconfeti' };

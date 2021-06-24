@@ -26,7 +26,187 @@
   },
   {
     "id": 5,
-    "frase": "He estudiado en la universidad",
+    "frase": "He estudiado en la universidad.",
     "icono": "fas fa-book-reader"
+  },
+  {
+    "id": 6,
+    "frase": "He visitado una sex shop.",
+    "icono": "fas fa-venus-mars"
+  },
+  {
+    "id": 7,
+    "frase": "Me he depilado para nada.",
+    "icono": "fas fa-times"
+  },
+  {
+    "id": 8,
+    "frase": "Me han hecho una cobra.",
+    "icono": "fas fa-heart-broken"
+  },
+  {
+    "id": 9,
+    "frase": "He hecho un sinpa.",
+    "icono": "fas fa-money-bill-wave"
+  },
+  {
+    "id": 10,
+    "frase": "He estado con alguien mucho mayor.",
+    "icono": "fas fa-sort-numeric-up"
+  },
+  {
+    "id": 11,
+    "frase": "He tenido sexo en público.",
+    "icono": "fas fa-umbrella-beach"
+  },
+  {
+    "id": 12,
+    "frase": "Me han pillado haciéndolo.",
+    "icono": "fas fa-heart-broken"
+  },
+  {
+    "id": 13,
+    "frase": "He pillado a mis padres haciéndolo.",
+    "icono": "fas fa-heart-broken"
+  },
+  {
+    "id": 14,
+    "frase": "Me he liado con alguien sin conocerlx",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 15,
+    "frase": "Me he hecho amigo de un ex",
+    "icono": "fas fa-user-friends"
+  },
+  {
+    "id": 16,
+    "frase": "He practicado más de 10 posturas distintas.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 17,
+    "frase": "He follado durante más de 1 hora.",
+    "icono": "fas fa-clock fa-spin"
+  },
+  {
+    "id": 18,
+    "frase": "Lo he hecho en un cine.",
+    "icono": "fas fa-film"
+  },
+  {
+    "id": 19,
+    "frase": "He utilizado un juguete sexual.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 20,
+    "frase": "Me he liado con alguien de mi mismo sexo.",
+    "icono": "fas fa-mars-double"
+  },
+  {
+    "id": 21,
+    "frase": "He visto a alguien de los presentes desnudo.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 22,
+    "frase": "He vomitado de fiesta",
+    "icono": "fas fa-wine-bottle"
+  },
+  {
+    "id": 23,
+    "frase": "He comprado un juguete sexual.",
+    "icono": "fas fa-money-bill-wave"
+  },
+  {
+    "id": 24,
+    "frase": "He pensado en hacerme stripper.",
+    "icono": "fas fa-music"
+  },
+  {
+    "id": 25,
+    "frase": "He llevado cuernos.",
+    "icono": "fas fa-affiliatetheme"
+  },
+  {
+    "id": 26,
+    "frase": "He dado calabazas.",
+    "icono": "fas fa-heart-broken"
+  },
+  {
+    "id": 27,
+    "frase": "He hecho ghosting.",
+    "icono": "fas fa-ghost"
+  },
+  {
+    "id": 28,
+    "frase": "He pensado en casarme.",
+    "icono": "fas fa-ring"
+  },
+  {
+    "id": 29,
+    "frase": "He tenido cibersexo.",
+    "icono": "fas fa-wifi"
+  },
+  {
+    "id": 30,
+    "frase": "He fumado un porro.",
+    "icono": "fas fa-joint"
+  },
+  {
+    "id": 31,
+    "frase": "He mentido sobre mi virginidad.",
+    "icono": "fas fa-venus-mars"
+  },
+  {
+    "id": 32,
+    "frase": "He mentido sobre mi edad.",
+    "icono": "fas fa-times"
+  },
+  {
+    "id": 33,
+    "frase": "He tenido un trabajo.",
+    "icono": "fas fa-coins"
+  },
+  {
+    "id": 34,
+    "frase": "He aprendido a nadar.",
+    "icono": "fas fa-swimmer"
+  },
+  {
+    "id": 35,
+    "frase": "He aprendido a montar en bicicleta.",
+    "icono": "fas fa-bicycle"
+  },
+  {
+    "id": 36,
+    "frase": "He tenido una mascota.",
+    "icono": "fas fa-paw"
+  },
+  {
+    "id": 37,
+    "frase": "Me he dormido en clase.",
+    "icono": "fas fa-bed"
+  },
+  {
+    "id": 38,
+    "frase": "Me he dormido follando.",
+    "icono": "fas fa-bed"
+  },
+  {
+    "id": 39,
+    "frase": "He instalado una aplicación de ligoteo.",
+    "icono": "fas fa-fire"
+  },
+  {
+    "id": 40,
+    "frase": "Me he liado con 2 o más personas en menos de 24 horas.",
+    "icono": "fas fa-fire"
+  },
+  {
+    "id": 41,
+    "frase": "He pensado que en la droguería vendían drogas.",
+    "icono": "fas fa-comment"
   }
 ]

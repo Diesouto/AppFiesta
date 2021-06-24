@@ -5,7 +5,7 @@
 	<!--begin::Head-->
 	<head><base href="">
 		<meta charset="utf-8" />
-		<title>Fiesta! | Diesouto</title>
+		<title>Fiestapp! | Diesouto</title>
 		<meta name="description" content="Updates and statistics" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 		<!--begin::Fonts-->
@@ -38,7 +38,7 @@
 		<!--begin::Header Mobile-->
 		<div id="kt_header_mobile" class="bg-warning header-mobile align-items-center header-mobile-fixed d-flex justify-content-between bd-highlight">
 			<a href="juegos.html"><h6 class="p-2 bd-highlight"><i class="fas fa-arrow-left text-white"></i></h6></a>
-			<h6 class="p-2 bd-highlight text-white text-uppercase">Retos</h6>
+			<h6 class="p-2 bd-highlight text-white text-uppercase">Preguntas</h6>
 			<h6 class="p-2 bd-highlight"></h6>
 		</div>
 		<!--end::Header Mobile-->
@@ -52,7 +52,7 @@
 						<!--begin::Container-->
 						<div class="container-fluid d-flex justify-content-between header-menu-wrapper pt-5">
 							<a href="juegos.html"><h6 class="p-3 pl-4 bd-highlight"><i class="fas fa-arrow-left text-white"></i></h6></a>
-							<h6 class="p-3 bd-highlight text-white text-uppercase">Retos</h6>
+							<h6 class="p-3 bd-highlight text-white text-uppercase">Preguntas</h6>
 							<h6 class="p-3 bd-highlight"></h6>
 						</div>
 						<!--end::Container-->
@@ -71,7 +71,7 @@
 											<div class="py-10 mb-5 px-10 px-lg-20">
 												<!--begin::Content-->
 												<div class="d-flex flex-column flex-left pt-20 pb-10">
-													<h4 class="font-size-h6 d-block d-block font-weight-bold text-white pb-5">Te reto a...</h4>
+													<h4 class="font-size-h6 d-block d-block font-weight-bold text-white pb-5">Pregunta...</h4>
 													<div class="d-flex justify-content-left pb-5">
 														<span id="frase" style="font-size: 2.3em!important;" class="font-weight-bolder display-4 text-white align-self-center"></span>
 													</div>
@@ -79,7 +79,7 @@
 												<!--end::Content-->
 												<!--begin::Icon-->
 												<div class="d-flex flex-center position-relative py-20">
-													<i id="icono" style="font-size: 15em;" class="text-white"></i>
+													<i id="icono" style="font-size: 15em;" class="text-white fas fa-question"></i>
 												</div>
 												<!--end::Icon-->
 												<!--begin::Content-->
@@ -144,19 +144,17 @@
 
 			function cargarContenido() {
 				//Generar nº aleatorio (0-max)
-				var max = 31;
+				var max = 27;
 				var random = Math.floor(Math.random() * (max+1)); 
 
 				//Leer fichero json
-				var filePath = "/assets/json/retos.json";
+				var filePath = "/assets/json/preguntas.json";
 				var data = $.getJSON(filePath, function(json) {
 					//mostrar datos
 					var item = data.responseJSON[random];
 
 					//Mostrar en pantalla
 					$('#frase').text(item.frase);
-					$('#icono').removeClass();
-					$('#icono').addClass(item.icono + " text-white");
 				});
 			}
 		</script>

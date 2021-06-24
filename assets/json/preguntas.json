@@ -1,0 +1,142 @@
+[
+  {
+    "id": 0,
+    "frase": "Tendrías cibersexo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 1,
+    "frase": "Te has liado con el ex de un amigo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 2,
+    "frase": "Cuéntanos tu sueño más reciente.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 3,
+    "frase": "Cuéntanos tu fantasía actual.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 4,
+    "frase": "Te han mandado nudes? Hace poco?.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 5,
+    "frase": "Cara o cuerpo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 6,
+    "frase": "Culo o tetas?.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 7,
+    "frase": "Te tirarías antes al de tu izq o der?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 8,
+    "frase": "Con cuantos presentes te has liado?.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 9,
+    "frase": "Di dos lugares donde lo hayas hecho.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 10,
+    "frase": "Cuantas veces has vomitado de fiesta?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 11,
+    "frase": "Fuck marry kill con 3 presentes.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 12,
+    "frase": "A qué animal se parece el de tu derecha?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 13,
+    "frase": "Qué es lo más guarro que has hecho estando sólo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 14,
+    "frase": "Di una comida asquerosa que te hayas preparado.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 15,
+    "frase": "Qué parte de tu cuerpo te gusta menos?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 16,
+    "frase": "Qué parte de tu cuerpo te gusta más?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 17,
+    "frase": "Te han dado calabazas?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 18,
+    "frase": "Di cual es tu cubata favorito.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 19,
+    "frase": "Quien te cae mejor de los presentes?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 20,
+    "frase": "Quien te cae peor de los presentes?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 21,
+    "frase": "Con quien te liarías de los presentes?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 22,
+    "frase": "Crush famosx?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 23,
+    "frase": "Último actor/actriz porno que hayas visto.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 24,
+    "frase": "Película favorita?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 25,
+    "frase": "Serie favorita?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 26,
+    "frase": "Anime favorito?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 27,
+    "frase": "Videojuego favorito?",
+    "icono": "fas fa-question"
+  }
+]

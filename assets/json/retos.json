@@ -6,27 +6,157 @@
   },
   {
     "id": 1,
-    "frase": "He visto Titanic.",
-    "icono": "fas fa-anchor"
-  },
-  {
-    "id": 2,
-    "frase": "He llorado con una película.",
-    "icono": "fas fa-film"
-  },
-  {
-    "id": 3,
-    "frase": "He ido en avión.",
-    "icono": "fas fa-plane"
-  },
-  {
-    "id": 4,
-    "frase": "Me he liado con alguien presente.",
+    "frase": "Liarte con la persona de tu derecha.",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
+    "id": 2,
+    "frase": "Liarte con la persona de tu izquierda.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 3,
+    "frase": "Decirle una guarrada a la persona de tu derecha.",
+    "icono": "fas fa-comment"
+  },
+  {
+    "id": 4,
+    "frase": "Decirle una guarrada a la persona de tu izquierda.",
+    "icono": "fas fa-comment"
+  },
+  {
     "id": 5,
-    "frase": "He estudiado en la universidad",
-    "icono": "fas fa-book-reader"
+    "frase": "Pasar un hielo con la boca.",
+    "icono": "fas fa-dice-d6"
+  },
+  {
+    "id": 6,
+    "frase": "Beber del cubata de otra persona.",
+    "icono": "fas fa-cocktail"
+  },
+  {
+    "id": 7,
+    "frase": "Terminarte tu bebida.",
+    "icono": "fas fa-cocktail"
+  },
+  {
+    "id": 8,
+    "frase": "Tomarte un chupito.",
+    "icono": "fas fa-glass-whiskey"
+  },
+  {
+    "id": 9,
+    "frase": "Beberte lo que te preparen.",
+    "icono": "fas fa-cocktail"
+  },
+  {
+    "id": 10,
+    "frase": "Hablar como si estuvieses rapeando una ronda.",
+    "icono": "fas fa-music"
+  },
+  {
+    "id": 11,
+    "frase": "Terminar todas tus frases con 'XD'.",
+    "icono": "fas fa-comment"
+  },
+  {
+    "id": 12,
+    "frase": "Declararte a tu último chat de Whatsapp.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 13,
+    "frase": "Cambiarte de ropa con alguien.",
+    "icono": "fas fa-tshirt"
+  },
+  {
+    "id": 14,
+    "frase": "Pedirle matrimonio a la persona de tu izquierda.",
+    "icono": "fas fa-ring"
+  },
+  {
+    "id": 15,
+    "frase": "Pedirle matrimonio a la persona de tu derecha.",
+    "icono": "fas fa-ring"
+  },
+  {
+    "id": 16,
+    "frase": "2 minutos a solas con el de tu izquierda.",
+    "icono": "fas fa-hourglass-start"
+  },
+  {
+    "id": 17,
+    "frase": "2 minutos a solas con el de tu derecha.",
+    "icono": "fas fa-hourglass-start"
+  },
+  {
+    "id": 18,
+    "frase": "Reacciona con un fuego a la 5 historia de tu insta.",
+    "icono": "fas fa-fire"
+  },
+  {
+    "id": 19,
+    "frase": "Besas a quien más te atraiga.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 20,
+    "frase": "Adivinas quién te besa/toca.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 21,
+    "frase": "Tomar un chupito de mamada.",
+    "icono": "fas fa-glass-whiskey"
+  },
+  {
+    "id": 22,
+    "frase": "Adivina qué culo tocas.",
+    "icono": "fas fa-hand-paper"
+  },
+  {
+    "id": 23,
+    "frase": "Adivina qué pelo tocas.",
+    "icono": "fas fa-hand-paper"
+  },
+  {
+    "id": 24,
+    "frase": "Quítate una prenda.",
+    "icono": "fas fa-tshirt"
+  },
+  {
+    "id": 25,
+    "frase": "Haz un tiktok que te manden.",
+    "icono": "fas fa-tiktok"
+  },
+  {
+    "id": 26,
+    "frase": "Imita a un famoso, si nadie lo adivina bebes.",
+    "icono": "fas fa-microphone"
+  },
+  {
+    "id": 27,
+    "frase": "Hacer mímica para que adivinen una película.",
+    "icono": "fas fa-hand-paper"
+  },
+  {
+    "id": 28,
+    "frase": "Juega a la botella.",
+    "icono": "fas fa-wine-bottle fa-spin"
+  },
+  {
+    "id": 29,
+    "frase": "Di dos verdades y una mentira.",
+    "icono": "fas fa-clipboard-list"
+  },
+  {
+    "id": 30,
+    "frase": "Poner el móvil en la mesa, notificación = chupito.",
+    "icono": "fas fa-mobile"
+  },
+  {
+    "id": 31,
+    "frase": "Durante una ronda, al terminar tus frases di: 'Viva España'.",
+    "icono": "fas fa-flag"
   }
 ]
