@@ -2,7 +2,7 @@
   {
     "id": 0,
     "frase": "Tenga la A en su nombre.",
-    "icono": "fas fa-angular"
+    "icono": "fab fa-angular"
   },
   {
     "id": 1,
@@ -62,7 +62,7 @@
   {
     "id": 12,
     "frase": "Tenga la E en su nombre",
-    "icono": "fas fa-etsy"
+    "icono": "fab fa-etsy"
   },
   {
     "id": 13,
