@@ -208,5 +208,20 @@
     "id": 41,
     "frase": "Planea la próxima quedada.",
     "icono": "fas fa-map-marked-alt"
+  },
+  {
+    "id": 42,
+    "frase": "Decir un número del 1-10. Si coincides con alguien bebéis ese nº de tragos.",
+    "icono": "fas fa-glass-whiskey"
+  },
+  {
+    "id": 43,
+    "frase": "Juega una partida de beer pong.",
+    "icono": "fas fa-glass-whiskey"
+  },
+  {
+    "id": 44,
+    "frase": "Bailar sexy a la persona de tu izquierda.",
+    "icono": "fas fa-music"
   }
 ]
