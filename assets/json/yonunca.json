@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "frase": "Me he comido un moco.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 1,
+    "frase": "He visto Titanic.",
+    "icono": "fas fa-anchor"
+  },
+  {
+    "id": 2,
+    "frase": "He llorado con una película.",
+    "icono": "fas fa-film"
+  },
+  {
+    "id": 3,
+    "frase": "He ido en avión.",
+    "icono": "fas fa-plane"
+  },
+  {
+    "id": 4,
+    "frase": "Me he liado con alguien presente.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 5,
+    "frase": "He estudiado en la universidad",
+    "icono": "fas fa-book-reader"
+  }
+]

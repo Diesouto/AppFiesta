@@ -85,21 +85,22 @@ License: You must have a valid license purchased only from themes.getbootstrap.c
 											<div class="py-10 mb-5 px-10 px-lg-20">
 												<!--begin::Content-->
 												<div class="d-flex flex-column flex-left pt-20 pb-10">
+													<h4 class="font-size-h6 d-block d-block font-weight-bold text-white pb-5">Yo nunca...</h4>
 													<div class="d-flex justify-content-left pb-5">
-														<span class="font-weight-bolder display-4 text-white align-self-center">Yo nunca me he comido un moco.</span>
+														<span id="frase" class="font-weight-bolder display-4 text-white align-self-center"></span>
 													</div>
 												</div>
 												<!--end::Content-->
 												<!--begin::Icon-->
 												<div class="d-flex flex-center position-relative py-20">
-													<i style="font-size: 15em;" class="text-white fas fa-question"></i>
+													<i id="icono" style="font-size: 15em;" class="text-white"></i>
 												</div>
 												<!--end::Icon-->
 												<!--begin::Content-->
 												<div class="d-flex flex-column flex-left pb-10">
 													<!-- <a href="yonunca.html" class="btn btn-dark text-uppercase text-white font-weight-bolder px-16 py-4">Otra</a> -->
 													<div class="d-flex flex-column flex-center pt-10">
-														<button class="btn btn-dark rounded-circle h-60px w-60px"><i style="font-size: 2em;" class="fas fa-redo-alt p-0"></i></button>
+														<button onclick="cargarContenido()" class="btn btn-dark rounded-circle h-60px w-60px"><i style="font-size: 2em;" class="fas fa-redo-alt p-0"></i></button>
 													</div>
 												</div>
 												<!--end::Content-->
@@ -151,7 +152,30 @@ License: You must have a valid license purchased only from themes.getbootstrap.c
 		<script src="/assets/plugins/custom/prismjs/prismjs.bundle.js?v=2.1.1"></script>
 		<script src="/assets/js/scripts.bundle.js?v=2.1.1"></script>
 		<!--end::Global Theme Bundle-->
+
+		<script>
+			cargarContenido();
+
+			function cargarContenido() {
+				//Generar nº aleatorio (0-9)
+				var random = Math.floor(Math.random() * 10); 
+
+				//Leer fichero json
+				var filePath = "/assets/json/yonunca.json";
+				var data = $.getJSON(filePath, function(json) {
+					//mostrar datos
+					var item = data.responseJSON[random];
+
+					//Mostrar en pantalla
+					$('#frase').text(item.frase);
+					$('#icono').removeClass();
+					$('#icono').addClass(item.icono + " text-white");
+				});
+			}
+		</script>
+
 	<!--end::Body-->
-<svg id="SvgjsSvg1001" width="2" height="0" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" style="overflow: hidden; top: -100%; left: -100%; position: absolute; opacity: 0;"><defs id="SvgjsDefs1002"></defs><polyline id="SvgjsPolyline1003" points="0,0"></polyline><path id="SvgjsPath1004" d="M-1 380L-1 380C-1 380 100 380 100 380C100 380 200 380 200 380C200 380 200 380 200 380 "></path></svg><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-25a418976ea02a6f393fbbe77cec94bb.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><style>.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}</style></body>
+	<svg id="SvgjsSvg1001" width="2" height="0" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" style="overflow: hidden; top: -100%; left: -100%; position: absolute; opacity: 0;"><defs id="SvgjsDefs1002"></defs><polyline id="SvgjsPolyline1003" points="0,0"></polyline><path id="SvgjsPath1004" d="M-1 380L-1 380C-1 380 100 380 100 380C100 380 200 380 200 380C200 380 200 380 200 380 "></path></svg><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-25a418976ea02a6f393fbbe77cec94bb.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><style>.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}</style>
+	</body>
 	<!--end::Body-->
 </html>
