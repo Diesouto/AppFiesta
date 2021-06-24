@@ -140,14 +140,18 @@
 		<!--end::Global Theme Bundle-->
 
 		<script>
-			cargarContenido();
+			try {
+				cargarContenido();
+			} catch (error) {
+				console.error(error);
+			}
 
 			function cargarContenido() {
 				//Generar nº aleatorio (0-max)
 				var max = 44;
 				var random = Math.floor(Math.random() * (max+1)); 
 
-				var randomTema = Math.floor(Math.random() * (5));
+				var randomTema = Math.floor(Math.random() * (4));
 				var jsonAleatorio = ["yonunca", "bebequien", "retos", "preguntas"];
 
 				//Leer fichero json
