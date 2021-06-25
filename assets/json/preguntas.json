@@ -233,5 +233,75 @@
     "id": 46,
     "frase": "Más probable que ligue en una discoteca?",
     "icono": "fas fa-question"
+  },
+  {
+    "id": 47,
+    "frase": "Háblanos de tu primer crush.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 48,
+    "frase": "Describe sin entrar en detalle a tu crush.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 49,
+    "frase": "Personaje ficticio con el que te liarías?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 50,
+    "frase": "Más probable que acabe la noche con un grupo distinto?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 51,
+    "frase": "Última compra por internet?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 52,
+    "frase": "Color favorito?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 53,
+    "frase": "Número favorito?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 54,
+    "frase": "Qué te tatuarías ahora mismo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 55,
+    "frase": "Cómo sería tu cita perfecta?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 56,
+    "frase": "Qué país visitarías ahora mismo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 57,
+    "frase": "La minoría bebe. Hablar todos los idiomas o con animales?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 58,
+    "frase": "Qué súperpoder tendrías?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 59,
+    "frase": "Qué porcentaje de hetero/gay eres?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 60,
+    "frase": "Qué mascota tendrías ahora mismo?",
+    "icono": "fas fa-question"
   }
 ]

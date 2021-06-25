@@ -81,27 +81,27 @@
   },
   {
     "id": 16,
-    "frase": "2 minutos a solas con el de tu izquierda.",
+    "frase": "Estar 2 minutos a solas con el de tu izquierda.",
     "icono": "fas fa-hourglass-start"
   },
   {
     "id": 17,
-    "frase": "2 minutos a solas con el de tu derecha.",
+    "frase": "Estar 2 minutos a solas con el de tu derecha.",
     "icono": "fas fa-hourglass-start"
   },
   {
     "id": 18,
-    "frase": "Reacciona con un fuego a la 5 historia de tu insta.",
+    "frase": "Reaccionar con un fuego a la 5 historia de tu insta.",
     "icono": "fas fa-fire"
   },
   {
     "id": 19,
-    "frase": "Besas a quien más te atraiga.",
+    "frase": "Besar a quien más te atraiga.",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
     "id": 20,
-    "frase": "Adivinas quién te besa/toca.",
+    "frase": "Adivinar quién te besa/toca.",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
@@ -111,27 +111,27 @@
   },
   {
     "id": 22,
-    "frase": "Adivina qué culo tocas.",
+    "frase": "Adivinar qué culo tocas.",
     "icono": "fas fa-hand-paper"
   },
   {
     "id": 23,
-    "frase": "Adivina qué pelo tocas.",
+    "frase": "Adivinar qué pelo tocas.",
     "icono": "fas fa-hand-paper"
   },
   {
     "id": 24,
-    "frase": "Quítate una prenda.",
+    "frase": "Quítarte una prenda.",
     "icono": "fas fa-tshirt"
   },
   {
     "id": 25,
-    "frase": "Haz un tiktok que te manden.",
+    "frase": "Hacer un tiktok que te manden.",
     "icono": "fab fa-tiktok"
   },
   {
     "id": 26,
-    "frase": "Imita a un famoso, si nadie lo adivina bebes.",
+    "frase": "Imitar a un famoso, si nadie lo adivina bebes.",
     "icono": "fas fa-microphone"
   },
   {
@@ -141,12 +141,12 @@
   },
   {
     "id": 28,
-    "frase": "Juega a la botella.",
+    "frase": "Jugar a la botella.",
     "icono": "fas fa-wine-bottle fa-spin"
   },
   {
     "id": 29,
-    "frase": "Di dos verdades y una mentira.",
+    "frase": "Decir dos verdades y una mentira.",
     "icono": "fas fa-clipboard-list"
   },
   {
@@ -181,32 +181,32 @@
   },
   {
     "id": 36,
-    "frase": "Llama a la 4ª persona de tu WhatsApp.",
+    "frase": "Llamar a la 4ª persona de tu WhatsApp.",
     "icono": "fab fa-whatsapp"
   },
   {
     "id": 37,
-    "frase": "Sube algo a tus stories (y publicita el juego jeje).",
+    "frase": "Subir algo a tus stories (y publicita el juego jeje).",
     "icono": "fab fa-instagram"
   },
   {
     "id": 38,
-    "frase": "Twittea con el autocorrector.",
+    "frase": "Twittear con el autocorrector.",
     "icono": "fab fa-twitter"
   },
   {
     "id": 39,
-    "frase": "Escríbele a tu ex.",
+    "frase": "Escríbirle a tu ex.",
     "icono": "fas fa-user-times"
   },
   {
     "id": 40,
-    "frase": "Repite una foto antigua lo más exactamente posible.",
+    "frase": "Repetir una foto antigua lo más exactamente posible.",
     "icono": "fas fa-image"
   },
   {
     "id": 41,
-    "frase": "Planea la próxima quedada.",
+    "frase": "Planear la próxima quedada.",
     "icono": "fas fa-map-marked-alt"
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "id": 43,
-    "frase": "Juega una partida de beer pong.",
+    "frase": "Jugar una partida de beer pong.",
     "icono": "fas fa-glass-whiskey"
   },
   {
@@ -228,5 +228,80 @@
     "id": 45,
     "frase": "Hablar con voz de pito una ronda.",
     "icono": "fas fa-comment"
+  },
+  {
+    "id": 46,
+    "frase": "Enseñar media teta. Dale Carla.",
+    "icono": "fas fa-circle"
+  },
+  {
+    "id": 47,
+    "frase": "Morder tres culos.",
+    "icono": "fas fa-drumstick-bite"
+  },
+  {
+    "id": 48,
+    "frase": "Señalar al que te ponga más perracx. Si coincidís os besáis",
+    "icono": "fas fa-dog"
+  },
+  {
+    "id": 49,
+    "frase": "Jugar a El Juego. Si os acordáis de que estáis jugando bebéis.",
+    "icono": "fas fa-bible"
+  },
+  {
+    "id": 50,
+    "frase": "Jugar a Hazte un porro.",
+    "icono": "fas fa-joint"
+  },
+  {
+    "id": 51,
+    "frase": "Jugar a Si te ríes pierdes (bebes).",
+    "icono": "fas fa-smile"
+  },
+  {
+    "id": 52,
+    "frase": "Decir la palabra Pene más alto que el anterior.",
+    "icono": "fas fa-volume-up"
+  },
+  {
+    "id": 53,
+    "frase": "Hablar susurrando una ronda.",
+    "icono": "fas fa-volume-down"
+  },
+  {
+    "id": 54,
+    "frase": "No decir palabrotas una ronda.",
+    "icono": "fas fa-comment-slash"
+  },
+  {
+    "id": 55,
+    "frase": "Hablar muy lento una ronda.",
+    "icono": "fas fa-user-clock"
+  },
+  {
+    "id": 56,
+    "frase": "Estar ciego una ronda.",
+    "icono": "fas fa-eye-slash"
+  },
+  {
+    "id": 57,
+    "frase": "Empiezas con el Tapón, si te responden con sí o no lo pasas.",
+    "icono": "fas fa-skull-crossbones"
+  },
+  {
+    "id": 58,
+    "frase": "Quitarte una prenda y dársela a alguien.",
+    "icono": "fas fa-tshirt"
+  },
+  {
+    "id": 59,
+    "frase": "Moverte muy lento una ronda.",
+    "icono": "fas fa-user-clock"
+  },
+  {
+    "id": 60,
+    "frase": "Jugar al teléfono estropeado.",
+    "icono": "fas fa-phone-slash"
   }
 ]

@@ -233,5 +233,75 @@
     "id": 46,
     "frase": "He viajado al extranjero.",
     "icono": "fas fa-plane"
+  },
+  {
+    "id": 47,
+    "frase": "He hecho más de 50km para follar.",
+    "icono": "fas fa-paper-plane"
+  },
+  {
+    "id": 48,
+    "frase": "He perdido la virginidad.",
+    "icono": "fas fa-times"
+  },
+  {
+    "id": 49,
+    "frase": "Me he caído en público.",
+    "icono": "fas fa-male fa-rotate-90"
+  },
+  {
+    "id": 50,
+    "frase": "He visto hentai.",
+    "icono": "fab fa-youtube"
+  },
+  {
+    "id": 51,
+    "frase": "He visto anime.",
+    "icono": "fab fa-youtube"
+  },
+  {
+    "id": 52,
+    "frase": "He visto 2 girls 1 cup.",
+    "icono": "fab fa-youtube"
+  },
+  {
+    "id": 53,
+    "frase": "He ocultado un tatuaje.",
+    "icono": "fas fa-pen"
+  },
+  {
+    "id": 54,
+    "frase": "He ido al zoo.",
+    "icono": "fas fa-paw"
+  },
+  {
+    "id": 55,
+    "frase": "He ido al acuario.",
+    "icono": "fas fa-fish"
+  },
+  {
+    "id": 56,
+    "frase": "He ido a la bolera.",
+    "icono": "fas fa-bowling-ball"
+  },
+  {
+    "id": 57,
+    "frase": "He hecho ski/snowboard.",
+    "icono": "fas fa-snowboarding"
+  },
+  {
+    "id": 58,
+    "frase": "He suspendido más de 2 asignaturas.",
+    "icono": "fas fa-times"
+  },
+  {
+    "id": 59,
+    "frase": "Me he metido en una pelea.",
+    "icono": "fas fa-fist-raised"
+  },
+  {
+    "id": 60,
+    "frase": "He comido lamprea.",
+    "icono": "fas fa-fish"
   }
 ]

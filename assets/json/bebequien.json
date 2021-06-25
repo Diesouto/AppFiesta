@@ -228,5 +228,80 @@
     "id": 45,
     "frase": "Sea ateo/agnóstico.",
     "icono": "fas fa-cross"
+  },
+  {
+    "id": 46,
+    "frase": "Conozca el monstruo del espagueti volador.",
+    "icono": "fas fa-pastafarianism"
+  },
+  {
+    "id": 47,
+    "frase": "Sea aries.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 48,
+    "frase": "Sea tauro.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 49,
+    "frase": "Sea géminis.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 50,
+    "frase": "Sea cáncer.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 51,
+    "frase": "Sea leo.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 52,
+    "frase": "Sea virgo.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 53,
+    "frase": "Sea libra.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 54,
+    "frase": "Sea escorpio.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 55,
+    "frase": "Sea sagitario.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 56,
+    "frase": "Sea capricornio.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 57,
+    "frase": "Sea acuario.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 58,
+    "frase": "Sea piscis.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 59,
+    "frase": "Haya viajado a más de 3 países.",
+    "icono": "fas fa-plane"
+  },
+  {
+    "id": 60,
+    "frase": "Haya ido en barco.",
+    "icono": "fas fa-ship"
   }
 ]
