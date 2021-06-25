@@ -303,5 +303,10 @@
     "id": 60,
     "frase": "Jugar al teléfono estropeado.",
     "icono": "fas fa-phone-slash"
+  },
+  {
+    "id": 61,
+    "frase": "Cantar una canción con la palabra que te digan.",
+    "icono": "fas fa-music"
   }
 ]

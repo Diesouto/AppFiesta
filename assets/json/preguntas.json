@@ -303,5 +303,30 @@
     "id": 60,
     "frase": "Qué mascota tendrías ahora mismo?",
     "icono": "fas fa-question"
+  },
+  {
+    "id": 61,
+    "frase": "Cantante favorito?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 62,
+    "frase": "Última canción que has escuchado?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 63,
+    "frase": "Lo más caro que hayas robado?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 64,
+    "frase": "Cómo llamarías a tus hijos?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 65,
+    "frase": "Cuando fue la última vez que lloraste?",
+    "icono": "fas fa-question"
   }
 ]

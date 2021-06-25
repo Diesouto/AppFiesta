@@ -303,5 +303,45 @@
     "id": 60,
     "frase": "Haya ido en barco.",
     "icono": "fas fa-ship"
+  },
+  {
+    "id": 61,
+    "frase": "Sea hetero.",
+    "icono": "fas fa-venus-mars"
+  },
+  {
+    "id": 62,
+    "frase": "Le guste la pizza con piña.",
+    "icono": "fas fa-pizza-slice"
+  },
+  {
+    "id": 63,
+    "frase": "Beben zurdos.",
+    "icono": "fas fa-hand-paper"
+  },
+  {
+    "id": 64,
+    "frase": "Beben diestros.",
+    "icono": "fas fa-hand-paper"
+  },
+  {
+    "id": 65,
+    "frase": "Toque un instrumento.",
+    "icono": "fas fa-guitar"
+  },
+  {
+    "id": 66,
+    "frase": "Tenga carnet de conducir.",
+    "icono": "fas fa-id-card"
+  },
+  {
+    "id": 67,
+    "frase": "Hable más de 1 idioma.",
+    "icono": "fas fa-flag"
+  },
+  {
+    "id": 68,
+    "frase": "Haya llorado recientemente.",
+    "icono": "fas fa-sad-tear"
   }
 ]
