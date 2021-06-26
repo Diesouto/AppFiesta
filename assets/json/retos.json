@@ -328,5 +328,30 @@
     "id": 65,
     "frase": "Todos os cambiais de sitio.",
     "icono": "fas fa-chair"
+  },
+  {
+    "id": 66,
+    "frase": "Anunciar que te vas a abrir un Onlyfans.",
+    "icono": "fas fa-coins"
+  },
+  {
+    "id": 67,
+    "frase": "Ponerte algo en la frente y cogerlo con la boca sin usar las manos.",
+    "icono": "fas fa-handshake-slash"
+  },
+  {
+    "id": 68,
+    "frase": "Si te miran a los ojos bebes.",
+    "icono": "fas fa-eye"
+  },
+  {
+    "id": 70,
+    "frase": "Encestar en un vaso, si fallas bebes.",
+    "icono": "fas fa-glass-whiskey"
+  },
+  {
+    "id": 71,
+    "frase": "Beberte un chupito en un tapón.",
+    "icono": "fas fa-glass-whiskey"
   }
 ]

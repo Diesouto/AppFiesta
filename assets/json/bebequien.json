@@ -343,5 +343,15 @@
     "id": 68,
     "frase": "Haya llorado recientemente.",
     "icono": "fas fa-sad-tear"
+  },
+  {
+    "id": 69,
+    "frase": "Juegue al fútbol.",
+    "icono": "fas fa-futbol"
+  },
+  {
+    "id": 70,
+    "frase": "Juegue al baloncesto.",
+    "icono": "fas fa-basketball-ball"
   }
 ]
