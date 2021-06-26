@@ -308,5 +308,25 @@
     "id": 61,
     "frase": "Cantar una canción con la palabra que te digan.",
     "icono": "fas fa-music"
+  },
+  {
+    "id": 62,
+    "frase": "Cambiarte de sitio con el de enfrente.",
+    "icono": "fas fa-chair"
+  },
+  {
+    "id": 63,
+    "frase": "Cambiarte de sitio con el de tu derecha.",
+    "icono": "fas fa-chair"
+  },
+  {
+    "id": 64,
+    "frase": "Cambiarte de sitio con el de tu izquierda.",
+    "icono": "fas fa-chair"
+  },
+  {
+    "id": 65,
+    "frase": "Todos os cambiais de sitio.",
+    "icono": "fas fa-chair"
   }
 ]
