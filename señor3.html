@@ -39,7 +39,7 @@
 		<div id="kt_header_mobile" class="bg-warning header-mobile align-items-center header-mobile-fixed d-flex justify-content-between bd-highlight">
 			<a href="juegos.html"><h6 class="p-2 bd-highlight"><i class="fas fa-arrow-left text-white"></i></h6></a>
 			<h6 class="p-2 bd-highlight text-white text-uppercase">Señor del 3</h6>
-			<h6 class="p-2 bd-highlight"></h6>
+			<h6 class="p-2 bd-highlight" data-toggle="modal" data-target="#tutorial"><i class="fas far fa-question-circle fa-lg text-white"></i></h6>
 		</div>
 		<!--end::Header Mobile-->
 		<div class="d-flex flex-column flex-root">
@@ -53,7 +53,7 @@
 						<div class="container-fluid d-flex justify-content-between header-menu-wrapper pt-5">
 							<a href="juegos.html"><h6 class="p-3 pl-4 bd-highlight"><i class="fas fa-arrow-left text-white"></i></h6></a>
 							<h6 class="p-3 bd-highlight text-white text-uppercase">Señor del 3</h6>
-							<h6 class="p-3 bd-highlight"></h6>
+							<h6 class="p-3 bd-highlight" data-toggle="modal" data-target="#tutorial"><i class="fas far fa-question-circle fa-lg text-white"></i></h6>
 						</div>
 						<!--end::Container-->
 					</div>
@@ -132,12 +132,12 @@
 		<!--end::Main-->
 
 		<!-- Button trigger modal-->
-		<button id="btnTutorial" style="visibility: hidden;" type="button" class="btn btn-dark" data-toggle="modal" data-target="#exampleModalScrollable">
+		<button id="btnTutorial" style="visibility: hidden;" type="button" class="btn btn-dark" data-toggle="modal" data-target="#tutorial">
 			Cómo jugar
 		</button>
 
 		<!-- Modal-->
-		<div class="modal fade" id="exampleModalScrollable" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
+		<div class="modal fade" id="tutorial" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
 			<div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -147,8 +147,15 @@
 						</button>
 					</div>
 					<div class="modal-body" style="height: 300px;">
-						<h5>Antes de empezar a jugar se hará una ronda previa tirando con dos dados para averiguar quien será señor del tres. <br/><br/>Si te sale un tres, serás señor del tres, si te salen parejas serás doble señor del tres. Lo ideal es que al menos la mitad de los jugadores de la mesa sean señores del tres, así que se harán las rondas completas necesarias para llegar aproximadamente a esta proporción.</h5>
-						<h5>Una vez hecho esto, se comienzan las tiradas, que se sujetarán a las siguientes normas: <br/><br/>
+						<h5><strong>Antes de empezar a jugar:</strong> debéis hacer una ronda previa tirando hasta que por lo menos la mitad seáis señores del 3. 
+							<br/><br/>
+							<ul>
+								<li>Si te sale un tres: serás señor del tres (bebes si sale un 3).</li> 
+								<li>Si te salen parejas: serás doble señor del tres (bebes el doble si sale un 3).</li> 
+							</ul>
+							Tras la ronda de iniciación, simplemente tirad los dados y el juego ya os irá diciendo qué hacer. :)
+						</h5>
+						<!-- <h5>Una vez hecho esto, se comienzan las tiradas, que se sujetarán a las siguientes normas: <br/><br/>
 							<ul>
 								<li>Si la suma de los dados es <b>siete</b>, bebe el jugador de la izquierda</li>
 								<li>Si la suma de los dados es <b>nueve</b>, bebe el jugador de la derecha</li>
@@ -159,7 +166,7 @@
 								<li>El jugador que no saque nada, esto es, ni siete, ni ocho, ni nueve, ni parejas, ni ningún tres, beberá.</li>
 								<li>Dada la naturaleza del juego, cualquier jugador que tire sin que todos los vasos estén llenos, beberá y perderá el turno, al igual que si se le caen los dados.</li>
 							</ul>
-						</h5>
+						</h5> -->
 					</div>
 				</div>
 			</div>
@@ -207,7 +214,7 @@
 						texto = "Bebe el de tu derecha. ";
 						break;
 					case 8:
-						texto = "Bebéis todos, el último en decir 'Mierda' bebe otra vez. ";
+						texto = "El último en decir 'Mierda' después de beber, bebe otra vez. ";
 						break;
 					default:
 						texto = "Mala suerte, bebes! ";
@@ -232,7 +239,7 @@
 				}
 
 				if(dado1 == 4 && dado2 == 4) {
-					texto += "Bebéis todos y ponéis una regla.";
+					texto += "Ponéis una regla.";
 				}
 
 				$("#frase").text(texto);

@@ -29,12 +29,17 @@
 	<!--end::Head-->
 	<!--begin::Body-->
 	<body id="kt_body" class="quick-panel-right demo-panel-right offcanvas-right header-fixed header-mobile-fixed subheader-enabled">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FS8GGP" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
 		<!--begin::Main-->
 		<!--begin::Header Mobile-->
 		<div id="kt_header_mobile" class="bg-warning header-mobile align-items-center header-mobile-fixed d-flex justify-content-between bd-highlight">
 			<a href="juegos.html"><h6 class="p-2 bd-highlight"><i class="fas fa-arrow-left text-white"></i></h6></a>
-			<h6 class="p-2 bd-highlight text-white text-uppercase">Aleatorio</h6>
-			<h6 class="p-2 bd-highlight" data-toggle="modal" data-target="#modosJuego"><i class="fas fa-ellipsis-v fa-lg text-white"></i></h6>
+			<h6 class="p-2 bd-highlight text-white text-uppercase">Ruleta rusa</h6>
+			<h6 class="p-2 bd-highlight" data-toggle="modal" data-target="#tutorial"><i class="fas far fa-question-circle fa-lg text-white"></i></h6>
 		</div>
 		<!--end::Header Mobile-->
 		<div class="d-flex flex-column flex-root">
@@ -47,8 +52,8 @@
 						<!--begin::Container-->
 						<div class="container-fluid d-flex justify-content-between header-menu-wrapper pt-5">
 							<a href="juegos.html"><h6 class="p-3 pl-4 bd-highlight"><i class="fas fa-arrow-left text-white"></i></h6></a>
-							<h6 class="p-3 bd-highlight text-white text-uppercase">Aleatorio</h6>
-							<h6 class="p-3 bd-highlight" data-toggle="modal" data-target="#modosJuego"><i class="fas fa-ellipsis-v text-white"></i></h6>
+							<h6 class="p-3 bd-highlight text-white text-uppercase">Ruleta rusa</h6>
+							<h6 class="p-3 bd-highlight" data-toggle="modal" data-target="#tutorial"><i class="fas far fa-question-circle fa-lg text-white"></i></h6>
 						</div>
 						<!--end::Container-->
 					</div>
@@ -66,22 +71,27 @@
 											<div class="pt-5 px-10 px-lg-20">
 												<!--begin::Content-->
 												<div class="d-flex flex-column flex-left pt-20 pb-10">
-													<h4 id="titulo" class="font-size-h6 d-block d-block font-weight-bold text-white pb-5"></h4>
-													<div class="d-flex justify-content-left pb-5">
-														<span id="frase" style="font-size: 2.3em!important;" class="font-weight-bolder display-4 text-white align-self-center"></span>
+													<h3 style="font-size: 1.5em!important;" class="d-block d-block font-weight-bold text-white pb-5">Balas:</h3>
+													<div class="d-flex justify-content-between pb-5">
+															<i id="bala1" style="font-size: 3em;" class="text-white far fa-dot-circle"></i>
+															<i id="bala2" style="font-size: 3em;" class="text-white far fa-dot-circle"></i>
+															<i id="bala3" style="font-size: 3em;" class="text-white far fa-dot-circle"></i>
+															<i id="bala4" style="font-size: 3em;" class="text-white far fa-dot-circle"></i>
+															<i id="bala5" style="font-size: 3em;" class="text-white far fa-dot-circle"></i>
+															<i id="bala6" style="font-size: 3em;" class="text-white far fa-dot-circle"></i>
 													</div>
 												</div>
 												<!--end::Content-->
 												<!--begin::Icon-->
-												<div class="d-flex flex-center position-relative py-20 animacion">
-													<i id="icono" style="font-size: 15em;" class="text-white"></i>
+												<div class="d-flex flex-center position-relative py-20">
+													<i id="icono" style="font-size: 15em;" class="text-white fab fa-rev"></i>
 												</div>
 												<!--end::Icon-->
 												<!--begin::Content-->
 												<div class="d-flex flex-column flex-left pb-10">
 													<!-- <a href="yonunca.html" class="btn btn-dark text-uppercase text-white font-weight-bolder px-16 py-4">Otra</a> -->
 													<div class="d-flex flex-column flex-center pt-10">
-														<button onclick="cargarContenido()" class="btn btn-dark rounded-circle h-60px w-60px"><i style="font-size: 2em;" class="fas fa-redo-alt p-0"></i></button>
+														<button onclick="disparar()" class="btn btn-dark rounded-circle h-60px w-60px"><i style="font-size: 2em;" class="fas fa-skull-crossbones p-0"></i></button>
 													</div>
 												</div>
 												<!--end::Content-->
@@ -126,38 +136,23 @@
 		<!--end::Main-->
 
 		<!-- Modal-->
-		<div class="modal fade" id="modosJuego" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
+		<div class="modal fade" id="tutorial" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
 			<div class="modal-dialog modal-dialog-centered" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-						<h5 class="modal-title" id="exampleModalLabel">Selecciona los modos de juego</h5>
+						<h5 class="modal-title" id="exampleModalLabel">Cómo jugar</h5>
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 							<i aria-hidden="true" class="ki ki-close"></i>
 						</button>
 					</div>
 					<div class="modal-body">
-						<div class="checkbox-list">
-							<label class="checkbox checkbox-warning">
-								<input id="chk1" onclick="cargarTemas()" type="checkbox" checked="checked" name="Checkboxes1"/>
-								<span></span>
-								Yo nunca
-							</label>
-							<label class="checkbox checkbox-warning">
-								<input id="chk2" onclick="cargarTemas()" type="checkbox" checked="checked" name="Checkboxes1"/>
-								<span></span>
-								Preguntas
-							</label>
-							<label class="checkbox checkbox-warning">
-								<input id="chk3" onclick="cargarTemas()" type="checkbox" checked="checked" name="Checkboxes1"/>
-								<span></span>
-								Retos
-							</label>
-							<label class="checkbox checkbox-warning">
-								<input id="chk4" onclick="cargarTemas()" type="checkbox" checked="checked" name="Checkboxes1"/>
-								<span></span>
-								Bebe quien
-							</label>
-						</div>
+						<h5>El objetivo del juego es que no te de la bala. En cada turno podrás hacer lo siguiente: 
+							<br/><br/>
+							<ul>
+								<li>1. Confiar en tu suerte y disparar: pero si hay bala bebes.</li> <br/>
+								<li>2. Confiar en que hay bala y disparar a alguien: si aciertas bebe esa persona, si no bebes 2 tragos de castigo.</li>
+							</ul>
+						</h5>
 					</div>
 				</div>
 			</div>
@@ -169,86 +164,51 @@
 		<!--end::Global Config-->
 		<!--begin::Global Theme Bundle(used by all pages)-->
 		<script src="assets/plugins/global/plugins.bundle.js?v=2.1.1"></script>
-		<!-- <script src="assets/plugins/custom/prismjs/prismjs.bundle.js?v=2.1.1"></script> -->
 		<script src="assets/js/scripts.bundle.js?v=2.1.1"></script>
 		<!--end::Global Theme Bundle-->
 
-		<!-- Greensock animations -->
-		<!-- <script src="assets/js/pages/features/greensock/gsap.min.js"></script>
 		<script>
-			animar();
 
-			function animar() {
-				gsap.to(".animacion", {
-				y: 20,
-				duration: 1.5,
-				repeat: -1,
-				yoyo: true,
-				});
-			}
-		</script> -->
+			//Variables globales
+			var balas = 1;
+			var random = Math.floor(Math.random() *6) + 1;
 
-		<script>
-			var jsonAleatorio = [];
+			cargarJuego();
 
-			try {
-				cargarTemas();
-				cargarContenido();
-			} catch (error) {
-				console.error(error);
-			}
+			function cargarJuego() {
+				//Indicar número de disparos
+				balas = 1;
 
-			function cargarTemas() {
-				jsonAleatorio = [];
-
-				if($('#chk1').prop('checked')) {
-					jsonAleatorio.push("yonunca"); 
+				//Colocar iconos balas 
+				for(var i=1; i<7; i++) {
+					$('#bala'+i).removeClass();
+					$('#bala'+i).addClass("text-white far fa-dot-circle");
 				}
-				if($('#chk2').prop('checked')) {
-					jsonAleatorio.push("preguntas"); 
-				}
-				if($('#chk3').prop('checked')) {
-					jsonAleatorio.push("retos"); 
-				}
-				if($('#chk4').prop('checked')) {
-					jsonAleatorio.push("bebequien"); 
-				}
+
+				//Cargar posición bala
+				random = Math.floor(Math.random() *6) + 1;
 			}
 
-			function cargarContenido() {
+			function disparar() {
+				if(balas == random) {
+					//moriste
+					Swal.fire({
+						title: "Bang!",
+						text: "¡Había bala!",
+						timer: 3000,
+						icon: "warning",
+						customClass: {
+							confirmButton: "btn btn-warning"
+						}
+					});
 
-				//Generar nº aleatorio (0-max)
-				var max = 70;
-				var random = Math.floor(Math.random() * (max)); 
-
-				var randomTema = Math.floor(Math.random() * (jsonAleatorio.length)); //var randomTema = Math.floor(Math.random() * (4));
-
-				//Leer fichero json
-				var filePath = "assets/json/" + jsonAleatorio[randomTema] +".json";
-				var data = $.getJSON(filePath, function(json) {
-					//mostrar datos
-					var item = data.responseJSON[random];
-
-					//Mostrar en pantalla
-					$('#frase').text(item.frase);
-					$('#icono').removeClass();
-					$('#icono').addClass(item.icono + " text-white animacion");
-
-					switch(jsonAleatorio[randomTema]){
-						case "yonunca":
-							$("#titulo").text("Yo nunca...");
-							break;
-						case "bebequien":
-							$("#titulo").text("Bebe quien...");
-							break;
-						case "retos":
-							$("#titulo").text("Te reto a...");
-							break;
-						case "preguntas":
-							$("#titulo").text("Pregunta...");
-							break;
-					}
-				});
+					cargarJuego();
+				}
+				else {
+					$('#bala'+balas).removeClass();
+					$('#bala'+balas).addClass("text-white fas fa-circle");
+					balas++;
+				}
 			}
 		</script>
 
