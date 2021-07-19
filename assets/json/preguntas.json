@@ -21,7 +21,7 @@
   },
   {
     "id": 4,
-    "frase": "Te han mandado nudes? Hace poco?.",
+    "frase": "Te han mandado nudes? Hace poco?",
     "icono": "fas fa-question"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "id": 6,
-    "frase": "Culo o tetas?.",
+    "frase": "Culo o tetas?",
     "icono": "fas fa-question"
   },
   {
@@ -211,27 +211,27 @@
   },
   {
     "id": 42,
-    "frase": "Más probable que se duerma antes?",
+    "frase": "Most likely to dormirse antes?",
     "icono": "fas fa-question"
   },
   {
     "id": 43,
-    "frase": "Más probable que acabe siendo presidente?",
+    "frase": "Most likely to acabar siendo presidente?",
     "icono": "fas fa-question"
   },
   {
     "id": 44,
-    "frase": "Más probable que atraque un banco?",
+    "frase": "Most likely to atracar un banco?",
     "icono": "fas fa-question"
   },
   {
     "id": 45,
-    "frase": "Más probable que acabe en Portugal una noche de borrachera?",
+    "frase": "Most likely to acabar en Portugal una noche de borrachera?",
     "icono": "fas fa-question"
   },
   {
     "id": 46,
-    "frase": "Más probable que ligue en una discoteca?",
+    "frase": "Most likely to ligar en una discoteca?",
     "icono": "fas fa-question"
   },
   {
@@ -251,7 +251,7 @@
   },
   {
     "id": 50,
-    "frase": "Más probable que acabe la noche con un grupo distinto?",
+    "frase": "Most likely to acabar la noche con un grupo distinto?",
     "icono": "fas fa-question"
   },
   {
@@ -356,7 +356,172 @@
   },
   {
     "id": 71,
-    "frase": "Harías algún deporte de riesgo?.",
+    "frase": "Harías algún deporte de riesgo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 72,
+    "frase": "Experimentarías/Experimentaste con tu sexualidad?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 73,
+    "frase": "Has comprado en Aliexpress?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 74,
+    "frase": "Has creado una cuenta falsa para stalkear a alguien?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 75,
+    "frase": "Has dado calabazas?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 76,
+    "frase": "Has ligado con un extranjerx?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 77,
+    "frase": "Has ido de festival?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 78,
+    "frase": "Enseña alguna habilidad rara que tengas.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 79,
+    "frase": "Di algún dato random.",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 80,
+    "frase": "Saldrías con alguien presente?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 81,
+    "frase": "Qué estudiarías ahora mismo en la universidad?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 82,
+    "frase": "Most likely to hacerse un bocata de nocilla con chorizo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 83,
+    "frase": "Most likely to copiar en un examen?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 84,
+    "frase": "Most likely to mentir para no salir?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 85,
+    "frase": "Most likely to hacerse antidisturbios para pegarle a la gente?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 86,
+    "frase": "Most likely to acabar en una estafa piramidal?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 87,
+    "frase": "Most likely to adoptar 20 perros/gatos?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 88,
+    "frase": "Most likely to follarse a un animal?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 89,
+    "frase": "Most likely to mentir para liarse con alguien?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 90,
+    "frase": "Most likely to fumarse un porro?",
+    "icono": "fas fa-cannabis"
+  },
+  {
+    "id": 91,
+    "frase": "Most likely to acabar viviendo en el extranjero?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 92,
+    "frase": "Most likely to casarse con unx famosx?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 93,
+    "frase": "Most likely to ser un pajas?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 94,
+    "frase": "Most likely to ganar un premio Nobel?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 95,
+    "frase": "Hacer el ridículo en público?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 96,
+    "frase": "Most likely to meterse en una pelea?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 97,
+    "frase": "Most likely to ser arrestado?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 98,
+    "frase": "Most likely to morir en un apocalipsis zombie?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 99,
+    "frase": "Most likely to enamorarse de un desconocido?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 100,
+    "frase": "Most likely to ganar las Olimpiadas?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 101,
+    "frase": "Most likely to escribir un best-seller?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 102,
+    "frase": "Most likely to ir a la Isla de las Tentaciones?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 103,
+    "frase": "Most likely to reírse en un mal momento?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 104,
+    "frase": "Most likely to unirse al circo?",
     "icono": "fas fa-question"
   }
 ]

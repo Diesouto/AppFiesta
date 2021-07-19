@@ -327,7 +327,7 @@
   {
     "id": 65,
     "frase": "He usado el móvil en el trabajo.",
-    "icono": "fas fa-mobile"
+    "icono": "fas fa-mobile-alt"
   },
   {
     "id": 66,
@@ -358,5 +358,110 @@
     "id": 71,
     "frase": "Lo he hecho sin protección.",
     "icono": "fas fa-shield-alt"
+  },
+  {
+    "id": 72,
+    "frase": "Me he echado Vaginesil donde no debía.",
+    "icono": "fas fa-prescription-bottle"
+  },
+  {
+    "id": 73,
+    "frase": "Me he pateado 100km Cristiñade-Ponteareas.",
+    "icono": "fas fa-shoe-prints"
+  },
+  {
+    "id": 74,
+    "frase": "He estado inscrito en el Polideportivo de Ponteareas.",
+    "icono": "fas fa-swimmer"
+  },
+  {
+    "id": 75,
+    "frase": "Me he echo una PCR.",
+    "icono": "fas fa-virus"
+  },
+  {
+    "id": 76,
+    "frase": "He roto una mascarilla en medio de la calle.",
+    "icono": "fas fa-head-side-mask"
+  },
+  {
+    "id": 77,
+    "frase": "Me he liado con alguien bajándole la mascarilla.",
+    "icono": "fas fa-head-side-mask"
+  },
+  {
+    "id": 78,
+    "frase": "He tenido covid.",
+    "icono": "fas fa-head-side-virus"
+  },
+  {
+    "id": 79,
+    "frase": "He hecho un directo en Twitch.",
+    "icono": "fab fa-twitch"
+  },
+  {
+    "id": 80,
+    "frase": "He usado Fleets.",
+    "icono": "fab fa-twitter"
+  },
+  {
+    "id": 81,
+    "frase": "He usado las historias de Whatsapp.",
+    "icono": "fab fa-whatsapp"
+  },
+  {
+    "id": 82,
+    "frase": "Me han llamado la atención mis vecinos.",
+    "icono": "fas fa-cannabis"
+  },
+  {
+    "id": 83,
+    "frase": "Me he ido de casa rural.",
+    "icono": "fas fa-home"
+  },
+  {
+    "id": 84,
+    "frase": "He ido en caravana.",
+    "icono": "fas fa-caravan"
+  },
+  {
+    "id": 85,
+    "frase": "He pagado una multa.",
+    "icono": "fas fa-tachometer-alt"
+  },
+  {
+    "id": 86,
+    "frase": "He tenido miedo de darle a compartir pantalla sin querer.",
+    "icono": "fab fa-chromecast"
+  },
+  {
+    "id": 87,
+    "frase": "He hecho crossdressing.",
+    "icono": "fas fa-restroom"
+  },
+  {
+    "id": 88,
+    "frase": "He ido a un funeral.",
+    "icono": "fas fa-cross"
+  },
+  {
+    "id": 89,
+    "frase": "He disparado un arma.",
+    "icono": "fas fa-crosshairs"
+  },
+  {
+    "id": 90,
+    "frase": "He programado/diseñado una aplicación o web.",
+    "icono": "fas fa-code"
+  },
+  {
+    "id": 91,
+    "frase": "He bebido vodka con limón.",
+    "icono": "fas fa-lemon"
+  },
+  {
+    "id": 92,
+    "frase": "He estado con alguien mucho menor.",
+    "icono": "fas fa-sort-numeric-down"
   }
 ]

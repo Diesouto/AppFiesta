@@ -353,5 +353,120 @@
     "id": 70,
     "frase": "Juegue al baloncesto.",
     "icono": "fas fa-basketball-ball"
+  },
+  {
+    "id": 71,
+    "frase": "Se llame David.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 72,
+    "frase": "Tenga un gemelo.",
+    "icono": "fas fa-user-friends"
+  },
+  {
+    "id": 73,
+    "frase": "Se llame Santi.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 74,
+    "frase": "Se llame Pablo.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 75,
+    "frase": "Se llame Ivo.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 76,
+    "frase": "Se llame Silvia.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 77,
+    "frase": "Se llame Sheila.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 78,
+    "frase": "Se llame Zaira.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 79,
+    "frase": "Se llame Diego.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 80,
+    "frase": "Tenga un segundo nombre.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 81,
+    "frase": "Haya tenido un huerto.",
+    "icono": "fas fa-cannabis"
+  },
+  {
+    "id": 82,
+    "frase": "Te parezca más guapx.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 83,
+    "frase": "Use el modo oscuro de Insta/Whatsapp.",
+    "icono": "fas fa-moon"
+  },
+  {
+    "id": 84,
+    "frase": "Se haya bañado más recientemente.",
+    "icono": "fas fa-hot-tub"
+  },
+  {
+    "id": 85,
+    "frase": "Te parezca más listo.",
+    "icono": "fas fa-glasses"
+  },
+  {
+    "id": 86,
+    "frase": "Te parezca más gracioso.",
+    "icono": "fas fa-laugh-beam"
+  },
+  {
+    "id": 87,
+    "frase": "Te parezca más ebrio.",
+    "icono": "fas fa-wine-bottle"
+  },
+  {
+    "id": 88,
+    "frase": "Te parezca más sobrio.",
+    "icono": "fas fa-wine-bottle"
+  },
+  {
+    "id": 89,
+    "frase": "Haya trabajado en Citroën.",
+    "icono": "fas fa-car"
+  },
+  {
+    "id": 90,
+    "frase": "Use iPhone.",
+    "icono": "fab fa-apple"
+  },
+  {
+    "id": 91,
+    "frase": "Use Android.",
+    "icono": "fab fa-android"
+  },
+  {
+    "id": 92,
+    "frase": "Sea adoptado.",
+    "icono": "fas fa-child"
+  },
+  {
+    "id": 93,
+    "frase": "Tenga su cumpleaños más cerca.",
+    "icono": "fas fa-birthday-cake"
   }
 ]

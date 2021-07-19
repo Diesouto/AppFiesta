@@ -353,5 +353,105 @@
     "id": 71,
     "frase": "Beberte un chupito en un tapón.",
     "icono": "fas fa-glass-whiskey"
+  },
+  {
+    "id": 72,
+    "frase": "Usar tu mejor frase de ligoteo.",
+    "icono": "fas fa-comment-dots"
+  },
+  {
+    "id": 73,
+    "frase": "Subir un story fingiendo que haces un boomerang.",
+    "icono": "fab fa-instagram"
+  },
+  {
+    "id": 74,
+    "frase": "Hacerte un chupito en el ombligo de alguien.",
+    "icono": "fas fa-glass-whiskey"
+  },
+  {
+    "id": 75,
+    "frase": "Decir 3 cantantes de BTS o beber.",
+    "icono": "fas fa-music"
+  },
+  {
+    "id": 76,
+    "frase": "Decir 5 campeones del LoL en 10 segundos.",
+    "icono": "fas fa-gamepad"
+  },
+  {
+    "id": 77,
+    "frase": "Decir 5 campeones del LoL en 10 segundos.",
+    "icono": "fas fa-gamepad"
+  },
+  {
+    "id": 78,
+    "frase": "Dale un sorbo de tu copa al que te parezca más guapx.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 79,
+    "frase": "Bebe quien te parezca más guapx.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 80,
+    "frase": "Decir 3 lenguajes de programación.",
+    "icono": "fas fa-code"
+  },
+  {
+    "id": 81,
+    "frase": "Decir 5 animales en 10 segundos.",
+    "icono": "fas fa-paw"
+  },
+  {
+    "id": 82,
+    "frase": "Hacerle un chupón al de tu derecha.",
+    "icono": "fas fa-splotch"
+  },
+  {
+    "id": 83,
+    "frase": "Hacerle un chupón al de tu izquierda.",
+    "icono": "fas fa-splotch"
+  },
+  {
+    "id": 84,
+    "frase": "Rajar de la persona de tu izquierda.",
+    "icono": "fas fa-comment-slash"
+  },
+  {
+    "id": 85,
+    "frase": "Rajar de la persona de tu derecha.",
+    "icono": "fas fa-comment-slash"
+  },
+  {
+    "id": 86,
+    "frase": "Cruzar la habitación sujetando algo entre tu culo y la entrepierna de otra persona.",
+    "icono": "fas fa-dolly"
+  },
+  {
+    "id": 87,
+    "frase": "Comerte un limón.",
+    "icono": "fas fa-lemon"
+  },
+  {
+    "id": 88,
+    "frase": "Enseñar tu foto del dni/carné de conducir.",
+    "icono": "fas fa-address-card"
+  },
+  {
+    "id": 89,
+    "frase": "Haz una foto de novios con otra persona.",
+    "icono": "fas fa-image"
+  },
+  {
+    "id": 90,
+    "frase": "Pon una canción, si a los demás no les gusta bebes.",
+    "icono": "fas fa-music"
+  },
+  {
+    "id": 91,
+    "frase": "Di un lío de las personas presentes, si no sabes alguno bebes.",
+    "icono": "fas fa-heart"
   }
 ]

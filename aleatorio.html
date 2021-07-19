@@ -189,7 +189,7 @@
 		</script> -->
 
 		<script>
-			var max = 70;
+			var max = 90;
 			var jsonAleatorio = [];
 			var listaRepetidos = [[0, max],[1, max],[2, max],[3, max]];
 
@@ -219,7 +219,7 @@
 
 			function cargarContenido() {
 				var iteraciones = 0
-				
+
 				do {
 					var numeroValido = false;
 					var random = Math.floor(Math.random() * (max)); 
@@ -234,7 +234,7 @@
 					if(iteraciones == 100){
 						Swal.fire({
 							title: "¡Has llegado al final!",
-							text: "Ya no quedan más retos ni preguntas distintas. Puedes seguir jugando o esperar a que el creador añada más contenido. Gracias por jugar! :)",
+							text: "Ya no quedan más retos ni preguntas distintas. Puedes seguir jugando o esperar a que el creador añada más contenido. ¡Gracias por jugar! :)",
 							icon: "warning",
 							customClass: {
 								confirmButton: "btn btn-warning"
