@@ -70,7 +70,7 @@
 										<div class="col-xl-4 m-0 m-auto">
 											<div class="pt-5 px-10 px-lg-20">
 												<!--begin::Content-->
-												<div class="d-flex flex-column flex-left pt-20 pb-10">
+												<div style="height: 19em!important;" class="d-flex flex-column flex-left pt-20">
 													<h4 class="font-size-h6 d-block d-block font-weight-bold text-white pb-5">Norma</h4>
 													<div class="d-flex justify-content-left pb-5">
 														<span id="frase" style="font-size: 2.3em!important;" class="font-weight-bolder display-4 text-white align-self-center"></span>
@@ -78,7 +78,7 @@
 												</div>
 												<!--end::Content-->
 												<!--begin::Icon-->
-												<div class="d-flex flex-center position-relative py-20">
+												<div class="d-flex flex-center position-relative pt-30 pb-10">
 													<i id="dado1" style="font-size: 15em; margin-right: 0.2em;" class="text-white fas fa-dice-six"></i>
 													<i id="dado2" style="font-size: 15em;" class="text-white fas fa-dice-six"></i>
 												</div>
@@ -151,9 +151,12 @@
 							<br/><br/>
 							<ul>
 								<li>Si te sale un tres: serás señor del tres (bebes si sale un 3).</li> <br/>
-								<li>Si te salen parejas: serás doble señor del tres (bebes el doble si sale un 3).</li> 
+								<li>Si te salen parejas: serás doble señor del tres (bebes el doble que un señor del 3).</li> 
 							</ul>
 							Tras la ronda de iniciación, simplemente tirad los dados y el juego ya os irá diciendo qué hacer. :)
+							<br/><br/>
+							<br/><br/>
+							<span style="font-weight: bold;">Consejo:</span> si sois señores del 3 intentad poner una regla para cambiar los roles, ¡si no estaréis bebiendo todo el rato!
 						</h5>
 					</div>
 				</div>
@@ -202,7 +205,7 @@
 						texto = "Bebe el de tu derecha. ";
 						break;
 					case 8:
-						texto = "El último en decir 'Mierda' después de beber, bebe otra vez. ";
+						texto = "El último en decir 'Mierda' bebe. ";
 						break;
 					default:
 						texto = "Mala suerte, bebes! ";
@@ -211,10 +214,10 @@
 
 				if(dado1 == dado2) {
 					if(texto == "Mala suerte, bebes! ") {
-						texto = "Pareja! Mandas ese número de tragos.";
+						texto = "Pareja! Mandas ese número de tragos. ";
 					}
 					else {
-						texto += "Pareja! Mandas ese número de tragos.";
+						texto += "Pareja! Mandas ese número de tragos. ";
 					}
 				}
 
