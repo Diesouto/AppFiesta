@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "palabra": "Navidad",
+    "taboo1": "Diciembre",
+    "taboo2": "Villancicos",
+    "taboo3": "Árbol",
+    "taboo4": "Papá Noel"
+  },
+  {
+    "id": 1,
+    "palabra": "Pictionary",
+    "taboo1": "Juego",
+    "taboo2": "Dibujar",
+    "taboo3": "Lápiz",
+    "taboo4": "Tablero"
+  }
+]

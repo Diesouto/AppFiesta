@@ -29,12 +29,17 @@
 	<!--end::Head-->
 	<!--begin::Body-->
 	<body id="kt_body" class="quick-panel-right demo-panel-right offcanvas-right header-fixed header-mobile-fixed subheader-enabled">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FS8GGP" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
 		<!--begin::Main-->
 		<!--begin::Header Mobile-->
 		<div id="kt_header_mobile" class="bg-warning header-mobile align-items-center header-mobile-fixed d-flex justify-content-between bd-highlight">
 			<a href="juegos.html"><h6 class="p-2 bd-highlight"><i class="fas fa-arrow-left text-white"></i></h6></a>
-			<h6 class="p-2 bd-highlight text-white text-uppercase">Aleatorio</h6>
-			<h6 class="p-2 bd-highlight" data-toggle="modal" data-target="#modosJuego"><i class="fas fa-ellipsis-v fa-lg text-white"></i></h6>
+			<h6 class="p-2 bd-highlight text-white text-uppercase">Taboo</h6>
+			<h6 id="btnTutorial" class="p-2 bd-highlight" data-toggle="modal" data-target="#tutorial"><i class="fas far fa-question-circle fa-lg text-white"></i></h6>
 		</div>
 		<!--end::Header Mobile-->
 		<div class="d-flex flex-column flex-root">
@@ -47,8 +52,8 @@
 						<!--begin::Container-->
 						<div class="container-fluid d-flex justify-content-between header-menu-wrapper pt-5">
 							<a href="juegos.html"><h6 class="p-3 pl-4 bd-highlight"><i class="fas fa-arrow-left text-white"></i></h6></a>
-							<h6 class="p-3 bd-highlight text-white text-uppercase">Aleatorio</h6>
-							<h6 class="p-3 bd-highlight" data-toggle="modal" data-target="#modosJuego"><i class="fas fa-ellipsis-v text-white"></i></h6>
+							<h6 class="p-3 bd-highlight text-white text-uppercase">Taboo</h6>
+							<h6 class="p-3 bd-highlight" data-toggle="modal" data-target="#tutorial"><i class="fas far fa-question-circle fa-lg text-white"></i></h6>
 						</div>
 						<!--end::Container-->
 					</div>
@@ -65,16 +70,21 @@
 										<div class="col-xl-4 m-0 m-auto">
 											<div class="pt-5 px-10 px-lg-20">
 												<!--begin::Content-->
-												<div style="height: 19em!important;" class="d-flex flex-column flex-left pt-20">
-													<h4 id="titulo" class="font-size-h6 d-block d-block font-weight-bold text-white pb-5"></h4>
-													<div class="d-flex justify-content-left pb-5">
-														<span id="frase" style="font-size: 2.3em!important;" class="font-weight-bolder display-4 text-white align-self-center"></span>
-													</div>
+												<div class="d-flex flex-column flex-left pt-40">
+													<h3 id="palabra" style="font-size: 3em!important;" class="d-block text-center d-block font-weight-bold text-white pb-5">Navidad</h3>
+                                                    <hr style="
+                                                    border: 0;
+                                                    width: 100%;   
+                                                    height: 0.5em;            
+                                                    background-color: white;"/>
 												</div>
 												<!--end::Content-->
 												<!--begin::Icon-->
-												<div class="d-flex flex-center position-relative py-20 animacion">
-													<i id="icono" style="font-size: 15em;" class="text-white"></i>
+												<div class="py-10">
+													<h3 id="taboo1" style="font-size: 1.5em!important;" class="d-block text-center d-block font-weight-bold text-white pb-5">Diciembre</h3>
+													<h3 id="taboo2" style="font-size: 1.5em!important;" class="d-block text-center d-block font-weight-bold text-white pb-5">Villancicos</h3>
+													<h3 id="taboo3" style="font-size: 1.5em!important;" class="d-block text-center d-block font-weight-bold text-white pb-5">Arbol</h3>
+													<h3 id="taboo4" style="font-size: 1.5em!important;" class="d-block text-center d-block font-weight-bold text-white pb-5">Papa Noel</h3>
 												</div>
 												<!--end::Icon-->
 												<!--begin::Content-->
@@ -126,116 +136,70 @@
 		<!--end::Main-->
 
 		<!-- Modal-->
-		<div class="modal fade" id="modosJuego" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
+		<div class="modal fade" id="tutorial" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
 			<div class="modal-dialog modal-dialog-centered" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-						<h5 class="modal-title" id="exampleModalLabel">Selecciona los modos de juego</h5>
+						<h5 class="modal-title" id="exampleModalLabel">Cómo jugar</h5>
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 							<i aria-hidden="true" class="ki ki-close"></i>
 						</button>
 					</div>
 					<div class="modal-body">
-						<div class="checkbox-list">
-							<label class="checkbox checkbox-warning">
-								<input id="chk1" onclick="createRandomJSON()" type="checkbox" checked="checked" name="Checkboxes1"/>
-								<span></span>
-								Yo nunca
-							</label>
-							<label class="checkbox checkbox-warning">
-								<input id="chk2" onclick="createRandomJSON()" type="checkbox" checked="checked" name="Checkboxes1"/>
-								<span></span>
-								Preguntas
-							</label>
-							<label class="checkbox checkbox-warning">
-								<input id="chk3" onclick="createRandomJSON()" type="checkbox" checked="checked" name="Checkboxes1"/>
-								<span></span>
-								Retos
-							</label>
-							<label class="checkbox checkbox-warning">
-								<input id="chk4" onclick="createRandomJSON()" type="checkbox" checked="checked" name="Checkboxes1"/>
-								<span></span>
-								Bebe quien
-							</label>
-						</div>
+						<h5>El objetivo del juego es conseguir describir la palabra que aparece 
+                            sin utilizar ninguna de las que tiene debajo.<br/><br/>
+                            Tendéis que formar equipos para intentar describir el mayor
+                            número de palabras posibles en un tiempo determinado. 
+                            Ganará el equipo que más puntos tenga después de las rondas que decidáis.<br/><br/>
+                            ¡Buena suerte! :)
+						</h5>
 					</div>
 				</div>
 			</div>
 		</div>
 		
 		<script>var HOST_URL = "/keen/theme/tools/preview";</script>
+		<!--begin::Global Config(global config for global JS scripts)-->
 		<script>var KTAppSettings = { "breakpoints": { "sm": 576, "md": 768, "lg": 992, "xl": 1200, "xxl": 1400 }, "colors": { "theme": { "base": { "white": "#ffffff", "primary": "#3E97FF", "secondary": "#E5EAEE", "success": "#08D1AD", "info": "#844AFF", "warning": "#F5CE01", "danger": "#FF3D60", "light": "#E4E6EF", "dark": "#181C32" }, "light": { "white": "#ffffff", "primary": "#DEEDFF", "secondary": "#EBEDF3", "success": "#D6FBF4", "info": "#6125E1", "warning": "#FFF4DE", "danger": "#FFE2E5", "light": "#F3F6F9", "dark": "#D6D6E0" }, "inverse": { "white": "#ffffff", "primary": "#ffffff", "secondary": "#3F4254", "success": "#ffffff", "info": "#ffffff", "warning": "#ffffff", "danger": "#ffffff", "light": "#464E5F", "dark": "#ffffff" } }, "gray": { "gray-100": "#F3F6F9", "gray-200": "#EBEDF3", "gray-300": "#E4E6EF", "gray-400": "#D1D3E0", "gray-500": "#B5B5C3", "gray-600": "#7E8299", "gray-700": "#5E6278", "gray-800": "#3F4254", "gray-900": "#181C32" } }, "font-family": "Poppins" };</script>
+		<!--end::Global Config-->
+		<!--begin::Global Theme Bundle(used by all pages)-->
 		<script src="assets/plugins/global/plugins.bundle.js?v=2.1.1"></script>
 		<script src="assets/js/scripts.bundle.js?v=2.1.1"></script>
+		<!--end::Global Theme Bundle-->
 
 		<script>
-			const bebequienJSON = 'assets/json/bebequien.json';
-			const preguntasJSON = 'assets/json/preguntas.json';
-			const retosJSON = 'assets/json/retos.json';
-			const yonuncaJSON = 'assets/json/yonunca.json';
+			const tabooJSON = 'assets/json/taboo.json';
+            var taboo = [];
 
-			var bebeQuien = []
-			var preguntas = []
-			var retos = []
-			var yoNunca = []
-			var random = []
+            getJSON();
 
-			loadJSONs();
-
-			function loadJSONs() {
-				data1 = $.getJSON(bebequienJSON, function(json) {
-					bebeQuien = data1.responseJSON;
+            function getJSON() {
+                data = $.getJSON(tabooJSON, function(json) {
+					taboo = data.responseJSON;
+                    shuffleArray(taboo);
+					cargarContenido();
 				});
-				data2 = $.getJSON(preguntasJSON, function(json) {
-					preguntas = data2.responseJSON;
-				});
-				data3 = $.getJSON(retosJSON, function(json) {
-					retos = data3.responseJSON;
-				});
-				data4 = $.getJSON(yonuncaJSON, function(json) {
-					yoNunca = data4.responseJSON;
-					createRandomJSON();
-				});
-			}
+            }
 
-			function createRandomJSON() {
-				random = [];
-
-				if($('#chk1').prop('checked')) {
-					random = random.concat(yoNunca);
-				}
-				if($('#chk2').prop('checked')) {
-					random = random.concat(preguntas);
-				}
-				if($('#chk3').prop('checked')) {
-					random = random.concat(retos);
-				}
-				if($('#chk4').prop('checked')) {
-					random = random.concat(bebeQuien);
-				}
-
-				//random = random.concat(bebeQuien, preguntas, retos, yoNunca);
-				shuffleArray(random);
-				cargarContenido();
-			}
-
-			function cargarContenido() {
+            function cargarContenido() {
 				try {
-					const item = random.pop()
+                    console.log(taboo);
+					const item = taboo.pop()
 
-					$("#titulo").text(item.titulo);
-					$('#frase').text(item.frase);
-					$('#icono').removeClass();
-					$('#icono').addClass(item.icono + " text-white animacion");
+					$("#palabra").text(item.palabra);
+					$('#taboo1').text(item.taboo1);
+					$('#taboo2').text(item.taboo2);
+					$('#taboo3').text(item.taboo3);
+					$('#taboo4').text(item.taboo4);
 				} catch {
 					mensajeFinal();
 				}
 			}
 
-			function mensajeFinal() {
+            function mensajeFinal() {
 				Swal.fire({
 						title: "¡Has llegado al final!",
-						text: "Ya no quedan más retos ni preguntas distintas. Puedes seguir jugando o ir a insultar a @diesouto. ¡Gracias por jugar! :)",
+						text: "Ya no quedan más palabras distintas. Puedes seguir jugando o ir a insultar a @diesouto. ¡Gracias por jugar! :)",
 						icon: "warning",
 						customClass: {
 							confirmButton: "btn btn-warning"
@@ -243,14 +207,12 @@
 					});
 			}
 
-			function shuffleArray(array) {
+            function shuffleArray(array) {
 				for (let i = array.length - 1; i > 0; i--) {
 					const j = Math.floor(Math.random() * (i + 1));
 					[array[i], array[j]] = [array[j], array[i]];
 				}
 			}
-			
-			$('#modosJuego').modal('show');
 		</script>
 
 	<!--end::Body-->
