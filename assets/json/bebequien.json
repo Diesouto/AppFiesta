@@ -1,471 +1,565 @@
 [
   {
     "id": 0,
+    "titulo": "Bebe quien...",
     "frase": "Tenga la A en su nombre.",
     "icono": "fab fa-angular"
   },
   {
     "id": 1,
+    "titulo": "Bebe quien...",
     "frase": "Sea hombre.",
     "icono": "fas fa-mars"
   },
   {
     "id": 2,
+    "titulo": "Bebe quien...",
     "frase": "Sea mujer.",
     "icono": "fas fa-venus"
   },
   {
     "id": 3,
+    "titulo": "Bebe quien...",
     "frase": "Tenga el vaso más lleno.",
     "icono": "fas fa-wine-glass"
   },
   {
     "id": 4,
+    "titulo": "Bebe quien...",
     "frase": "Fume.",
     "icono": "fas fa-smoking"
   },
   {
     "id": 5,
+    "titulo": "Bebe quien...",
     "frase": "Lleve ropa interior oscura",
     "icono": "fas fa-columns"
   },
   {
     "id": 6,
+    "titulo": "Bebe quien...",
     "frase": "No sea virgen.",
     "icono": "fas fa-venus-mars"
   },
   {
     "id": 7,
+    "titulo": "Bebe quien...",
     "frase": "La persona que lee elige",
     "icono": "fas fa-hand-point-right"
   },
   {
     "id": 8,
+    "titulo": "Bebe quien...",
     "frase": "Se haya liado con alguien presente.",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
     "id": 9,
+    "titulo": "Bebe quien...",
     "frase": "Se haya liado con más gente.",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
     "id": 10,
+    "titulo": "Bebe quien...",
     "frase": "Tenga piercings",
     "icono": "fas fa-deaf"
   },
   {
     "id": 11,
+    "titulo": "Bebe quien...",
     "frase": "Tenga el vaso en la mano",
     "icono": "fas fa-wine-glass"
   },
   {
     "id": 12,
+    "titulo": "Bebe quien...",
     "frase": "Tenga la E en su nombre",
     "icono": "fab fa-etsy"
   },
   {
     "id": 13,
+    "titulo": "Bebe quien...",
     "frase": "Tenga los ojos marrones",
     "icono": "fas fa-eye"
   },
   {
     "id": 14,
+    "titulo": "Bebe quien...",
     "frase": "Tenga los ojos azules.",
     "icono": "fas fa-eye"
   },
   {
     "id": 15,
+    "titulo": "Bebe quien...",
     "frase": "Ligue más",
     "icono": "fas fa-heart"
   },
   {
     "id": 16,
+    "titulo": "Bebe quien...",
     "frase": "Haya ligado en las últimas 24 horas.",
     "icono": "fas fa-heart"
   },
   {
     "id": 17,
+    "titulo": "Bebe quien...",
     "frase": "Prefiera líos a relaciones.",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
     "id": 18,
+    "titulo": "Bebe quien...",
     "frase": "Vaya más fumado.",
     "icono": "fas fa-joint"
   },
   {
     "id": 19,
+    "titulo": "Bebe quien...",
     "frase": "Le guste el puerto de indias.",
     "icono": "fas fa-wine-glass"
   },
   {
     "id": 20,
+    "titulo": "Bebe quien...",
     "frase": "Esté más moreno.",
     "icono": "fas fa-sun"
   },
   {
     "id": 21,
+    "titulo": "Bebe quien...",
     "frase": "Esté más blanco.",
     "icono": "fas fa-moon"
   },
   {
     "id": 22,
+    "titulo": "Bebe quien...",
     "frase": "Tenga más hermanos.",
     "icono": "fas fa-user-friends"
   },
   {
     "id": 23,
+    "titulo": "Bebe quien...",
     "frase": "Haya vomitado por el alcohol.",
     "icono": "fas fa-wine-bottle"
   },
   {
     "id": 24,
+    "titulo": "Bebe quien...",
     "frase": "Haya visto porno hoy.",
     "icono": "fab fa-youtube"
   },
   {
     "id": 25,
+    "titulo": "Bebe quien...",
     "frase": "Sea el más mandón.",
     "icono": "fas fa-hand-point-up"
   },
   {
     "id": 26,
+    "titulo": "Bebe quien...",
     "frase": "Tenga un juguete sexual.",
     "icono": "fab fa-angellist"
   },
   {
     "id": 27,
+    "titulo": "Bebe quien...",
     "frase": "Se meta relleno.",
     "icono": "fab fa-angellist"
   },
   {
     "id": 28,
+    "titulo": "Bebe quien...",
     "frase": "Miente mejor.",
     "icono": "fab fa-angellist"
   },
   {
     "id": 29,
+    "titulo": "Bebe quien...",
     "frase": "Sea el más pesado.",
     "icono": "fas fa-thumbs-down"
   },
   {
     "id": 30,
+    "titulo": "Bebe quien...",
     "frase": "Sea más tóxico.",
     "icono": "fas fa-virus"
   },
   {
     "id": 31,
+    "titulo": "Bebe quien...",
     "frase": "Olvide los cumpleaños.",
     "icono": "fas fa-thumbs-down"
   },
   {
     "id": 32,
+    "titulo": "Bebe quien...",
     "frase": "Termine siendo rico.",
     "icono": "fas fa-coins"
   },
   {
     "id": 33,
+    "titulo": "Bebe quien...",
     "frase": "Sea más irresponsable.",
     "icono": "fas fa-thumbs-down"
   },
   {
     "id": 34,
+    "titulo": "Bebe quien...",
     "frase": "Lleve ropa interior clara",
     "icono": "fas fa-columns"
   },
   {
     "id": 35,
+    "titulo": "Bebe quien...",
     "frase": "Sea LGBT+",
     "icono": "fas fa-mars-double"
   },
   {
     "id": 36,
+    "titulo": "Bebe quien...",
     "frase": "Lleve gafas.",
     "icono": "fas fa-glasses"
   },
   {
     "id": 37,
+    "titulo": "Bebe quien...",
     "frase": "Bese mejor",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
     "id": 38,
+    "titulo": "Bebe quien...",
     "frase": "Bese peor.",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
     "id": 39,
+    "titulo": "Bebe quien...",
     "frase": "Sea más egocéntrico.",
     "icono": "fas fa-thumbs-down"
   },
   {
     "id": 40,
+    "titulo": "Bebe quien...",
     "frase": "Haya hecho una página web para sus amigos.",
     "icono": "fas fa-heart"
   },
   {
     "id": 41,
+    "titulo": "Bebe quien...",
     "frase": "Haya usado aparato.",
     "icono": "fas fa-tooth"
   },
   {
     "id": 42,
+    "titulo": "Bebe quien...",
     "frase": "Haya ido por ciencias.",
     "icono": "fas fa-flask"
   },
   {
     "id": 43,
+    "titulo": "Bebe quien...",
     "frase": "Haya ido por letras.",
     "icono": "fas fa-comments"
   },
   {
     "id": 44,
+    "titulo": "Bebe quien...",
     "frase": "Sea creyente.",
     "icono": "fas fa-cross"
   },
   {
     "id": 45,
+    "titulo": "Bebe quien...",
     "frase": "Sea ateo/agnóstico.",
     "icono": "fas fa-cross"
   },
   {
     "id": 46,
+    "titulo": "Bebe quien...",
     "frase": "Conozca el monstruo del espagueti volador.",
     "icono": "fas fa-pastafarianism"
   },
   {
     "id": 47,
+    "titulo": "Bebe quien...",
     "frase": "Sea aries.",
     "icono": "fas fa-star"
   },
   {
     "id": 48,
+    "titulo": "Bebe quien...",
     "frase": "Sea tauro.",
     "icono": "fas fa-star"
   },
   {
     "id": 49,
+    "titulo": "Bebe quien...",
     "frase": "Sea géminis.",
     "icono": "fas fa-star"
   },
   {
     "id": 50,
+    "titulo": "Bebe quien...",
     "frase": "Sea cáncer.",
     "icono": "fas fa-star"
   },
   {
     "id": 51,
+    "titulo": "Bebe quien...",
     "frase": "Sea leo.",
     "icono": "fas fa-star"
   },
   {
     "id": 52,
+    "titulo": "Bebe quien...",
     "frase": "Sea virgo.",
     "icono": "fas fa-star"
   },
   {
     "id": 53,
+    "titulo": "Bebe quien...",
     "frase": "Sea libra.",
     "icono": "fas fa-star"
   },
   {
     "id": 54,
+    "titulo": "Bebe quien...",
     "frase": "Sea escorpio.",
     "icono": "fas fa-star"
   },
   {
     "id": 55,
+    "titulo": "Bebe quien...",
     "frase": "Sea sagitario.",
     "icono": "fas fa-star"
   },
   {
     "id": 56,
+    "titulo": "Bebe quien...",
     "frase": "Sea capricornio.",
     "icono": "fas fa-star"
   },
   {
     "id": 57,
+    "titulo": "Bebe quien...",
     "frase": "Sea acuario.",
     "icono": "fas fa-star"
   },
   {
     "id": 58,
+    "titulo": "Bebe quien...",
     "frase": "Sea piscis.",
     "icono": "fas fa-star"
   },
   {
     "id": 59,
+    "titulo": "Bebe quien...",
     "frase": "Haya viajado a más de 3 países.",
     "icono": "fas fa-plane"
   },
   {
     "id": 60,
+    "titulo": "Bebe quien...",
     "frase": "Haya ido en barco.",
     "icono": "fas fa-ship"
   },
   {
     "id": 61,
+    "titulo": "Bebe quien...",
     "frase": "Sea hetero.",
     "icono": "fas fa-venus-mars"
   },
   {
     "id": 62,
+    "titulo": "Bebe quien...",
     "frase": "Le guste la pizza con piña.",
     "icono": "fas fa-pizza-slice"
   },
   {
     "id": 63,
+    "titulo": "Bebe quien...",
     "frase": "Beben zurdos.",
     "icono": "fas fa-hand-paper"
   },
   {
     "id": 64,
+    "titulo": "Bebe quien...",
     "frase": "Beben diestros.",
     "icono": "fas fa-hand-paper"
   },
   {
     "id": 65,
+    "titulo": "Bebe quien...",
     "frase": "Toque un instrumento.",
     "icono": "fas fa-guitar"
   },
   {
     "id": 66,
+    "titulo": "Bebe quien...",
     "frase": "Tenga carnet de conducir.",
     "icono": "fas fa-id-card"
   },
   {
     "id": 67,
+    "titulo": "Bebe quien...",
     "frase": "Hable más de 1 idioma.",
     "icono": "fas fa-flag"
   },
   {
     "id": 68,
+    "titulo": "Bebe quien...",
     "frase": "Haya llorado recientemente.",
     "icono": "fas fa-sad-tear"
   },
   {
     "id": 69,
+    "titulo": "Bebe quien...",
     "frase": "Juegue al fútbol.",
     "icono": "fas fa-futbol"
   },
   {
     "id": 70,
+    "titulo": "Bebe quien...",
     "frase": "Juegue al baloncesto.",
     "icono": "fas fa-basketball-ball"
   },
   {
     "id": 71,
+    "titulo": "Bebe quien...",
     "frase": "Se llame David.",
     "icono": "fas fa-user"
   },
   {
     "id": 72,
+    "titulo": "Bebe quien...",
     "frase": "Tenga un gemelo.",
     "icono": "fas fa-user-friends"
   },
   {
     "id": 73,
+    "titulo": "Bebe quien...",
     "frase": "Se llame Santi.",
     "icono": "fas fa-user"
   },
   {
     "id": 74,
+    "titulo": "Bebe quien...",
     "frase": "Se llame Pablo.",
     "icono": "fas fa-user"
   },
   {
     "id": 75,
+    "titulo": "Bebe quien...",
     "frase": "Se llame Ivo.",
     "icono": "fas fa-user"
   },
   {
     "id": 76,
+    "titulo": "Bebe quien...",
     "frase": "Se llame Silvia.",
     "icono": "fas fa-user"
   },
   {
     "id": 77,
+    "titulo": "Bebe quien...",
     "frase": "Se llame Sheila.",
     "icono": "fas fa-user"
   },
   {
     "id": 78,
+    "titulo": "Bebe quien...",
     "frase": "Se llame Zaira.",
     "icono": "fas fa-user"
   },
   {
     "id": 79,
+    "titulo": "Bebe quien...",
     "frase": "Se llame Diego.",
     "icono": "fas fa-user"
   },
   {
     "id": 80,
+    "titulo": "Bebe quien...",
     "frase": "Tenga un segundo nombre.",
     "icono": "fas fa-user"
   },
   {
     "id": 81,
+    "titulo": "Bebe quien...",
     "frase": "Haya tenido un huerto.",
     "icono": "fas fa-cannabis"
   },
   {
     "id": 82,
+    "titulo": "Bebe quien...",
     "frase": "Te parezca más guapx.",
     "icono": "fas fa-heart"
   },
   {
     "id": 83,
+    "titulo": "Bebe quien...",
     "frase": "Use el modo oscuro de Insta/Whatsapp.",
     "icono": "fas fa-moon"
   },
   {
     "id": 84,
+    "titulo": "Bebe quien...",
     "frase": "Se haya bañado más recientemente.",
     "icono": "fas fa-hot-tub"
   },
   {
     "id": 85,
+    "titulo": "Bebe quien...",
     "frase": "Te parezca más listo.",
     "icono": "fas fa-glasses"
   },
   {
     "id": 86,
+    "titulo": "Bebe quien...",
     "frase": "Te parezca más gracioso.",
     "icono": "fas fa-laugh-beam"
   },
   {
     "id": 87,
+    "titulo": "Bebe quien...",
     "frase": "Te parezca más ebrio.",
     "icono": "fas fa-wine-bottle"
   },
   {
     "id": 88,
+    "titulo": "Bebe quien...",
     "frase": "Te parezca más sobrio.",
     "icono": "fas fa-wine-bottle"
   },
   {
     "id": 89,
+    "titulo": "Bebe quien...",
     "frase": "Haya trabajado en Citroën.",
     "icono": "fas fa-car"
   },
   {
     "id": 90,
+    "titulo": "Bebe quien...",
     "frase": "Use iPhone.",
     "icono": "fab fa-apple"
   },
   {
     "id": 91,
+    "titulo": "Bebe quien...",
     "frase": "Use Android.",
     "icono": "fab fa-android"
   },
   {
     "id": 92,
+    "titulo": "Bebe quien...",
     "frase": "Sea adoptado.",
     "icono": "fas fa-child"
   },
   {
     "id": 93,
+    "titulo": "Bebe quien...",
     "frase": "Tenga su cumpleaños más cerca.",
     "icono": "fas fa-birthday-cake"
   }

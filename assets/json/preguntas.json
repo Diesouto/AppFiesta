@@ -1,526 +1,631 @@
 [
   {
     "id": 0,
+    "titulo": "Pregunta...",
     "frase": "Tendrías cibersexo?",
     "icono": "fas fa-question"
   },
   {
     "id": 1,
+    "titulo": "Pregunta...",
     "frase": "Te has liado con el ex de un amigo?",
     "icono": "fas fa-question"
   },
   {
     "id": 2,
+    "titulo": "Pregunta...",
     "frase": "Cuéntanos tu sueño más reciente.",
     "icono": "fas fa-question"
   },
   {
     "id": 3,
+    "titulo": "Pregunta...",
     "frase": "Cuéntanos tu fantasía actual.",
     "icono": "fas fa-question"
   },
   {
     "id": 4,
+    "titulo": "Pregunta...",
     "frase": "Te han mandado nudes? Hace poco?",
     "icono": "fas fa-question"
   },
   {
     "id": 5,
+    "titulo": "Pregunta...",
     "frase": "Cara o cuerpo?",
     "icono": "fas fa-question"
   },
   {
     "id": 6,
+    "titulo": "Pregunta...",
     "frase": "Culo o tetas?",
     "icono": "fas fa-question"
   },
   {
     "id": 7,
+    "titulo": "Pregunta...",
     "frase": "Te tirarías antes al de tu izq o der?",
     "icono": "fas fa-question"
   },
   {
     "id": 8,
+    "titulo": "Pregunta...",
     "frase": "Con cuantos de los presentes te has liado?",
     "icono": "fas fa-question"
   },
   {
     "id": 9,
+    "titulo": "Pregunta...",
     "frase": "Di dos lugares donde lo hayas hecho.",
     "icono": "fas fa-question"
   },
   {
     "id": 10,
+    "titulo": "Pregunta...",
     "frase": "Cuantas veces has vomitado de fiesta?",
     "icono": "fas fa-question"
   },
   {
     "id": 11,
+    "titulo": "Pregunta...",
     "frase": "Fuck marry kill con 3 presentes.",
     "icono": "fas fa-question"
   },
   {
     "id": 12,
+    "titulo": "Pregunta...",
     "frase": "A qué animal se parece el de tu derecha?",
     "icono": "fas fa-question"
   },
   {
     "id": 13,
+    "titulo": "Pregunta...",
     "frase": "Qué es lo más guarro que has hecho estando sólo?",
     "icono": "fas fa-question"
   },
   {
     "id": 14,
+    "titulo": "Pregunta...",
     "frase": "Di una comida asquerosa que te hayas preparado.",
     "icono": "fas fa-question"
   },
   {
     "id": 15,
+    "titulo": "Pregunta...",
     "frase": "Qué parte de tu cuerpo te gusta menos?",
     "icono": "fas fa-question"
   },
   {
     "id": 16,
+    "titulo": "Pregunta...",
     "frase": "Qué parte de tu cuerpo te gusta más?",
     "icono": "fas fa-question"
   },
   {
     "id": 17,
+    "titulo": "Pregunta...",
     "frase": "Te han dado calabazas?",
     "icono": "fas fa-question"
   },
   {
     "id": 18,
+    "titulo": "Pregunta...",
     "frase": "Di cual es tu cubata favorito.",
     "icono": "fas fa-question"
   },
   {
     "id": 19,
+    "titulo": "Pregunta...",
     "frase": "Quien te cae mejor de los presentes?",
     "icono": "fas fa-question"
   },
   {
     "id": 20,
+    "titulo": "Pregunta...",
     "frase": "Quien te cae peor de los presentes?",
     "icono": "fas fa-question"
   },
   {
     "id": 21,
+    "titulo": "Pregunta...",
     "frase": "Con quien te liarías de los presentes?",
     "icono": "fas fa-question"
   },
   {
     "id": 22,
+    "titulo": "Pregunta...",
     "frase": "Crush famosx?",
     "icono": "fas fa-question"
   },
   {
     "id": 23,
+    "titulo": "Pregunta...",
     "frase": "Último actor/actriz porno que hayas visto.",
     "icono": "fas fa-question"
   },
   {
     "id": 24,
+    "titulo": "Pregunta...",
     "frase": "Película favorita?",
     "icono": "fas fa-question"
   },
   {
     "id": 25,
+    "titulo": "Pregunta...",
     "frase": "Serie favorita?",
     "icono": "fas fa-question"
   },
   {
     "id": 26,
+    "titulo": "Pregunta...",
     "frase": "Anime favorito?",
     "icono": "fas fa-question"
   },
   {
     "id": 27,
+    "titulo": "Pregunta...",
     "frase": "Videojuego favorito?",
     "icono": "fas fa-question"
   },
   {
     "id": 28,
+    "titulo": "Pregunta...",
     "frase": "La minoría bebe: Playa o montaña?",
     "icono": "fas fa-question"
   },
   {
     "id": 29,
+    "titulo": "Pregunta...",
     "frase": "La minoría bebe: Nike o Adidas?",
     "icono": "fas fa-question"
   },
   {
     "id": 30,
+    "titulo": "Pregunta...",
     "frase": "La minoría bebe: Star Wars o Harry Potter?",
     "icono": "fas fa-question"
   },
   {
     "id": 31,
+    "titulo": "Pregunta...",
     "frase": "La minoría bebe: Twitter o Instagram?",
     "icono": "fas fa-question"
   },
   {
     "id": 32,
+    "titulo": "Pregunta...",
     "frase": "La minoría bebe: Fiesta en casa o Discoteca?",
     "icono": "fas fa-question"
   },
   {
     "id": 33,
+    "titulo": "Pregunta...",
     "frase": "La minoría bebe: Pizza o Hamburguesa?",
     "icono": "fas fa-question"
   },
   {
     "id": 34,
+    "titulo": "Pregunta...",
     "frase": "Has fingido que alguien presente te caía bien?",
     "icono": "fas fa-question"
   },
   {
     "id": 35,
+    "titulo": "Pregunta...",
     "frase": "A quién te tirarías de los presentes?",
     "icono": "fas fa-question"
   },
   {
     "id": 36,
+    "titulo": "Pregunta...",
     "frase": "Follar arriba o abajo?",
     "icono": "fas fa-question"
   },
   {
     "id": 37,
+    "titulo": "Pregunta...",
     "frase": "Última vez que te masturbaste?",
     "icono": "fas fa-question"
   },
   {
     "id": 38,
+    "titulo": "Pregunta...",
     "frase": "Con quien de los presentes harías un trío?",
     "icono": "fas fa-question"
   },
   {
     "id": 39,
+    "titulo": "Pregunta...",
     "frase": "La minoría bebe: Perros o Gatos?",
     "icono": "fas fa-question"
   },
   {
     "id": 40,
+    "titulo": "Pregunta...",
     "frase": "La minoría bebe: Ginebra o Vodka?",
     "icono": "fas fa-question"
   },
   {
     "id": 41,
+    "titulo": "Pregunta...",
     "frase": "La minoría bebe: Vino o Cerveza?",
     "icono": "fas fa-question"
   },
   {
     "id": 42,
+    "titulo": "Pregunta...",
     "frase": "Most likely to dormirse antes?",
     "icono": "fas fa-question"
   },
   {
     "id": 43,
+    "titulo": "Pregunta...",
     "frase": "Most likely to acabar siendo presidente?",
     "icono": "fas fa-question"
   },
   {
     "id": 44,
+    "titulo": "Pregunta...",
     "frase": "Most likely to atracar un banco?",
     "icono": "fas fa-question"
   },
   {
     "id": 45,
+    "titulo": "Pregunta...",
     "frase": "Most likely to acabar en Portugal una noche de borrachera?",
     "icono": "fas fa-question"
   },
   {
     "id": 46,
+    "titulo": "Pregunta...",
     "frase": "Most likely to ligar en una discoteca?",
     "icono": "fas fa-question"
   },
   {
     "id": 47,
+    "titulo": "Pregunta...",
     "frase": "Háblanos de tu primer crush.",
     "icono": "fas fa-question"
   },
   {
     "id": 48,
+    "titulo": "Pregunta...",
     "frase": "Describe sin entrar en detalle a tu crush.",
     "icono": "fas fa-question"
   },
   {
     "id": 49,
+    "titulo": "Pregunta...",
     "frase": "Personaje ficticio con el que te liarías?",
     "icono": "fas fa-question"
   },
   {
     "id": 50,
+    "titulo": "Pregunta...",
     "frase": "Most likely to acabar la noche con un grupo distinto?",
     "icono": "fas fa-question"
   },
   {
     "id": 51,
+    "titulo": "Pregunta...",
     "frase": "Última compra por internet?",
     "icono": "fas fa-question"
   },
   {
     "id": 52,
+    "titulo": "Pregunta...",
     "frase": "Color favorito?",
     "icono": "fas fa-question"
   },
   {
     "id": 53,
+    "titulo": "Pregunta...",
     "frase": "Número favorito?",
     "icono": "fas fa-question"
   },
   {
     "id": 54,
+    "titulo": "Pregunta...",
     "frase": "Qué te tatuarías ahora mismo?",
     "icono": "fas fa-question"
   },
   {
     "id": 55,
+    "titulo": "Pregunta...",
     "frase": "Cómo sería tu cita perfecta?",
     "icono": "fas fa-question"
   },
   {
     "id": 56,
+    "titulo": "Pregunta...",
     "frase": "Qué país visitarías ahora mismo?",
     "icono": "fas fa-question"
   },
   {
     "id": 57,
+    "titulo": "Pregunta...",
     "frase": "La minoría bebe. Hablar todos los idiomas o con animales?",
     "icono": "fas fa-question"
   },
   {
     "id": 58,
+    "titulo": "Pregunta...",
     "frase": "Qué súperpoder tendrías?",
     "icono": "fas fa-question"
   },
   {
     "id": 59,
+    "titulo": "Pregunta...",
     "frase": "Qué porcentaje de hetero/gay eres?",
     "icono": "fas fa-question"
   },
   {
     "id": 60,
+    "titulo": "Pregunta...",
     "frase": "Qué mascota tendrías ahora mismo?",
     "icono": "fas fa-question"
   },
   {
     "id": 61,
+    "titulo": "Pregunta...",
     "frase": "Cantante favorito?",
     "icono": "fas fa-question"
   },
   {
     "id": 62,
+    "titulo": "Pregunta...",
     "frase": "Última canción que has escuchado?",
     "icono": "fas fa-question"
   },
   {
     "id": 63,
+    "titulo": "Pregunta...",
     "frase": "Lo más caro que hayas robado?",
     "icono": "fas fa-question"
   },
   {
     "id": 64,
+    "titulo": "Pregunta...",
     "frase": "Cómo llamarías a tus hijos?",
     "icono": "fas fa-question"
   },
   {
     "id": 65,
+    "titulo": "Pregunta...",
     "frase": "Cuando fue la última vez que lloraste?",
     "icono": "fas fa-question"
   },
   {
     "id": 66,
+    "titulo": "Pregunta...",
     "frase": "Deporte favorito?",
     "icono": "fas fa-question"
   },
   {
     "id": 67,
+    "titulo": "Pregunta...",
     "frase": "Has usado Onlyfans?",
     "icono": "fas fa-question"
   },
   {
     "id": 68,
+    "titulo": "Pregunta...",
     "frase": "Descríbete con 3 palabras.",
     "icono": "fas fa-question"
   },
   {
     "id": 69,
+    "titulo": "Pregunta...",
     "frase": "Has tenido alguna experiencia paranormal?",
     "icono": "fas fa-question"
   },
   {
     "id": 70,
+    "titulo": "Pregunta...",
     "frase": "Di un miedo que tuvieses de pequeño.",
     "icono": "fas fa-question"
   },
   {
     "id": 71,
+    "titulo": "Pregunta...",
     "frase": "Harías algún deporte de riesgo?",
     "icono": "fas fa-question"
   },
   {
     "id": 72,
+    "titulo": "Pregunta...",
     "frase": "Experimentarías o experimentaste con tu sexualidad?",
     "icono": "fas fa-question"
   },
   {
     "id": 73,
+    "titulo": "Pregunta...",
     "frase": "Has comprado en Aliexpress?",
     "icono": "fas fa-question"
   },
   {
     "id": 74,
+    "titulo": "Pregunta...",
     "frase": "Has creado una cuenta falsa para stalkear a alguien?",
     "icono": "fas fa-question"
   },
   {
     "id": 75,
+    "titulo": "Pregunta...",
     "frase": "Has dado calabazas?",
     "icono": "fas fa-question"
   },
   {
     "id": 76,
+    "titulo": "Pregunta...",
     "frase": "Has ligado con un extranjerx?",
     "icono": "fas fa-question"
   },
   {
     "id": 77,
+    "titulo": "Pregunta...",
     "frase": "Has ido de festival?",
     "icono": "fas fa-question"
   },
   {
     "id": 78,
+    "titulo": "Pregunta...",
     "frase": "Enseña alguna habilidad rara que tengas.",
     "icono": "fas fa-question"
   },
   {
     "id": 79,
+    "titulo": "Pregunta...",
     "frase": "Di algún dato random.",
     "icono": "fas fa-question"
   },
   {
     "id": 80,
+    "titulo": "Pregunta...",
     "frase": "Saldrías con alguien presente?",
     "icono": "fas fa-question"
   },
   {
     "id": 81,
+    "titulo": "Pregunta...",
     "frase": "Qué estudiarías ahora mismo en la universidad?",
     "icono": "fas fa-question"
   },
   {
     "id": 82,
+    "titulo": "Pregunta...",
     "frase": "Most likely to hacerse un bocata de nocilla con chorizo?",
     "icono": "fas fa-question"
   },
   {
     "id": 83,
+    "titulo": "Pregunta...",
     "frase": "Most likely to copiar en un examen?",
     "icono": "fas fa-question"
   },
   {
     "id": 84,
+    "titulo": "Pregunta...",
     "frase": "Most likely to mentir para no salir?",
     "icono": "fas fa-question"
   },
   {
     "id": 85,
+    "titulo": "Pregunta...",
     "frase": "Most likely to hacerse antidisturbios para pegarle a la gente?",
     "icono": "fas fa-question"
   },
   {
     "id": 86,
+    "titulo": "Pregunta...",
     "frase": "Most likely to acabar en una estafa piramidal?",
     "icono": "fas fa-question"
   },
   {
     "id": 87,
+    "titulo": "Pregunta...",
     "frase": "Most likely to adoptar 20 perros/gatos?",
     "icono": "fas fa-question"
   },
   {
     "id": 88,
+    "titulo": "Pregunta...",
     "frase": "Most likely to follarse a un animal?",
     "icono": "fas fa-question"
   },
   {
     "id": 89,
+    "titulo": "Pregunta...",
     "frase": "Most likely to mentir para liarse con alguien?",
     "icono": "fas fa-question"
   },
   {
     "id": 90,
+    "titulo": "Pregunta...",
     "frase": "Most likely to fumarse un porro?",
     "icono": "fas fa-cannabis"
   },
   {
     "id": 91,
+    "titulo": "Pregunta...",
     "frase": "Most likely to acabar viviendo en el extranjero?",
     "icono": "fas fa-question"
   },
   {
     "id": 92,
+    "titulo": "Pregunta...",
     "frase": "Most likely to casarse con unx famosx?",
     "icono": "fas fa-question"
   },
   {
     "id": 93,
+    "titulo": "Pregunta...",
     "frase": "Most likely to ser un pajas?",
     "icono": "fas fa-question"
   },
   {
     "id": 94,
+    "titulo": "Pregunta...",
     "frase": "Most likely to ganar un premio Nobel?",
     "icono": "fas fa-question"
   },
   {
     "id": 95,
+    "titulo": "Pregunta...",
     "frase": "Hacer el ridículo en público?",
     "icono": "fas fa-question"
   },
   {
     "id": 96,
+    "titulo": "Pregunta...",
     "frase": "Most likely to meterse en una pelea?",
     "icono": "fas fa-question"
   },
   {
     "id": 97,
+    "titulo": "Pregunta...",
     "frase": "Most likely to ser arrestado?",
     "icono": "fas fa-question"
   },
   {
     "id": 98,
+    "titulo": "Pregunta...",
     "frase": "Most likely to morir en un apocalipsis zombie?",
     "icono": "fas fa-question"
   },
   {
     "id": 99,
+    "titulo": "Pregunta...",
     "frase": "Most likely to enamorarse de un desconocido?",
     "icono": "fas fa-question"
   },
   {
     "id": 100,
+    "titulo": "Pregunta...",
     "frase": "Most likely to ganar las Olimpiadas?",
     "icono": "fas fa-question"
   },
   {
     "id": 101,
+    "titulo": "Pregunta...",
     "frase": "Most likely to escribir un best-seller?",
     "icono": "fas fa-question"
   },
   {
     "id": 102,
+    "titulo": "Pregunta...",
     "frase": "Most likely to ir a la Isla de las Tentaciones?",
     "icono": "fas fa-question"
   },
   {
     "id": 103,
+    "titulo": "Pregunta...",
     "frase": "Most likely to reírse en un mal momento?",
     "icono": "fas fa-question"
   },
   {
     "id": 104,
+    "titulo": "Pregunta...",
     "frase": "Most likely to unirse al circo?",
     "icono": "fas fa-question"
   }

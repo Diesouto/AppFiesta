@@ -138,22 +138,22 @@
 					<div class="modal-body">
 						<div class="checkbox-list">
 							<label class="checkbox checkbox-warning">
-								<input id="chk1" onclick="cargarTemas()" type="checkbox" checked="checked" name="Checkboxes1"/>
+								<input id="chk1" onclick="createRandomJSON()" type="checkbox" checked="checked" name="Checkboxes1"/>
 								<span></span>
 								Yo nunca
 							</label>
 							<label class="checkbox checkbox-warning">
-								<input id="chk2" onclick="cargarTemas()" type="checkbox" checked="checked" name="Checkboxes1"/>
+								<input id="chk2" onclick="createRandomJSON()" type="checkbox" checked="checked" name="Checkboxes1"/>
 								<span></span>
 								Preguntas
 							</label>
 							<label class="checkbox checkbox-warning">
-								<input id="chk3" onclick="cargarTemas()" type="checkbox" checked="checked" name="Checkboxes1"/>
+								<input id="chk3" onclick="createRandomJSON()" type="checkbox" checked="checked" name="Checkboxes1"/>
 								<span></span>
 								Retos
 							</label>
 							<label class="checkbox checkbox-warning">
-								<input id="chk4" onclick="cargarTemas()" type="checkbox" checked="checked" name="Checkboxes1"/>
+								<input id="chk4" onclick="createRandomJSON()" type="checkbox" checked="checked" name="Checkboxes1"/>
 								<span></span>
 								Bebe quien
 							</label>
@@ -189,95 +189,89 @@
 		</script> -->
 
 		<script>
-			var max = 90;
-			var jsonAleatorio = [];
-			var listaRepetidos = [[0, max],[1, max],[2, max],[3, max]];
+			const bebequienJSON = 'assets/json/bebequien.json';
+			const preguntasJSON = 'assets/json/preguntas.json';
+			const retosJSON = 'assets/json/retos.json';
+			const yonuncaJSON = 'assets/json/yonunca.json';
 
-			try {
-				cargarTemas();
-				cargarContenido();
-			} catch (error) {
-				console.error(error);
+			var bebeQuien = []
+			var preguntas = []
+			var retos = []
+			var yoNunca = []
+			var random = []
+
+			loadJSONs();
+
+			function loadJSONs() {
+				data1 = $.getJSON(bebequienJSON, function(json) {
+					bebeQuien = data1.responseJSON;
+				});
+				data2 = $.getJSON(preguntasJSON, function(json) {
+					preguntas = data2.responseJSON;
+				});
+				data3 = $.getJSON(retosJSON, function(json) {
+					retos = data3.responseJSON;
+				});
+				data4 = $.getJSON(yonuncaJSON, function(json) {
+					yoNunca = data4.responseJSON;
+					createRandomJSON();
+				});
 			}
 
-			function cargarTemas() {
-				jsonAleatorio = [];
+			function createRandomJSON() {
+				random = [];
 
 				if($('#chk1').prop('checked')) {
-					jsonAleatorio.push("yonunca"); 
+					random = random.concat(yoNunca);
 				}
 				if($('#chk2').prop('checked')) {
-					jsonAleatorio.push("preguntas"); 
+					random = random.concat(preguntas);
 				}
 				if($('#chk3').prop('checked')) {
-					jsonAleatorio.push("retos"); 
+					random = random.concat(retos);
 				}
 				if($('#chk4').prop('checked')) {
-					jsonAleatorio.push("bebequien"); 
+					random = random.concat(bebeQuien);
 				}
+
+				//random = random.concat(bebeQuien, preguntas, retos, yoNunca);
+				shuffleArray(random);
+				cargarContenido();
 			}
 
 			function cargarContenido() {
-				var iteraciones = 0
+				try {
+					const item = random.pop()
 
-				do {
-					var numeroValido = false;
-					var random = Math.floor(Math.random() * (max)); 
-					var randomTema = Math.floor(Math.random() * (jsonAleatorio.length)); 
-
-					if(listaRepetidos[randomTema][random] == "repetido") {
-						numeroValido = false;
-					} else { 
-						numeroValido = true;
-					}
-					
-					if(iteraciones == 100){
-						Swal.fire({
-							title: "¡Has llegado al final!",
-							text: "Ya no quedan más retos ni preguntas distintas. Puedes seguir jugando o esperar a que el creador añada más contenido. ¡Gracias por jugar! :)",
-							icon: "warning",
-							customClass: {
-								confirmButton: "btn btn-warning"
-							}
-						});
-						listaRepetidos = [[0, max],[1, max],[2, max],[3, max]];
-					}
-
-					iteraciones++;
-
-				} while(!numeroValido);
-
-				//Leer fichero json
-				var filePath = "assets/json/" + jsonAleatorio[randomTema] +".json";
-				var data = $.getJSON(filePath, function(json) {
-					//mostrar datos
-					var item = data.responseJSON[random];
-
-					//Mostrar en pantalla
+					$("#titulo").text(item.titulo);
 					$('#frase').text(item.frase);
 					$('#icono').removeClass();
 					$('#icono').addClass(item.icono + " text-white animacion");
-
-					switch(jsonAleatorio[randomTema]){
-						case "yonunca":
-							$("#titulo").text("Yo nunca...");
-							break;
-						case "bebequien":
-							$("#titulo").text("Bebe quien...");
-							break;
-						case "retos":
-							$("#titulo").text("Te reto a...");
-							break;
-						case "preguntas":
-							$("#titulo").text("Pregunta...");
-							break;
-					}
-				});
-
-				//Guardar para que no se repita
-				listaRepetidos[randomTema][random] = "repetido";
-				console.log(listaRepetidos);
+				} catch {
+					mensajeFinal();
+				}
+				
 			}
+
+			function mensajeFinal() {
+				Swal.fire({
+						title: "¡Has llegado al final!",
+						text: "Ya no quedan más retos ni preguntas distintas. Puedes seguir jugando o ir a insultar a @diesouto. ¡Gracias por jugar! :)",
+						icon: "warning",
+						customClass: {
+							confirmButton: "btn btn-warning"
+						}
+					});
+			}
+
+			function shuffleArray(array) {
+				for (let i = array.length - 1; i > 0; i--) {
+					const j = Math.floor(Math.random() * (i + 1));
+					[array[i], array[j]] = [array[j], array[i]];
+				}
+			}
+			
+			$('#modosJuego').modal('show');
 		</script>
 
 	<!--end::Body-->

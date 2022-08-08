@@ -1,456 +1,547 @@
 [
   {
     "id": 0,
+    "titulo": "Te reto a...",
     "frase": "Bajar al pie de la página y pagarle un café al creador de esta web tan guay :)",
     "icono": "fas fa-euro-sign"
   },
   {
     "id": 1,
+    "titulo": "Te reto a...",
     "frase": "Liarte con la persona de tu derecha.",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
     "id": 2,
+    "titulo": "Te reto a...",
     "frase": "Liarte con la persona de tu izquierda.",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
     "id": 3,
+    "titulo": "Te reto a...",
     "frase": "Decirle una guarrada a la persona de tu derecha.",
     "icono": "fas fa-comment"
   },
   {
     "id": 4,
+    "titulo": "Te reto a...",
     "frase": "Decirle una guarrada a la persona de tu izquierda.",
     "icono": "fas fa-comment"
   },
   {
     "id": 5,
+    "titulo": "Te reto a...",
     "frase": "Pasar un hielo con la boca.",
     "icono": "fas fa-dice-d6"
   },
   {
     "id": 6,
+    "titulo": "Te reto a...",
     "frase": "Beber del cubata de otra persona.",
     "icono": "fas fa-cocktail"
   },
   {
     "id": 7,
+    "titulo": "Te reto a...",
     "frase": "Terminarte tu bebida.",
     "icono": "fas fa-cocktail"
   },
   {
     "id": 8,
+    "titulo": "Te reto a...",
     "frase": "Tomarte un chupito.",
     "icono": "fas fa-glass-whiskey"
   },
   {
     "id": 9,
+    "titulo": "Te reto a...",
     "frase": "Beberte lo que te preparen.",
     "icono": "fas fa-cocktail"
   },
   {
     "id": 10,
+    "titulo": "Te reto a...",
     "frase": "Hablar como si estuvieses rapeando una ronda.",
     "icono": "fas fa-music"
   },
   {
     "id": 11,
+    "titulo": "Te reto a...",
     "frase": "Terminar todas tus frases con 'XD'.",
     "icono": "fas fa-comment"
   },
   {
     "id": 12,
+    "titulo": "Te reto a...",
     "frase": "Declararte a tu último chat de Whatsapp.",
     "icono": "fas fa-heart"
   },
   {
     "id": 13,
+    "titulo": "Te reto a...",
     "frase": "Cambiarte de ropa con alguien.",
     "icono": "fas fa-tshirt"
   },
   {
     "id": 14,
+    "titulo": "Te reto a...",
     "frase": "Pedirle matrimonio a la persona de tu izquierda.",
     "icono": "fas fa-ring"
   },
   {
     "id": 15,
+    "titulo": "Te reto a...",
     "frase": "Pedirle matrimonio a la persona de tu derecha.",
     "icono": "fas fa-ring"
   },
   {
     "id": 16,
+    "titulo": "Te reto a...",
     "frase": "Estar 2 minutos a solas con el de tu izquierda.",
     "icono": "fas fa-hourglass-start"
   },
   {
     "id": 17,
+    "titulo": "Te reto a...",
     "frase": "Estar 2 minutos a solas con el de tu derecha.",
     "icono": "fas fa-hourglass-start"
   },
   {
     "id": 18,
+    "titulo": "Te reto a...",
     "frase": "Reaccionar con un fuego a la 5 historia de tu insta.",
     "icono": "fas fa-fire"
   },
   {
     "id": 19,
+    "titulo": "Te reto a...",
     "frase": "Besar a quien más te atraiga.",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
     "id": 20,
+    "titulo": "Te reto a...",
     "frase": "Adivinar quién te besa/toca.",
     "icono": "fas fa-kiss-wink-heart"
   },
   {
     "id": 21,
+    "titulo": "Te reto a...",
     "frase": "Tomar un chupito de mamada.",
     "icono": "fas fa-glass-whiskey"
   },
   {
     "id": 22,
+    "titulo": "Te reto a...",
     "frase": "Adivinar qué culo tocas.",
     "icono": "fas fa-hand-paper"
   },
   {
     "id": 23,
+    "titulo": "Te reto a...",
     "frase": "Adivinar qué pelo tocas.",
     "icono": "fas fa-hand-paper"
   },
   {
     "id": 24,
+    "titulo": "Te reto a...",
     "frase": "Quítarte una prenda.",
     "icono": "fas fa-tshirt"
   },
   {
     "id": 25,
+    "titulo": "Te reto a...",
     "frase": "Hacer un tiktok que te manden.",
     "icono": "fab fa-tiktok"
   },
   {
     "id": 26,
+    "titulo": "Te reto a...",
     "frase": "Imitar a un famoso, si nadie lo adivina bebes.",
     "icono": "fas fa-microphone"
   },
   {
     "id": 27,
+    "titulo": "Te reto a...",
     "frase": "Hacer mímica para que adivinen una película.",
     "icono": "fas fa-hand-paper"
   },
   {
     "id": 28,
+    "titulo": "Te reto a...",
     "frase": "Jugar a la botella.",
     "icono": "fas fa-wine-bottle fa-spin"
   },
   {
     "id": 29,
+    "titulo": "Te reto a...",
     "frase": "Decir dos verdades y una mentira.",
     "icono": "fas fa-clipboard-list"
   },
   {
     "id": 30,
+    "titulo": "Te reto a...",
     "frase": "Poner el móvil en la mesa, notificación = chupito.",
     "icono": "fas fa-mobile"
   },
   {
     "id": 31,
+    "titulo": "Te reto a...",
     "frase": "Durante una ronda, al terminar tus frases di: 'Viva España'.",
     "icono": "fas fa-flag"
   },
   {
     "id": 32,
+    "titulo": "Te reto a...",
     "frase": "Contar como fue tu primera vez. Si fue trágica o ridícula bebe 3 tragos.",
     "icono": "fas fa-flag"
   },
   {
     "id": 33,
+    "titulo": "Te reto a...",
     "frase": "Agachad la cabeza, a la de tres debes mirar a alguien, si os miráis bebéis.",
     "icono": "fas fa-eye"
   },
   {
     "id": 34,
+    "titulo": "Te reto a...",
     "frase": "Todos beben.",
     "icono": "fas fa-users"
   },
   {
     "id": 35,
+    "titulo": "Te reto a...",
     "frase": "Chupar el pezón del 2º de tu derecha.",
     "icono": "far fa-dot-circle"
   },
   {
     "id": 36,
+    "titulo": "Te reto a...",
     "frase": "Llamar a la 4ª persona de tu WhatsApp.",
     "icono": "fab fa-whatsapp"
   },
   {
     "id": 37,
+    "titulo": "Te reto a...",
     "frase": "Subir algo a tus stories (y publicita el juego jeje).",
     "icono": "fab fa-instagram"
   },
   {
     "id": 38,
+    "titulo": "Te reto a...",
     "frase": "Twittear con el autocorrector.",
     "icono": "fab fa-twitter"
   },
   {
     "id": 39,
+    "titulo": "Te reto a...",
     "frase": "Escríbirle a tu ex.",
     "icono": "fas fa-user-times"
   },
   {
     "id": 40,
+    "titulo": "Te reto a...",
     "frase": "Repetir una foto antigua lo más exactamente posible.",
     "icono": "fas fa-image"
   },
   {
     "id": 41,
+    "titulo": "Te reto a...",
     "frase": "Planear la próxima quedada.",
     "icono": "fas fa-map-marked-alt"
   },
   {
     "id": 42,
+    "titulo": "Te reto a...",
     "frase": "Decir un número del 1-10. Si coincides con alguien bebéis ese nº de tragos.",
     "icono": "fas fa-glass-whiskey"
   },
   {
     "id": 43,
+    "titulo": "Te reto a...",
     "frase": "Jugar una partida de beer pong.",
     "icono": "fas fa-glass-whiskey"
   },
   {
     "id": 44,
+    "titulo": "Te reto a...",
     "frase": "Bailar sexy a la persona de tu izquierda.",
     "icono": "fas fa-music"
   },
   {
     "id": 45,
+    "titulo": "Te reto a...",
     "frase": "Hablar con voz de pito una ronda.",
     "icono": "fas fa-comment"
   },
   {
     "id": 46,
+    "titulo": "Te reto a...",
     "frase": "Enseñar media teta. Dale Carla.",
     "icono": "fas fa-circle"
   },
   {
     "id": 47,
+    "titulo": "Te reto a...",
     "frase": "Morder tres culos.",
     "icono": "fas fa-drumstick-bite"
   },
   {
     "id": 48,
+    "titulo": "Te reto a...",
     "frase": "Señalar al que te ponga más perracx. Si coincidís os besáis",
     "icono": "fas fa-dog"
   },
   {
     "id": 49,
+    "titulo": "Te reto a...",
     "frase": "Jugar a El Juego. Si os acordáis de que estáis jugando bebéis.",
     "icono": "fas fa-bible"
   },
   {
     "id": 50,
+    "titulo": "Te reto a...",
     "frase": "Jugar a Hazte un porro.",
     "icono": "fas fa-joint"
   },
   {
     "id": 51,
+    "titulo": "Te reto a...",
     "frase": "Jugar a Si te ríes pierdes (bebes).",
     "icono": "fas fa-smile"
   },
   {
     "id": 52,
+    "titulo": "Te reto a...",
     "frase": "Decir la palabra Pene más alto que el anterior.",
     "icono": "fas fa-volume-up"
   },
   {
     "id": 53,
+    "titulo": "Te reto a...",
     "frase": "Hablar susurrando una ronda.",
     "icono": "fas fa-volume-down"
   },
   {
     "id": 54,
+    "titulo": "Te reto a...",
     "frase": "No decir palabrotas una ronda.",
     "icono": "fas fa-comment-slash"
   },
   {
     "id": 55,
+    "titulo": "Te reto a...",
     "frase": "Hablar muy lento una ronda.",
     "icono": "fas fa-user-clock"
   },
   {
     "id": 56,
+    "titulo": "Te reto a...",
     "frase": "Estar ciego una ronda.",
     "icono": "fas fa-eye-slash"
   },
   {
     "id": 57,
+    "titulo": "Te reto a...",
     "frase": "Empiezas con el Tapón, si te responden con sí o no lo pasas.",
     "icono": "fas fa-skull-crossbones"
   },
   {
     "id": 58,
+    "titulo": "Te reto a...",
     "frase": "Quitarte una prenda y dársela a alguien.",
     "icono": "fas fa-tshirt"
   },
   {
     "id": 59,
+    "titulo": "Te reto a...",
     "frase": "Moverte muy lento una ronda.",
     "icono": "fas fa-user-clock"
   },
   {
     "id": 60,
+    "titulo": "Te reto a...",
     "frase": "Jugar al teléfono estropeado.",
     "icono": "fas fa-phone-slash"
   },
   {
     "id": 61,
+    "titulo": "Te reto a...",
     "frase": "Cantar una canción con la palabra que te digan.",
     "icono": "fas fa-music"
   },
   {
     "id": 62,
+    "titulo": "Te reto a...",
     "frase": "Cambiarte de sitio con el de enfrente.",
     "icono": "fas fa-chair"
   },
   {
     "id": 63,
+    "titulo": "Te reto a...",
     "frase": "Cambiarte de sitio con el de tu derecha.",
     "icono": "fas fa-chair"
   },
   {
     "id": 64,
+    "titulo": "Te reto a...",
     "frase": "Cambiarte de sitio con el de tu izquierda.",
     "icono": "fas fa-chair"
   },
   {
     "id": 65,
+    "titulo": "Te reto a...",
     "frase": "Todos os cambiais de sitio.",
     "icono": "fas fa-chair"
   },
   {
     "id": 66,
+    "titulo": "Te reto a...",
     "frase": "Anunciar que te vas a abrir un Onlyfans.",
     "icono": "fas fa-coins"
   },
   {
     "id": 67,
+    "titulo": "Te reto a...",
     "frase": "Ponerte algo en la frente y cogerlo con la boca sin usar las manos.",
     "icono": "fas fa-handshake-slash"
   },
   {
     "id": 68,
+    "titulo": "Te reto a...",
     "frase": "Si te miran a los ojos bebes.",
     "icono": "fas fa-eye"
   },
   {
     "id": 70,
+    "titulo": "Te reto a...",
     "frase": "Encestar en un vaso, si fallas bebes.",
     "icono": "fas fa-glass-whiskey"
   },
   {
     "id": 71,
+    "titulo": "Te reto a...",
     "frase": "Beberte un chupito en un tapón.",
     "icono": "fas fa-glass-whiskey"
   },
   {
     "id": 72,
+    "titulo": "Te reto a...",
     "frase": "Usar tu mejor frase de ligoteo.",
     "icono": "fas fa-comment-dots"
   },
   {
     "id": 73,
+    "titulo": "Te reto a...",
     "frase": "Subir un story fingiendo que haces un boomerang.",
     "icono": "fab fa-instagram"
   },
   {
     "id": 74,
+    "titulo": "Te reto a...",
     "frase": "Hacerte un chupito en el ombligo de alguien.",
     "icono": "fas fa-glass-whiskey"
   },
   {
     "id": 75,
+    "titulo": "Te reto a...",
     "frase": "Decir 3 cantantes de BTS o beber.",
     "icono": "fas fa-music"
   },
   {
     "id": 76,
+    "titulo": "Te reto a...",
     "frase": "Decir 5 campeones del LoL en 10 segundos.",
     "icono": "fas fa-gamepad"
   },
   {
     "id": 77,
+    "titulo": "Te reto a...",
     "frase": "Decir 5 campeones del LoL en 10 segundos.",
     "icono": "fas fa-gamepad"
   },
   {
     "id": 78,
+    "titulo": "Te reto a...",
     "frase": "Dale un sorbo de tu copa al que te parezca más guapx.",
     "icono": "fas fa-heart"
   },
   {
     "id": 79,
+    "titulo": "Te reto a...",
     "frase": "Bebe quien te parezca más guapx.",
     "icono": "fas fa-heart"
   },
   {
     "id": 80,
+    "titulo": "Te reto a...",
     "frase": "Decir 3 lenguajes de programación.",
     "icono": "fas fa-code"
   },
   {
     "id": 81,
+    "titulo": "Te reto a...",
     "frase": "Decir 5 animales en 10 segundos.",
     "icono": "fas fa-paw"
   },
   {
     "id": 82,
+    "titulo": "Te reto a...",
     "frase": "Hacerle un chupón al de tu derecha.",
     "icono": "fas fa-splotch"
   },
   {
     "id": 83,
+    "titulo": "Te reto a...",
     "frase": "Hacerle un chupón al de tu izquierda.",
     "icono": "fas fa-splotch"
   },
   {
     "id": 84,
+    "titulo": "Te reto a...",
     "frase": "Rajar de la persona de tu izquierda.",
     "icono": "fas fa-comment-slash"
   },
   {
     "id": 85,
+    "titulo": "Te reto a...",
     "frase": "Rajar de la persona de tu derecha.",
     "icono": "fas fa-comment-slash"
   },
   {
     "id": 86,
+    "titulo": "Te reto a...",
     "frase": "Cruzar la habitación sujetando algo entre tu culo y la entrepierna de otra persona.",
     "icono": "fas fa-dolly"
   },
   {
     "id": 87,
+    "titulo": "Te reto a...",
     "frase": "Comerte un limón.",
     "icono": "fas fa-lemon"
   },
   {
     "id": 88,
+    "titulo": "Te reto a...",
     "frase": "Enseñar tu foto del dni/carné de conducir.",
     "icono": "fas fa-address-card"
   },
   {
     "id": 89,
+    "titulo": "Te reto a...",
     "frase": "Haz una foto de novios con otra persona.",
     "icono": "fas fa-image"
   },
   {
     "id": 90,
+    "titulo": "Te reto a...",
     "frase": "Pon una canción, si a los demás no les gusta bebes.",
     "icono": "fas fa-music"
   },
   {
     "id": 91,
+    "titulo": "Te reto a...",
     "frase": "Di un lío de las personas presentes, si no sabes alguno bebes.",
     "icono": "fas fa-heart"
   }
