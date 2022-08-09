@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!--begin::Head-->
+	<head><base href="">
+		<meta charset="utf-8" />
+		<title>Fiestapp! | Diesouto</title>
+		<meta name="keywords" content="Fiestapp,FiestApp,Juegos,HTML,CSS,JavaScript" />
+		<meta name="description" content="Juegos de fiesta gratis" />
+		<link rel="author" href="https://www.linkedin.com/in/diesouto/"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<!--begin::Fonts-->
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
+		<!--end::Fonts-->
+		<!--begin::Global Theme Styles(used by all pages)-->
+		<link href="assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
+		<!-- <link href="assets/plugins/custom/prismjs/prismjs.bundle.css" rel="stylesheet" type="text/css" /> -->
+		<link href="assets/css/style.bundle.css" rel="stylesheet" type="text/css" />
+		<!--end::Global Theme Styles-->
+		<!--begin::Layout Themes(used by all pages)-->
+		<link href="assets/css/themes/layout/header/base/dark.css" rel="stylesheet" type="text/css" />
+		<link href="assets/css/themes/layout/header/menu/dark.css" rel="stylesheet" type="text/css" />
+		<link href="assets/css/themes/layout/brand/dark.css" rel="stylesheet" type="text/css" />
+		<link href="assets/css/themes/layout/aside/dark.css" rel="stylesheet" type="text/css" />
+		<!--end::Layout Themes-->
+		<link rel="icon" href="assets/media/logos/favicon.ico" />
+
+		<link href="assets/css/mystyle.css" rel="stylesheet" type="text/css" />
+	</head>
+	<!--end::Head-->
+	<!--begin::Body-->
+	<body id="kt_body" class="quick-panel-right demo-panel-right offcanvas-right header-fixed header-mobile-fixed subheader-enabled">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FS8GGP" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<!--begin::Main-->
+		<!--begin::Header Mobile-->
+		<div id="kt_header_mobile" class="bg-warning header-mobile align-items-center header-mobile-fixed d-flex justify-content-between bd-highlight">
+			<a href="juegos.html"><h6 class="p-2 bd-highlight"><i class="fas fa-arrow-left text-white"></i></h6></a>
+			<h6 class="p-2 bd-highlight text-white text-uppercase">Time's up!</h6>
+			<h6 id="btnTutorial" class="p-2 bd-highlight" data-toggle="modal" data-target="#tutorial"><i class="fas far fa-question-circle fa-lg text-white"></i></h6>
+		</div>
+		<!--end::Header Mobile-->
+		<div class="d-flex flex-column flex-root">
+			<!--begin::Page-->
+			<div class="d-flex flex-row flex-column-fluid page">
+				<!--begin::Wrapper-->
+				<div class="d-flex flex-column flex-row-fluid wrapper p-0" id="kt_wrapper">
+					<!--begin::Header-->
+					<div id="kt_header" class="header header-fixed">
+						<!--begin::Container-->
+						<div class="container-fluid d-flex justify-content-between header-menu-wrapper pt-5">
+							<a href="juegos.html"><h6 class="p-3 pl-4 bd-highlight"><i class="fas fa-arrow-left text-white"></i></h6></a>
+							<h6 class="p-3 bd-highlight text-white text-uppercase">Time's up!</h6>
+							<h6 class="p-3 bd-highlight" data-toggle="modal" data-target="#tutorial"><i class="fas far fa-question-circle fa-lg text-white"></i></h6>
+						</div>
+						<!--end::Container-->
+					</div>
+					<!--end::Header-->
+					<!--begin::Content-->
+					<div class="content d-flex flex-column flex-column-fluid h-100 p-0" id="kt_content">
+						<!--begin::Entry-->
+						<div class="d-flex flex-column-fluid bg-warning">
+							<!--begin::Container-->
+							<div class="container">
+								<div class="card card-custom gutter-b h-100 m-0">
+									<div class="card-body bg-warning">
+										<!--begin: Tarjeta 1-->
+										<div class="col-xl-4 m-0 m-auto">
+											<div class="pt-5 px-10 px-lg-20">
+												<!--begin::Content-->
+												<div class="d-flex flex-column flex-left pt-40">
+													<h3 id="ronda" style="font-size: 3em!important;" class="d-block text-center d-block font-weight-bold text-white pb-5">Navidad</h3>
+                                                    <hr style="border: 0; width: 100%; height: 0.5em; background-color: white;"/>
+												</div>
+												<!--end::Content-->
+												<!--begin::Icon-->
+                                                <h3 id="palabra" style="display: none!important; font-size: 3em!important; margin-top: 3em;" class="d-block text-center d-block font-weight-bold text-white"></h3>
+												<div id="inputStart" class="d-flex flex-center position-relative py-20 animacion">
+													<input id="input" class="form-control" type="text" placeholder="introduce la palabra...">
+                                                    <button onclick="addWord()" class="btn h-60px w-60px pr-0"><i style="font-size: 2em; color: white;" class="fa fa-plus p-0"></i></button>
+                                                </div>
+												<!--end::Icon-->
+												<!--begin::Content-->
+												<div class="d-flex flex-column flex-left pb-10">
+													<!-- <a href="yonunca.html" class="btn btn-dark text-uppercase text-white font-weight-bolder px-16 py-4">Otra</a> -->
+													<div id="btnComienzo" class="d-flex flex-row justify-content-around pt-10">
+														<button onclick="listWords()" class="btn btn-dark rounded-circle h-60px w-60px"><i style="font-size: 2em;" class="fa fa-list p-0"></i></button>
+														<button onclick="start()" class="btn btn-dark rounded-circle h-60px w-60px"><i style="font-size: 2em;" class="fa fa-play p-0"></i></button>
+													</div>
+                                                    <div id="btnContenido" class="d-flex flex-column flex-center" style="visibility: hidden;">
+														<button onclick="cargarContenido()" class="btn btn-dark rounded-circle h-60px w-60px"><i style="font-size: 2em;" class="fas fa-redo-alt p-0"></i></button>
+													</div>
+												</div>
+												<!--end::Content-->
+											</div>
+										</div>
+										<!--end: Tarjeta 1-->
+									</div>
+								</div>
+							</div>
+							<!--end::Container-->
+						</div>
+						<!--end::Entry-->
+					</div>
+					<!--end::Content-->
+					<!--begin::Footer-->
+					<div class="footer bg-white py-4 d-flex flex-lg-column" id="kt_footer">
+						<!--begin::Container-->
+						<div class="container d-flex flex-column flex-md-row align-items-center justify-content-between">
+							<!--begin::Copyright-->
+							<div class="text-dark order-2 order-md-1">
+								<span class="text-muted font-weight-bold mr-2">2021</span>
+								<a href="https://www.linkedin.com/in/diesouto/" target="_blank" class="text-dark-75 text-hover-primary">Diego Souto</a>
+							</div>
+							<!--end::Copyright-->
+							<!--begin::Nav-->
+							<div class="nav nav-dark">
+								<a href="https://www.instagram.com/diesouto/" target="_blank" class="nav-link pl-0 pr-2"><i class="fab fa-instagram fa-2x"></i></a>
+								<a href="https://www.linkedin.com/in/diesouto/" target="_blank" class="nav-link pr-2"><i class="fab fa-linkedin-in fa-2x"></i></a>
+								<a href="https://github.com/Diesouto" target="_blank" class="nav-link pr-0"><i class="fab fa-github fa-2x"></i></a>
+								<a href="https://ko-fi.com/diesouto" target="_blank" class="nav-link pr-0"><i class="fab fa-paypal fa-2x"></i></a>
+							</div>
+							<!--end::Nav-->
+						</div>
+						<!--end::Container-->
+					</div>
+					<!--end::Footer-->
+				</div>
+				<!--end::Wrapper-->
+			</div>
+			<!--end::Page-->
+		</div>
+		<!--end::Main-->
+
+		<!-- Modal-->
+		<div class="modal fade" id="tutorial" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-centered" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="exampleModalLabel">Cómo jugar</h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<i aria-hidden="true" class="ki ki-close"></i>
+						</button>
+					</div>
+					<div class="modal-body">
+						<h5>El objectivo del juego es conseguir que la persona de tu lado adivine la palabra que aparezca. <br/><br/>
+                            Para comenzar, cada jugador debe escribir 1 o 2 palabras. Después se realizan 3 rondas: 
+                            <br/><br/>
+                            <ul>
+                                <li>1ª ronda: debéis describir la palabra.</li>
+                                <li>2ª ronda: debéis decir palabras relacionadas con esta.</li>
+                                <li>3ª ronda: debéis hacer la palabra con mímica.</li>
+                            </ul>
+						</h5>
+					</div>
+				</div>
+			</div>
+		</div>
+
+        <div class="modal fade" id="listadoPalabras" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-centered" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="exampleModalLabel">Palabras añadidas</h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<i aria-hidden="true" class="ki ki-close"></i>
+						</button>
+					</div>
+					<div class="modal-body">
+						<h5>
+                            <ul id="ulPalabras">
+                                
+                            </ul>
+						</h5>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<script>var HOST_URL = "/keen/theme/tools/preview";</script>
+		<!--begin::Global Config(global config for global JS scripts)-->
+		<script>var KTAppSettings = { "breakpoints": { "sm": 576, "md": 768, "lg": 992, "xl": 1200, "xxl": 1400 }, "colors": { "theme": { "base": { "white": "#ffffff", "primary": "#3E97FF", "secondary": "#E5EAEE", "success": "#08D1AD", "info": "#844AFF", "warning": "#F5CE01", "danger": "#FF3D60", "light": "#E4E6EF", "dark": "#181C32" }, "light": { "white": "#ffffff", "primary": "#DEEDFF", "secondary": "#EBEDF3", "success": "#D6FBF4", "info": "#6125E1", "warning": "#FFF4DE", "danger": "#FFE2E5", "light": "#F3F6F9", "dark": "#D6D6E0" }, "inverse": { "white": "#ffffff", "primary": "#ffffff", "secondary": "#3F4254", "success": "#ffffff", "info": "#ffffff", "warning": "#ffffff", "danger": "#ffffff", "light": "#464E5F", "dark": "#ffffff" } }, "gray": { "gray-100": "#F3F6F9", "gray-200": "#EBEDF3", "gray-300": "#E4E6EF", "gray-400": "#D1D3E0", "gray-500": "#B5B5C3", "gray-600": "#7E8299", "gray-700": "#5E6278", "gray-800": "#3F4254", "gray-900": "#181C32" } }, "font-family": "Poppins" };</script>
+		<!--end::Global Config-->
+		<!--begin::Global Theme Bundle(used by all pages)-->
+		<script src="assets/plugins/global/plugins.bundle.js?v=2.1.1"></script>
+		<script src="assets/js/scripts.bundle.js?v=2.1.1"></script>
+		<!--end::Global Theme Bundle-->
+
+		<script>
+            const ul = $("#ulPalabras");
+            const rondas = ["Introduce palabras", "Describir", "Solo 1 palabra", "Mímica", "¡Se acabó!"];
+            var currentRound = 0;
+            const palabras = [];
+            var palabrasRandom = [];
+
+            $("#ronda").text(rondas[0]);
+
+            function addWord() {
+                const newWord = $("#input").val();
+                palabras.push(newWord);
+                $("#input").val('');
+            }
+
+            function listWords() {
+                ul.empty();
+
+                palabras.forEach(palabra => {
+                    const li = document.createElement("li");
+                    li.appendChild(document.createTextNode(palabra));
+                    ul.append(li);
+                });
+
+                $('#listadoPalabras').modal('show');
+            }
+
+            function start() {
+                if(modalNotEnoughWords()) {
+                    return;
+                }
+
+                $('#btnComienzo').empty();
+                $('#inputStart').empty();
+                $('#btnContenido').css("visibility", "visible");
+                $('#palabra').css("display", "block");
+                round(1);
+            }
+
+            function round(number) {
+				if(number == 3) {
+					$("#palabra").text("Habéis completado todas las rondas, recargad la página para seguir jugando :)");
+					$('#btnContenido').css("visibility", "hidden");
+				}
+
+                $("#ronda").text(rondas[number]);
+                currentRound = number;
+                palabrasRandom = palabras.slice(0);
+                shuffleArray(palabrasRandom);
+                cargarContenido();
+            }
+
+            function cargarContenido() {
+                if(!palabrasRandom.length) {
+                    currentRound++;
+                    round(currentRound);
+					return;
+                }
+
+                $("#palabra").text(palabrasRandom.pop());
+            }
+
+            function modalNotEnoughWords() {
+                if(palabras.length < 2) {
+                    Swal.fire({
+                        title: "¡No tan rápido!",
+                        text: "Deberías añadir al menos 2 palabras.",
+                        icon: "warning",
+                        customClass: {
+                            confirmButton: "btn btn-warning"
+                        }
+                    });
+                    return true;
+                }
+                return false;
+            }
+
+            function shuffleArray(array) {
+				for (let i = array.length - 1; i > 0; i--) {
+					const j = Math.floor(Math.random() * (i + 1));
+					[array[i], array[j]] = [array[j], array[i]];
+				}
+			}
+            
+			// $('#tutorial').modal('show');
+		</script>
+
+	<!--end::Body-->
+	</body>
+	<!--end::Body-->
+</html>
