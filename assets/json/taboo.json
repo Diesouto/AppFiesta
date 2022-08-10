@@ -14,5 +14,477 @@
     "taboo2": "Dibujar",
     "taboo3": "Lápiz",
     "taboo4": "Tablero"
+  },
+  {
+    "id": 2,
+    "palabra": "Donald",
+    "taboo1": "Pato",
+    "taboo2": "Trump",
+    "taboo3": "Mickey",
+    "taboo4": "Nombre"
+  },
+  {
+    "id": 3,
+    "palabra": "Reina",
+    "taboo1": "Abeja",
+    "taboo2": "Rey",
+    "taboo3": "Drag",
+    "taboo4": "Realeza"
+  },
+  {
+    "id": 4,
+    "palabra": "Libro",
+    "taboo1": "Leer",
+    "taboo2": "Páginas",
+    "taboo3": "Historia",
+    "taboo4": "Cubierta"
+  },
+  {
+    "id": 5,
+    "palabra": "Stop",
+    "taboo1": "Señal",
+    "taboo2": "Conducir",
+    "taboo3": "Coche",
+    "taboo4": "Rojo"
+  },
+  {
+    "id": 6,
+    "palabra": "Ballena",
+    "taboo1": "Oceano",
+    "taboo2": "Grande",
+    "taboo3": "Azul",
+    "taboo4": "Moby Dick"
+  },
+  {
+    "id": 7,
+    "palabra": "Calendario",
+    "taboo1": "Fecha",
+    "taboo2": "Días",
+    "taboo3": "Meses",
+    "taboo4": "Años"
+  },
+  {
+    "id": 8,
+    "palabra": "Escalera",
+    "taboo1": "Escalón",
+    "taboo2": "Alcanzar",
+    "taboo3": "Alto",
+    "taboo4": "Doblar"
+  },
+  {
+    "id": 9,
+    "palabra": "Bad Gyal",
+    "taboo1": "Zorra",
+    "taboo2": "Fiebre",
+    "taboo3": "Reina",
+    "taboo4": "Temón"
+  },
+  {
+    "id": 10,
+    "palabra": "Diamante",
+    "taboo1": "Anillo",
+    "taboo2": "Joya",
+    "taboo3": "Carbón",
+    "taboo4": "Caro"
+  },
+  {
+    "id": 11,
+    "palabra": "Oompa Loompa",
+    "taboo1": "Charlie",
+    "taboo2": "Chocolate",
+    "taboo3": "Ex",
+    "taboo4": "Fábrica"
+  },
+  {
+    "id": 12,
+    "palabra": "Avante",
+    "taboo1": "Local",
+    "taboo2": "Goteo",
+    "taboo3": "Santiago",
+    "taboo4": "Licorca"
+  },
+  {
+    "id": 13,
+    "palabra": "Autor",
+    "taboo1": "Libro",
+    "taboo2": "Escribir",
+    "taboo3": "Nombre",
+    "taboo4": "Firma"
+  },
+  {
+    "id": 14,
+    "palabra": "Nápoles",
+    "taboo1": "Italia",
+    "taboo2": "Sheila",
+    "taboo3": "Calor",
+    "taboo4": "Pizza"
+  },
+  {
+    "id": 15,
+    "palabra": "Duki",
+    "taboo1": "Goteo",
+    "taboo2": "She don't give a fo",
+    "taboo3": "Cuqui",
+    "taboo4": "Cantante"
+  },
+  {
+    "id": 16,
+    "palabra": "Tatuaje",
+    "taboo1": "Tinta",
+    "taboo2": "Dibujo",
+    "taboo3": "Piel",
+    "taboo4": "Estudio"
+  },
+  {
+    "id": 17,
+    "palabra": "Rosalía",
+    "taboo1": "Cantante",
+    "taboo2": "Alfabeto",
+    "taboo3": "Motomami",
+    "taboo4": "Tra tra"
+  },
+  {
+    "id": 18,
+    "palabra": "Shakira",
+    "taboo1": "Loba",
+    "taboo2": "Piqué",
+    "taboo3": "Cantante",
+    "taboo4": "Cárcel"
+  },
+  {
+    "id": 19,
+    "palabra": "Minecraft",
+    "taboo1": "Juego",
+    "taboo2": "Cubos",
+    "taboo3": "YouTube",
+    "taboo4": "Willy/Vegeta"
+  },
+  {
+    "id": 20,
+    "palabra": "Maeloc",
+    "taboo1": "Sidra",
+    "taboo2": "Bebida",
+    "taboo3": "Nombre",
+    "taboo4": "Grupo"
+  },
+  {
+    "id": 21,
+    "palabra": "Vialia",
+    "taboo1": "Centro comercial",
+    "taboo2": "Vigo",
+    "taboo3": "Primark",
+    "taboo4": "Estación"
+  },
+  {
+    "id": 22,
+    "palabra": "Abel Caballero",
+    "taboo1": "Luces",
+    "taboo2": "Vigo",
+    "taboo3": "Alcalde",
+    "taboo4": "PSOE"
+  },
+  {
+    "id": 23,
+    "palabra": "Fodechincho",
+    "taboo1": "Madrileños",
+    "taboo2": "Turista",
+    "taboo3": "Sardinas",
+    "taboo4": "Verano"
+  },
+  {
+    "id": 24,
+    "palabra": "Otaku",
+    "taboo1": "Anime",
+    "taboo2": "Manga",
+    "taboo3": "Ducha",
+    "taboo4": "Japón"
+  },
+  {
+    "id": 25,
+    "palabra": "Naruto",
+    "taboo1": "Ninja",
+    "taboo2": "Chupar",
+    "taboo3": "Anime",
+    "taboo4": "Manga"
+  },
+  {
+    "id": 26,
+    "palabra": "Raves",
+    "taboo1": "Fiesta",
+    "taboo2": "Drogas",
+    "taboo3": "Tecno",
+    "taboo4": "Alba"
+  },
+  {
+    "id": 27,
+    "palabra": "Stranger Things",
+    "taboo1": "11",
+    "taboo2": "Demogorgon",
+    "taboo3": "Netflix",
+    "taboo4": "Serie"
+  },
+  {
+    "id": 28,
+    "palabra": "Los Simpson",
+    "taboo1": "Amarillo",
+    "taboo2": "Serie",
+    "taboo3": "Familia",
+    "taboo4": "Dibujos"
+  },
+  {
+    "id": 29,
+    "palabra": "Almohada",
+    "taboo1": "Dormir",
+    "taboo2": "Blanda",
+    "taboo3": "Cabeza",
+    "taboo4": "Cama"
+  },
+  {
+    "id": 30,
+    "palabra": "Lápiz",
+    "taboo1": "Goma",
+    "taboo2": "Escribir",
+    "taboo3": "Papel",
+    "taboo4": "Estuche"
+  },
+  {
+    "id": 31,
+    "palabra": "Covid",
+    "taboo1": "Virus",
+    "taboo2": "China",
+    "taboo3": "Vacuna",
+    "taboo4": "PCR"
+  },
+  {
+    "id": 32,
+    "palabra": "Web",
+    "taboo1": "Internet",
+    "taboo2": "Online",
+    "taboo3": "Google",
+    "taboo4": "Ordenador"
+  },
+  {
+    "id": 33,
+    "palabra": "RAM",
+    "taboo1": "Memoria",
+    "taboo2": "Ordenador",
+    "taboo3": "Volátil",
+    "taboo4": "Llena"
+  },
+  {
+    "id": 34,
+    "palabra": "Alfil",
+    "taboo1": "Ajedrez",
+    "taboo2": "Pieza",
+    "taboo3": "Diagonal",
+    "taboo4": "Mover"
+  },
+  {
+    "id": 35,
+    "palabra": "Discord",
+    "taboo1": "Hablar",
+    "taboo2": "Canal",
+    "taboo3": "Servidor",
+    "taboo4": "Juegos"
+  },
+  {
+    "id": 36,
+    "palabra": "Llorar",
+    "taboo1": "Triste",
+    "taboo2": "Lágrima",
+    "taboo3": "Ojo",
+    "taboo4": "Agua"
+  },
+  {
+    "id": 37,
+    "palabra": "USC",
+    "taboo1": "Universidad",
+    "taboo2": "Basura",
+    "taboo3": "Estudiar",
+    "taboo4": "Grado"
+  },
+  {
+    "id": 38,
+    "palabra": "Euro",
+    "taboo1": "Moneda",
+    "taboo2": "Europa",
+    "taboo3": "Cambio",
+    "taboo4": "Billete"
+  },
+  {
+    "id": 39,
+    "palabra": "Casa de Papel",
+    "taboo1": "Serie",
+    "taboo2": "Española",
+    "taboo3": "Atraco",
+    "taboo4": "Banco"
+  },
+  {
+    "id": 40,
+    "palabra": "Nube",
+    "taboo1": "Aire",
+    "taboo2": "Cielo",
+    "taboo3": "Blanco",
+    "taboo4": "Volar"
+  },
+  {
+    "id": 41,
+    "palabra": "Cereales",
+    "taboo1": "Bol",
+    "taboo2": "Desayuno",
+    "taboo3": "Comer",
+    "taboo4": "Leche"
+  },
+  {
+    "id": 42,
+    "palabra": "Estudiante",
+    "taboo1": "Profesor",
+    "taboo2": "Escuela",
+    "taboo3": "Clase",
+    "taboo4": "Aprender"
+  },
+  {
+    "id": 43,
+    "palabra": "Porro",
+    "taboo1": "Marihuana",
+    "taboo2": "Fumar",
+    "taboo3": "Liar",
+    "taboo4": "Droga"
+  },
+  {
+    "id": 44,
+    "palabra": "Spotify",
+    "taboo1": "Música",
+    "taboo2": "Canción",
+    "taboo3": "Escuchar",
+    "taboo4": "Aplicación"
+  },
+  {
+    "id": 45,
+    "palabra": "Winx",
+    "taboo1": "Hadas",
+    "taboo2": "Disfraz",
+    "taboo3": "Enchantix",
+    "taboo4": "Serie"
+  },
+  {
+    "id": 46,
+    "palabra": "Furro",
+    "taboo1": "Traje",
+    "taboo2": "Animal",
+    "taboo3": "Disfraz",
+    "taboo4": "Fetiche"
+  },
+  {
+    "id": 47,
+    "palabra": "Madame Casquet",
+    "taboo1": "Sexo",
+    "taboo2": "Instagram",
+    "taboo3": "Educación",
+    "taboo4": "Influencer"
+  },
+  {
+    "id": 48,
+    "palabra": "Tequila",
+    "taboo1": "Alcohol",
+    "taboo2": "Chupito",
+    "taboo3": "Sal",
+    "taboo4": "San José"
+  },
+  {
+    "id": 49,
+    "palabra": "Bizum",
+    "taboo1": "Dinero",
+    "taboo2": "Pagar",
+    "taboo3": "Banco",
+    "taboo4": "Transferencia"
+  },
+  {
+    "id": 50,
+    "palabra": "Tetas",
+    "taboo1": "Bufarras",
+    "taboo2": "Mamelungas",
+    "taboo3": "TeTinas Turner",
+    "taboo4": "Lolas Flores"
+  },
+  {
+    "id": 51,
+    "palabra": "Policia",
+    "taboo1": "Oficial",
+    "taboo2": "Trabajo",
+    "taboo3": "Facha",
+    "taboo4": "Uniforme"
+  },
+  {
+    "id": 52,
+    "palabra": "Cayetano",
+    "taboo1": "Taburete",
+    "taboo2": "Pijo",
+    "taboo3": "Facha",
+    "taboo4": "ADE"
+  },
+  {
+    "id": 53,
+    "palabra": "Gafas de sol",
+    "taboo1": "Ravera",
+    "taboo2": "Ver",
+    "taboo3": "Oscuro",
+    "taboo4": "Ojos"
+  },
+  {
+    "id": 54,
+    "palabra": "Camisa",
+    "taboo1": "Ropa",
+    "taboo2": "Botón",
+    "taboo3": "Arriba",
+    "taboo4": "Blusa"
+  },
+  {
+    "id": 55,
+    "palabra": "Risa",
+    "taboo1": "Broma",
+    "taboo2": "Chiste",
+    "taboo3": "Gracioso",
+    "taboo4": "Sonreír"
+  },
+  {
+    "id": 56,
+    "palabra": "Yogurt",
+    "taboo1": "Leche",
+    "taboo2": "Lácteo",
+    "taboo3": "Comida",
+    "taboo4": "Pablo"
+  },
+  {
+    "id": 57,
+    "palabra": "Samantha Hudson",
+    "taboo1": "Reina",
+    "taboo2": "Pablo Motos",
+    "taboo3": "LGBT",
+    "taboo4": "Maricón"
+  },
+  {
+    "id": 58,
+    "palabra": "Invierno",
+    "taboo1": "Estación",
+    "taboo2": "Navidad",
+    "taboo3": "Nieve",
+    "taboo4": "Diciembre"
+  },
+  {
+    "id": 59,
+    "palabra": "Tortilla",
+    "taboo1": "Huevos",
+    "taboo2": "Comida",
+    "taboo3": "Patata",
+    "taboo4": "Pan"
+  },
+  {
+    "id": 60,
+    "palabra": "Jack Daniels",
+    "taboo1": "Whiskey",
+    "taboo2": "Alcohol",
+    "taboo3": "Beber",
+    "taboo4": "Coca Cola"
   }
 ]
