@@ -76,7 +76,7 @@
 												</div>
 												<!--end::Content-->
 												<!--begin::Icon-->
-                                                <h3 id="palabra" style="display: none!important; font-size: 3em!important; margin-top: 3em;" class="d-block text-center d-block font-weight-bold text-white"></h3>
+                                                <h3 id="palabra" style="display: none!important; font-size: 3em; margin-top: 3em;" class="d-block text-center d-block font-weight-bold text-white"></h3>
 												<div id="inputStart" class="d-flex flex-center position-relative py-20 animacion">
 													<input id="input" class="form-control" type="text" placeholder="introduce la palabra...">
                                                     <button onclick="addWord()" class="btn h-60px w-60px pr-0"><i style="font-size: 2em; color: white;" class="fa fa-plus p-0"></i></button>
@@ -136,7 +136,7 @@
 
 		<!-- Modal-->
 		<div class="modal fade" id="tutorial" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
-			<div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
 						<h5 class="modal-title" id="exampleModalLabel">Cómo jugar</h5>
@@ -144,15 +144,16 @@
 							<i aria-hidden="true" class="ki ki-close"></i>
 						</button>
 					</div>
-					<div class="modal-body">
-						<h5>El objectivo del juego es conseguir que la persona de tu lado adivine la palabra que aparezca. <br/><br/>
-                            Para comenzar, cada jugador debe escribir 1 o 2 palabras. Después se realizan 3 rondas: 
+					<div class="modal-body" style="height: 300px;">
+						<h5>Para comenzar, cada jugador debe escribir 1 o 2 palabras. Después se realizan 3 rondas: 
                             <br/><br/>
-                            <ul>
-                                <li>1ª ronda: debéis describir la palabra.</li>
-                                <li>2ª ronda: debéis decir palabras relacionadas con esta.</li>
-                                <li>3ª ronda: debéis hacer la palabra con mímica.</li>
-                            </ul>
+                            <ol>
+                                <li><span style="font-weight: bold;">Describir:</span> debéis describir la palabra.</li>
+                                <li><span style="font-weight: bold;">Solo 1 palabra:</span> debéis decir palabras sueltas relacionadas con esta.</li>
+                                <li><span style="font-weight: bold;">Mímica:</span> debéis hacer la palabra con mímica.</li>
+                                <li><span style="font-weight: bold;">Estatua:</span> hacéis un segundo de mímica y os congeláis.</li>
+                            </ol>
+							Cada persona tiene 30 segundos para adivinar todas las palabras posibles, si no lo logra le pasa el móvil al siguiente.
 						</h5>
 					</div>
 				</div>
@@ -160,7 +161,7 @@
 		</div>
 
         <div class="modal fade" id="listadoPalabras" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
-			<div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
 						<h5 class="modal-title" id="exampleModalLabel">Palabras añadidas</h5>
@@ -190,7 +191,7 @@
 
 		<script>
             const ul = $("#ulPalabras");
-            const rondas = ["Introduce palabras", "Describir", "Solo 1 palabra", "Mímica", "¡Se acabó!"];
+            const rondas = ["Introduce palabras", "Describir", "Solo 1 palabra", "Mímica", "Estatua", "¡Se acabó!"];
             var currentRound = 0;
             const palabras = [];
             var palabrasRandom = [];
@@ -228,12 +229,17 @@
             }
 
             function round(number) {
-				if(number == 3) {
-					$("#palabra").text("Habéis completado todas las rondas, recargad la página para seguir jugando :)");
+                $("#ronda").text(rondas[number]);
+
+				if(number == 5) {
+					console.log("Hola");
+					$("#palabra")
+						.text("Habéis completado todas las rondas, recargad la página para seguir jugando :)")
+						.css("font-size", "2em");
 					$('#btnContenido').css("visibility", "hidden");
+					return
 				}
 
-                $("#ronda").text(rondas[number]);
                 currentRound = number;
                 palabrasRandom = palabras.slice(0);
                 shuffleArray(palabrasRandom);
@@ -272,7 +278,7 @@
 				}
 			}
             
-			// $('#tutorial').modal('show');
+			$('#tutorial').modal('show');
 		</script>
 
 	<!--end::Body-->
