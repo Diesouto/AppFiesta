@@ -562,5 +562,347 @@
     "titulo": "Bebe quien...",
     "frase": "Tenga su cumpleaños más cerca.",
     "icono": "fas fa-birthday-cake"
+  },
+  {
+    "id": 94,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga Tinder instalado.",
+    "icono": "fas fa-fire"
+  },
+  {
+    "id": 95,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga Grindr instalado.",
+    "icono": "fa fa-mars-double"
+  },
+  {
+    "id": 96,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga TikTok instalado.",
+    "icono": "fab fa-tiktok"
+  },
+  {
+    "id": 97,
+    "titulo": "Bebe quien...",
+    "frase": "Se llame Alba.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 98,
+    "titulo": "Bebe quien...",
+    "frase": "Se llame Estela.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 99,
+    "titulo": "Bebe quien...",
+    "frase": "Se llame Miguel.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 100,
+    "titulo": "Bebe quien...",
+    "frase": "Haya follado más recientemente.",
+    "icono": "fab fa-angellist"
+  },
+  {
+    "id": 101,
+    "titulo": "Bebe quien...",
+    "frase": "Haya estudiado informática.",
+    "icono": "fas fa-code"
+  },
+  {
+    "id": 102,
+    "titulo": "Bebe quien...",
+    "frase": "Haya estudiado relacionado con las artes.",
+    "icono": "fas fa-palette"
+  },
+  {
+    "id": 103,
+    "titulo": "Bebe quien...",
+    "frase": "Haya estudiado derecho.",
+    "icono": "fas fa-gavel"
+  },
+  {
+    "id": 104,
+    "titulo": "Bebe quien...",
+    "frase": "Sea estudiante.",
+    "icono": "fas fa-graduation-cap"
+  },
+  {
+    "id": 105,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga trabajo.",
+    "icono": "fas fa-briefcase"
+  },
+  {
+    "id": 106,
+    "titulo": "Bebe quien...",
+    "frase": "Sea extranjero.",
+    "icono": "fas fa-globe-europe"
+  },
+  {
+    "id": 107,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más otaku.",
+    "icono": "fas fa-glasses"
+  },
+  {
+    "id": 108,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más ravero.",
+    "icono": "fas fa-glass-cheers"
+  },
+  {
+    "id": 109,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más bohemio.",
+    "icono": "fab fa-redhat"
+  },
+  {
+    "id": 110,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más achuchable.",
+    "icono": "fas fa-smile-beam"
+  },
+  {
+    "id": 111,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más borde.",
+    "icono": "fas fa-angry"
+  },
+  {
+    "id": 112,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga piscina (e invitáis a ir).",
+    "icono": "fas fa-swimmer"
+  },
+  {
+    "id": 113,
+    "titulo": "Bebe quien...",
+    "frase": "Esté depilado.",
+    "icono": "fas fa-cut"
+  },
+  {
+    "id": 114,
+    "titulo": "Bebe quien...",
+    "frase": "Estudie estética.",
+    "icono": "fas fa-paint-brush"
+  },
+  {
+    "id": 115,
+    "titulo": "Bebe quien...",
+    "frase": "Esté maquilladx.",
+    "icono": "fas fa-paint-brush"
+  },
+  {
+    "id": 116,
+    "titulo": "Bebe quien...",
+    "frase": "Esté más borrachx.",
+    "icono": "fas fa-wine-bottle"
+  },
+  {
+    "id": 117,
+    "titulo": "Bebe quien...",
+    "frase": "Sea vegetariano.",
+    "icono": "fas fa-carrot"
+  },
+  {
+    "id": 118,
+    "titulo": "Bebe quien...",
+    "frase": "Sea vegano.",
+    "icono": "fas fa-carrot"
+  },
+  {
+    "id": 119,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más personaje.",
+    "icono": "fas fa-user-astronaut"
+  },
+  {
+    "id": 120,
+    "titulo": "Bebe quien...",
+    "frase": "Sea el alma de la fiesta.",
+    "icono": "fas fa-user-ninja"
+  },
+  {
+    "id": 121,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga ginebra.",
+    "icono": "fas fa-wine-bottle"
+  },
+  {
+    "id": 122,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga vodka.",
+    "icono": "fas fa-wine-bottle"
+  },
+  {
+    "id": 123,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga tequila.",
+    "icono": "fas fa-wine-bottle"
+  },
+  {
+    "id": 124,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga whiskey.",
+    "icono": "fas fa-wine-bottle"
+  },
+  {
+    "id": 125,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga un chupón.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 126,
+    "titulo": "Bebe quien...",
+    "frase": "Juegue a videojuegos.",
+    "icono": "fa fa-gamepad"
+  },
+  {
+    "id": 127,
+    "titulo": "Bebe quien...",
+    "frase": "Haya hecho de modelo.",
+    "icono": "fas fa-grin-stars"
+  },
+  {
+    "id": 128,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga pulseras.",
+    "icono": "fas fa-ring"
+  },
+  {
+    "id": 129,
+    "titulo": "Bebe quien...",
+    "frase": "Lleve camisa.",
+    "icono": "fas fa-tshirt"
+  },
+  {
+    "id": 130,
+    "titulo": "Bebe quien...",
+    "frase": "Lleve vaqueros.",
+    "icono": "fa fa-columns"
+  },
+  {
+    "id": 131,
+    "titulo": "Bebe quien...",
+    "frase": "Salió de fiesta más recientemente.",
+    "icono": "fas fa-birthday-cake"
+  },
+  {
+    "id": 132,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga el pelo rubio.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 133,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga el pelo castaño.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 134,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga el pelo negro.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 135,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga el pelo teñido.",
+    "icono": "fas fa-user"
+  },
+  {
+    "id": 136,
+    "titulo": "Bebe quien...",
+    "frase": "Lleve anillos.",
+    "icono": "fas fa-ring"
+  },
+  {
+    "id": 137,
+    "titulo": "Bebe quien...",
+    "frase": "Lleve colgante.",
+    "icono": "fas fa-star"
+  },
+  {
+    "id": 138,
+    "titulo": "Bebe quien...",
+    "frase": "Tenga tatuajes.",
+    "icono": "fas fa-dragon"
+  },
+  {
+    "id": 139,
+    "titulo": "Bebe quien...",
+    "frase": "Haya comprado alcohol hoy.",
+    "icono": "fas fa-money-bill-wave"
+  },
+  {
+    "id": 140,
+    "titulo": "Bebe quien...",
+    "frase": "Haya comprado alcohol hoy.",
+    "icono": "fas fa-wine-bottle"
+  },
+  {
+    "id": 141,
+    "titulo": "Bebe quien...",
+    "frase": "Se haya duchado hoy.",
+    "icono": "fas fa-shower"
+  },
+  {
+    "id": 142,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más gay.",
+    "icono": "fas fa-mars-double"
+  },
+  {
+    "id": 143,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más hetero(básico).",
+    "icono": "fas fa-venus-mars"
+  },
+  {
+    "id": 144,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más mono.",
+    "icono": "fab fa-mailchimp"
+  },
+  {
+    "id": 145,
+    "titulo": "Bebe quien...",
+    "frase": "Se parezca a un famoso.",
+    "icono": "fas fa-user-friends"
+  },
+  {
+    "id": 146,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más estudioso.",
+    "icono": "fa fa-glasses"
+  },
+  {
+    "id": 147,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más tonto.",
+    "icono": "fas fa-crown"
+  },
+  {
+    "id": 148,
+    "titulo": "Bebe quien...",
+    "frase": "Lleve lentillas.",
+    "icono": "fas fa-eye"
+  },
+  {
+    "id": 149,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más facha.",
+    "icono": "fas fa-flag"
+  },
+  {
+    "id": 150,
+    "titulo": "Bebe quien...",
+    "frase": "Sea más de izquierdas.",
+    "icono": "fas fa-flag"
   }
 ]

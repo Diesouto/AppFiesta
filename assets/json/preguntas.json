@@ -253,32 +253,32 @@
   },
   {
     "id": 42,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to dormirse antes?",
+    "titulo": "Most likely to...",
+    "frase": "Dormirse antes?",
     "icono": "fas fa-question"
   },
   {
     "id": 43,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to acabar siendo presidente?",
+    "titulo": "Most likely to...",
+    "frase": "Acabar siendo presidente?",
     "icono": "fas fa-question"
   },
   {
     "id": 44,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to atracar un banco?",
+    "titulo": "Most likely to...",
+    "frase": "Atracar un banco?",
     "icono": "fas fa-question"
   },
   {
     "id": 45,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to acabar en Portugal una noche de borrachera?",
+    "titulo": "Most likely to...",
+    "frase": "Acabar en Portugal una noche de borrachera?",
     "icono": "fas fa-question"
   },
   {
     "id": 46,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to ligar en una discoteca?",
+    "titulo": "Most likely to...",
+    "frase": "Ligar en una discoteca?",
     "icono": "fas fa-question"
   },
   {
@@ -493,140 +493,422 @@
   },
   {
     "id": 82,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to hacerse un bocata de nocilla con chorizo?",
+    "titulo": "Most likely to...",
+    "frase": "Hacerse un bocata de nocilla con chorizo?",
     "icono": "fas fa-question"
   },
   {
     "id": 83,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to copiar en un examen?",
+    "titulo": "Most likely to...",
+    "frase": "Copiar en un examen?",
     "icono": "fas fa-question"
   },
   {
     "id": 84,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to mentir para no salir?",
+    "titulo": "Most likely to...",
+    "frase": "Mentir para no salir?",
     "icono": "fas fa-question"
   },
   {
     "id": 85,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to hacerse antidisturbios para pegarle a la gente?",
+    "titulo": "Most likely to...",
+    "frase": "Hacerse antidisturbios para pegarle a la gente?",
     "icono": "fas fa-question"
   },
   {
     "id": 86,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to acabar en una estafa piramidal?",
+    "titulo": "Most likely to...",
+    "frase": "Acabar en una estafa piramidal?",
     "icono": "fas fa-question"
   },
   {
     "id": 87,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to adoptar 20 perros/gatos?",
+    "titulo": "Most likely to...",
+    "frase": "Adoptar 20 perros/gatos?",
     "icono": "fas fa-question"
   },
   {
     "id": 88,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to follarse a un animal?",
+    "titulo": "Most likely to...",
+    "frase": "Follarse a un animal?",
     "icono": "fas fa-question"
   },
   {
     "id": 89,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to mentir para liarse con alguien?",
+    "titulo": "Most likely to...",
+    "frase": "Mentir para liarse con alguien?",
     "icono": "fas fa-question"
   },
   {
     "id": 90,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to fumarse un porro?",
+    "titulo": "Most likely to...",
+    "frase": "Fumarse un porro?",
     "icono": "fas fa-cannabis"
   },
   {
     "id": 91,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to acabar viviendo en el extranjero?",
+    "titulo": "Most likely to...",
+    "frase": "Acabar viviendo en el extranjero?",
     "icono": "fas fa-question"
   },
   {
     "id": 92,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to casarse con unx famosx?",
+    "titulo": "Most likely to...",
+    "frase": "Casarse con unx famosx?",
     "icono": "fas fa-question"
   },
   {
     "id": 93,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to ser un pajas?",
+    "titulo": "Most likely to...",
+    "frase": "Ser un pajas?",
     "icono": "fas fa-question"
   },
   {
     "id": 94,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to ganar un premio Nobel?",
+    "titulo": "Most likely to...",
+    "frase": "Ganar un premio Nobel?",
     "icono": "fas fa-question"
   },
   {
     "id": 95,
-    "titulo": "Pregunta...",
+    "titulo": "Most likely to...",
     "frase": "Hacer el ridículo en público?",
     "icono": "fas fa-question"
   },
   {
     "id": 96,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to meterse en una pelea?",
+    "titulo": "Most likely to...",
+    "frase": "Meterse en una pelea?",
     "icono": "fas fa-question"
   },
   {
     "id": 97,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to ser arrestado?",
+    "titulo": "Most likely to...",
+    "frase": "Ser arrestado?",
     "icono": "fas fa-question"
   },
   {
     "id": 98,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to morir en un apocalipsis zombie?",
+    "titulo": "Most likely to...",
+    "frase": "Morir en un apocalipsis zombie?",
     "icono": "fas fa-question"
   },
   {
     "id": 99,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to enamorarse de un desconocido?",
+    "titulo": "Most likely to...",
+    "frase": "Enamorarse de un desconocido?",
     "icono": "fas fa-question"
   },
   {
     "id": 100,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to ganar las Olimpiadas?",
+    "titulo": "Most likely to...",
+    "frase": "Ganar las Olimpiadas?",
     "icono": "fas fa-question"
   },
   {
     "id": 101,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to escribir un best-seller?",
+    "titulo": "Most likely to...",
+    "frase": "Escribir un best-seller?",
     "icono": "fas fa-question"
   },
   {
     "id": 102,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to ir a la Isla de las Tentaciones?",
+    "titulo": "Most likely to...",
+    "frase": "Ir a la Isla de las Tentaciones?",
     "icono": "fas fa-question"
   },
   {
     "id": 103,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to reírse en un mal momento?",
+    "titulo": "Most likely to...",
+    "frase": "Reírse en un mal momento?",
     "icono": "fas fa-question"
   },
   {
     "id": 104,
-    "titulo": "Pregunta...",
-    "frase": "Most likely to unirse al circo?",
+    "titulo": "Most likely to...",
+    "frase": "Unirse al circo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 105,
+    "titulo": "Qué preferirías...",
+    "frase": "Que tu corrida sea ketchup o mostaza?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 106,
+    "titulo": "Qué preferirías...",
+    "frase": "Que un choche te aplaste un pie o una mano?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 107,
+    "titulo": "Qué preferirías...",
+    "frase": "Quedarte en Galicia o no volver nunca más?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 108,
+    "titulo": "Qué preferirías...",
+    "frase": "Que te disparen o que te apuñalen?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 109,
+    "titulo": "Qué preferirías...",
+    "frase": "Poner los cuernos o que te los pongan?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 110,
+    "titulo": "Qué preferirías...",
+    "frase": "No escuchar otra canción o no ver ningún vídeo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 111,
+    "titulo": "Qué preferirías...",
+    "frase": "Perder el gusto o el olfato?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 112,
+    "titulo": "Qué preferirías...",
+    "frase": "Ir 100 años al pasado o al futuro?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 113,
+    "titulo": "Qué preferirías...",
+    "frase": "Vivir en Star Wars o Star Trek?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 114,
+    "titulo": "Qué preferirías...",
+    "frase": "Vivir en Harry Potter o Percy Jackson?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 115,
+    "titulo": "Qué preferirías...",
+    "frase": "Pasar un día en el desierto o en el polo norte?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 116,
+    "titulo": "Qué preferirías...",
+    "frase": "Vivir en un coche o un avión?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 117,
+    "titulo": "Qué preferirías...",
+    "frase": "Decir una palabrota después de cada palabra o que te den un puñetazo después de cada palabrota?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 118,
+    "titulo": "Qué preferirías...",
+    "frase": "Solo comer Doritos o Pringles?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 119,
+    "titulo": "Qué preferirías...",
+    "frase": "Dolor de barriga o dolor de cabeza?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 120,
+    "titulo": "Qué preferirías...",
+    "frase": "Estar terriblemente deprimido o tener ansiedad muy agobiante?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 121,
+    "titulo": "Qué preferirías...",
+    "frase": "Liarte con Gollum o con Voldemort?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 122,
+    "titulo": "Qué preferirías...",
+    "frase": "Conducir un Monster truck o un carro de caballos?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 123,
+    "titulo": "Qué preferirías...",
+    "frase": "Bailar como Michael Jackson o cantar como Freddy Mercury?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 124,
+    "titulo": "Qué preferirías...",
+    "frase": "Ver Friends o The Office?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 125,
+    "titulo": "Qué preferirías...",
+    "frase": "No tener lengua o no tener dientes?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 126,
+    "titulo": "Qué preferirías...",
+    "frase": "Descubrir el monstruo del lago Ness o al Piegrande?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 127,
+    "titulo": "Qué preferirías...",
+    "frase": "Ser un gymbro o ser una pickme?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 128,
+    "titulo": "Qué preferirías...",
+    "frase": "Que te pinte Da Vinci o Van Gohg?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 129,
+    "titulo": "Qué preferirías...",
+    "frase": "Que existan los Pokémon o los superhéroes?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 130,
+    "titulo": "Qué preferirías...",
+    "frase": "Ser Batman o ser Superman?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 131,
+    "titulo": "Qué preferirías...",
+    "frase": "Liarte con Gollum o con Voldemort?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 132,
+    "titulo": "Qué preferirías...",
+    "frase": "Vivir en la antigua Grecia o en la Edad Media?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 133,
+    "titulo": "Qué preferirías...",
+    "frase": "Solo vestir de seda o solo vaquero?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 134,
+    "titulo": "Qué preferirías...",
+    "frase": "Solo poder ir en pijama o disfrazado?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 135,
+    "titulo": "Qué preferirías...",
+    "frase": "Ser inmortal o morirte ahora mismo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 136,
+    "titulo": "Qué preferirías...",
+    "frase": "Solo usar Instagram o Twitter?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 137,
+    "titulo": "Qué preferirías...",
+    "frase": "No comer nada en 3 días o comer lo mismo un mes entero?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 138,
+    "titulo": "Qué preferirías...",
+    "frase": "Que te ahorquen o te guillotinen?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 139,
+    "titulo": "Qué preferirías...",
+    "frase": "Sacarte todo tu pelo o todas tus uñas?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 140,
+    "titulo": "Qué preferirías...",
+    "frase": "Vivir en un piso pequeño en medio de la ciudad o una mansión en medio de la nada?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 141,
+    "titulo": "Qué preferirías...",
+    "frase": "Que te pase una ETS tu crush o embarazar a alguien que no te gusta nada?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 142,
+    "titulo": "Qué preferirías...",
+    "frase": "Salir de fiesta con Snoop Dog o con Miley Cirus?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 143,
+    "titulo": "Qué preferirías...",
+    "frase": "Perder un ojo y una mano o una pierna y un oído?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 144,
+    "titulo": "Qué preferirías...",
+    "frase": "Olvidar quién eres o olvidar a todos los que conoces?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 145,
+    "titulo": "Qué preferirías...",
+    "frase": "Ser famoso o ser rico?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 146,
+    "titulo": "Qué preferirías...",
+    "frase": "Tener una solitaria o tener SIDA?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 147,
+    "titulo": "Qué preferirías...",
+    "frase": "Ser el mejor cantante del mundo pero feo o guapo y cantar fatal?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 148,
+    "titulo": "Qué preferirías...",
+    "frase": "Quedarte sin oxígeno haciendo submarinismo o que se parta la cuerda haciendo puenting?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 149,
+    "titulo": "Qué preferirías...",
+    "frase": "Solucionar el hambre mundial o curar el cáncer?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 150,
+    "titulo": "Qué preferirías...",
+    "frase": "Escuchar a tus padres follando o discutiendo?",
+    "icono": "fas fa-question"
+  },
+  {
+    "id": 151,
+    "titulo": "Most likely to...",
+    "frase": "Acabar debajo de un puente?",
     "icono": "fas fa-question"
   }
 ]

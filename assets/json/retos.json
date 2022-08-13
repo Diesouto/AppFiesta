@@ -544,5 +544,395 @@
     "titulo": "Te reto a...",
     "frase": "Di un lío de las personas presentes, si no sabes alguno bebes.",
     "icono": "fas fa-heart"
+  },
+  {
+    "id": 92,
+    "titulo": "Te reto a...",
+    "frase": "Decir 3 YouTubers en 10 segundos.",
+    "icono": "fab fa-youtube"
+  },
+  {
+    "id": 93,
+    "titulo": "Te reto a...",
+    "frase": "Decir 3 marcas de leche en 10 segundos.",
+    "icono": "fa fa-coffee"
+  },
+  {
+    "id": 94,
+    "titulo": "Te reto a...",
+    "frase": "Decir una fantasía sexual o acaba tu bebida.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 95,
+    "titulo": "Te reto a...",
+    "frase": "Subir un . y opino a Instagram.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 96,
+    "titulo": "Te reto a...",
+    "frase": "Subir un . y si me lío a Instagram.",
+    "icono": "fab fa-instagram"
+  },
+  {
+    "id": 97,
+    "titulo": "Te reto a...",
+    "frase": "Ponerle a un desconocido sin similitudes que os parecéis muchísimo.",
+    "icono": "fa fa-comment"
+  },
+  {
+    "id": 98,
+    "titulo": "Te reto a...",
+    "frase": "Contar algún cotilleo sin decir nombres.",
+    "icono": "fa fa-comment"
+  },
+  {
+    "id": 99,
+    "titulo": "Te reto a...",
+    "frase": "Contar tu mayor mentira.",
+    "icono": "fa fa-comment"
+  },
+  {
+    "id": 100,
+    "titulo": "Te reto a...",
+    "frase": "Terminar todas tus frases diciendo: 'o eso dicen' una ronda.",
+    "icono": "fa fa-comment"
+  },
+  {
+    "id": 101,
+    "titulo": "Te reto a...",
+    "frase": "Hablar como un personaje que elijan una ronda.",
+    "icono": "fa fa-comment"
+  },
+  {
+    "id": 102,
+    "titulo": "Te reto a...",
+    "frase": "Sentarte encima/que se te siente alguien del grupo una ronda.",
+    "icono": "fas fa-chair"
+  },
+  {
+    "id": 103,
+    "titulo": "Te reto a...",
+    "frase": "Anunciar que estás esperando un bebé.",
+    "icono": "fa fa-child"
+  },
+  {
+    "id": 104,
+    "titulo": "Te reto a...",
+    "frase": "Decir una inseguridad.",
+    "icono": "fa fa-comment"
+  },
+  {
+    "id": 105,
+    "titulo": "Te reto a...",
+    "frase": "Rajar de alguien del grupo sin decir su nombre.",
+    "icono": "fas fa-skull-crossbones"
+  },
+  {
+    "id": 106,
+    "titulo": "Te reto a...",
+    "frase": "Decir algo que te gusta de alguien presente sin decir su nombre.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 107,
+    "titulo": "Te reto a...",
+    "frase": "Pedir matrimonio a alguien presente.",
+    "icono": "fas fa-ring"
+  },
+  {
+    "id": 108,
+    "titulo": "Te reto a...",
+    "frase": "Ofrecer ser el sugardaddy de un desconocido por fotopies.",
+    "icono": "fa fa-comments-dollar"
+  },
+  {
+    "id": 109,
+    "titulo": "Te reto a...",
+    "frase": "Enseñar la última foto de tu galería.",
+    "icono": "far fa-image"
+  },
+  {
+    "id": 110,
+    "titulo": "Te reto a...",
+    "frase": "Enseñar un meme, si no se ríe nadie bebes.",
+    "icono": "far fa-image"
+  },
+  {
+    "id": 111,
+    "titulo": "Te reto a...",
+    "frase": "Beber un chupito si contestas con sí o no.",
+    "icono": "fa fa-glass-whiskey"
+  },
+  {
+    "id": 112,
+    "titulo": "Te reto a...",
+    "frase": "Hacer mímica de un animal.",
+    "icono": "fas fa-paw"
+  },
+  {
+    "id": 113,
+    "titulo": "Te reto a...",
+    "frase": "Imitar a alguien del grupo, si no adivinan quien es bebes.",
+    "icono": "fas fa-hand-peace"
+  },
+  {
+    "id": 114,
+    "titulo": "Te reto a...",
+    "frase": "Poner una historia en mejores amigos que ponga: 'borré a todo el mundo menos a los feos'.",
+    "icono": "fab fa-instagram"
+  },
+  {
+    "id": 115,
+    "titulo": "Te reto a...",
+    "frase": "Pasarle un hielo con la boca a la persona de tu derecha.",
+    "icono": "fa fa-dice-d6"
+  },
+  {
+    "id": 116,
+    "titulo": "Te reto a...",
+    "frase": "Pasarle un hielo con la boca a la persona de tu izquierda.",
+    "icono": "fa fa-dice-d6"
+  },
+  {
+    "id": 117,
+    "titulo": "Te reto a...",
+    "frase": "Pasarle un hielo con la boca a quien más te guste.",
+    "icono": "fa fa-dice-d6"
+  },
+  {
+    "id": 118,
+    "titulo": "Te reto a...",
+    "frase": "Cambiarte de sitio con quien te caiga mejor.",
+    "icono": "fas fa-chair"
+  },
+  {
+    "id": 119,
+    "titulo": "Te reto a...",
+    "frase": "Hablar como un gymbro una ronda.",
+    "icono": "fas fa-dumbbell"
+  },
+  {
+    "id": 120,
+    "titulo": "Te reto a...",
+    "frase": "Hablar como una pick girl me una ronda.",
+    "icono": "fa fa-comment"
+  },
+  {
+    "id": 121,
+    "titulo": "Te reto a...",
+    "frase": "Hablar como un otaku una ronda.",
+    "icono": "fa fa-comment"
+  },
+  {
+    "id": 122,
+    "titulo": "Te reto a...",
+    "frase": "Ligar haciendo referencias de series o películas.",
+    "icono": "fa fa-film"
+  },
+  {
+    "id": 123,
+    "titulo": "Te reto a...",
+    "frase": "Decir cosas que puedas decir en el sexo y en un funeral.",
+    "icono": "fa fa-comment"
+  },
+  {
+    "id": 124,
+    "titulo": "Te reto a...",
+    "frase": "Decir cosas que puedas decir en el sexo y en la defensa de tu tesis.",
+    "icono": "fa fa-comment"
+  },
+  {
+    "id": 125,
+    "titulo": "Te reto a...",
+    "frase": "Decir cosas que puedas decir en el sexo y en el supermercado.",
+    "icono": "fa fa-comment"
+  },
+  {
+    "id": 126,
+    "titulo": "Te reto a...",
+    "frase": "Hacer como que te excitas cuando te hablen una ronda.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 127,
+    "titulo": "Te reto a...",
+    "frase": "Hacer sonidos de animales al terminar tus frases una ronda.",
+    "icono": "fas fa-paw"
+  },
+  {
+    "id": 128,
+    "titulo": "Te reto a...",
+    "frase": "Levantar tu vaso, cada vez que alguien enceste algo esta ronda bebes.",
+    "icono": "fas fa-basketball-ball"
+  },
+  {
+    "id": 129,
+    "titulo": "Te reto a...",
+    "frase": "Ponerte una prenda del revés una ronda.",
+    "icono": "fas fa-tshirt"
+  },
+  {
+    "id": 130,
+    "titulo": "Te reto a...",
+    "frase": "Besar el cuello de la persona de tu izquierda.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 131,
+    "titulo": "Te reto a...",
+    "frase": "Besar el cuello de la persona de tu derecha.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 132,
+    "titulo": "Te reto a...",
+    "frase": "Besar el cuello de la persona de enfrente.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 133,
+    "titulo": "Te reto a...",
+    "frase": "Besar el cuello de la persona que el resto elija.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 134,
+    "titulo": "Te reto a...",
+    "frase": "Canta una serenata a alguien del grupo.",
+    "icono": "fas fa-music"
+  },
+  {
+    "id": 135,
+    "titulo": "Te reto a...",
+    "frase": "Jugar a la botella.",
+    "icono": "fas fa-wine-bottle fa-spin"
+  },
+  {
+    "id": 136,
+    "titulo": "Te reto a...",
+    "frase": "Mandarle un mensaje por Insta a @diesouto.",
+    "icono": "fab fa-instagram"
+  },
+  {
+    "id": 137,
+    "titulo": "Te reto a...",
+    "frase": "Jugar a fuck marry kill con las personas que elijan.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 138,
+    "titulo": "Te reto a...",
+    "frase": "Jugar a fuck marry kill personas de tu grupo.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 139,
+    "titulo": "Te reto a...",
+    "frase": "Jugar a fuck marry kill con las personas de tu familia.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 140,
+    "titulo": "Te reto a...",
+    "frase": "Susurrar un secreto/cotilleo a alguien, si no se sorprende bebes.",
+    "icono": "fas fa-surprise"
+  },
+  {
+    "id": 141,
+    "titulo": "Te reto a...",
+    "frase": "Manda una foto por md a alguien haciendo el corte de manga.",
+    "icono": "fa fa-hand-middle-finger"
+  },
+  {
+    "id": 142,
+    "titulo": "Te reto a...",
+    "frase": "Susurra cosas guarras a la persona de tu izquierda.",
+    "icono": "fas fa-surprise"
+  },
+  {
+    "id": 143,
+    "titulo": "Te reto a...",
+    "frase": "Susurra cosas guarras a la persona de tu derecha.",
+    "icono": "fas fa-surprise"
+  },
+  {
+    "id": 144,
+    "titulo": "Te reto a...",
+    "frase": "Decir tu postura sexual favorita.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 145,
+    "titulo": "Te reto a...",
+    "frase": "Buscar una postura sexual por internet e imitarla con algo/alguien.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 146,
+    "titulo": "Te reto a...",
+    "frase": "Hablar como un guiri una ronda.",
+    "icono": "fas fa-flag-usa"
+  },
+  {
+    "id": 147,
+    "titulo": "Te reto a...",
+    "frase": "Hablar como un fodechincho una ronda.",
+    "icono": "fas fa-flag-usa"
+  },
+  {
+    "id": 148,
+    "titulo": "Te reto a...",
+    "frase": "Hablar como alguien muy inteso una ronda.",
+    "icono": "fas fa-comment"
+  },
+  {
+    "id": 149,
+    "titulo": "Te reto a...",
+    "frase": "Fingir como que eres una sirena de H2O una ronda.",
+    "icono": "fas fa-fish"
+  },
+  {
+    "id": 150,
+    "titulo": "Te reto a...",
+    "frase": "Fingir como que eres un vampiro una ronda.",
+    "icono": "fas fa-tint"
+  },
+  {
+    "id": 151,
+    "titulo": "Te reto a...",
+    "frase": "Hacer como que le lees las cartas a alguien del grupo.",
+    "icono": "fa fa-magic"
+  },
+  {
+    "id": 152,
+    "titulo": "Te reto a...",
+    "frase": "Hacer un 5 cosas sobre mí.",
+    "icono": "fab fa-html5"
+  },
+  {
+    "id": 153,
+    "titulo": "Te reto a...",
+    "frase": "Adivinar la postura sexual favorita del de tu derecha.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 154,
+    "titulo": "Te reto a...",
+    "frase": "Adivinar la postura sexual favorita del de tu izquierda.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 155,
+    "titulo": "Te reto a...",
+    "frase": "Adivinar la postura sexual favorita del de enfrente.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 156,
+    "titulo": "Te reto a...",
+    "frase": "Adivinar la postura sexual favorita de quien quieras.",
+    "icono": "fas fa-heart"
   }
 ]

@@ -556,5 +556,485 @@
     "titulo": "Yo nunca...",
     "frase": "He estado con alguien mucho menor.",
     "icono": "fas fa-sort-numeric-down"
+  },
+  {
+    "id": 93,
+    "titulo": "Yo nunca...",
+    "frase": "He atropellado/sido atropellado.",
+    "icono": "fas fa-car"
+  },
+  {
+    "id": 94,
+    "titulo": "Yo nunca...",
+    "frase": "Lo he hecho sin haber querido.",
+    "icono": "fas fa-heart-broken"
+  },
+  {
+    "id": 95,
+    "titulo": "A mí nunca...",
+    "frase": "Me han dicho que iba demasiado rápido.",
+    "icono": "fas fa-clock"
+  },
+  {
+    "id": 96,
+    "titulo": "Yo nunca...",
+    "frase": "He tenido la discusión de luces encendidas/apagadas.",
+    "icono": "fas fa-lightbulb"
+  },
+  {
+    "id": 97,
+    "titulo": "Yo nunca...",
+    "frase": "Me he liado con 2 personas de distinto sexo en una noche.",
+    "icono": "fas fa-venus-mars"
+  },
+  {
+    "id": 98,
+    "titulo": "Yo nunca...",
+    "frase": "Me he tirado a mi ex.",
+    "icono": "fas fa-heart-broken"
+  },
+  {
+    "id": 99,
+    "titulo": "Yo nunca...",
+    "frase": "He hecho un trío.",
+    "icono": "fas fa-users"
+  },
+  {
+    "id": 100,
+    "titulo": "Yo nunca...",
+    "frase": "Lo he hecho en la cama de una 3ª persona.",
+    "icono": "fas fa-bed"
+  },
+  {
+    "id": 101,
+    "titulo": "Yo nunca...",
+    "frase": "He tenido fantasias sobre hacer un trio con mi novix y otra persona.",
+    "icono": "fas fa-users"
+  },
+  {
+    "id": 102,
+    "titulo": "Yo nunca...",
+    "frase": "He practicado sadomasoquismo o usado objetos relacionados.",
+    "icono": "fas fa-link"
+  },
+  {
+    "id": 103,
+    "titulo": "Yo nunca...",
+    "frase": "He hecho un chupón.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 104,
+    "titulo": "A mí nunca...",
+    "frase": "Me han hecho un chupón.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 105,
+    "titulo": "Yo nunca...",
+    "frase": "He hecho un chupón en un lugar extraño.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 106,
+    "titulo": "A mí nunca...",
+    "frase": "Me han hecho un chupón en un lugar extraño.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 107,
+    "titulo": "Yo nunca...",
+    "frase": "Me he grabado con alguien en la cama.",
+    "icono": "fas fa-video"
+  },
+  {
+    "id": 108,
+    "titulo": "Yo nunca...",
+    "frase": "Lo he hecho con la regla.",
+    "icono": "fas fa-ruler"
+  },
+  {
+    "id": 109,
+    "titulo": "Yo nunca...",
+    "frase": "He dicho que tenía la regla para escaquearme.",
+    "icono": "fas fa-ruler"
+  },
+  {
+    "id": 110,
+    "titulo": "A mí nunca...",
+    "frase": "Me han meado encima.",
+    "icono": "fas fa-hand-holding-water"
+  },
+  {
+    "id": 111,
+    "titulo": "Yo nunca...",
+    "frase": "Lo he hecho disfrazado.",
+    "icono": "fas fa-mask"
+  },
+  {
+    "id": 112,
+    "titulo": "Yo nunca...",
+    "frase": "Me he liado con el chicx con quien estaba intentando ligar un amigx.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 113,
+    "titulo": "Yo nunca...",
+    "frase": "He roto ropa follando.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 114,
+    "titulo": "Yo nunca...",
+    "frase": "Me lo he tragado.",
+    "icono": "fas fa-cocktail"
+  },
+  {
+    "id": 115,
+    "titulo": "Yo nunca...",
+    "frase": "Me he excitado en un momento poco apropiado.",
+    "icono": "fas fa-fire"
+  },
+  {
+    "id": 116,
+    "titulo": "Yo nunca...",
+    "frase": "He involucrado comida en el sexo.",
+    "icono": "fas fa-hamburger"
+  },
+  {
+    "id": 117,
+    "titulo": "Yo nunca...",
+    "frase": "He tenido que correr a buscar mi ropa porque acababan de tocar el timbre.",
+    "icono": "fas fa-tshirt"
+  },
+  {
+    "id": 118,
+    "titulo": "Yo nunca...",
+    "frase": "Me he liado/tirado al ex de un amigx.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 119,
+    "titulo": "Yo nunca...",
+    "frase": "Le he mentido sobre mis experiencias sexuales a mi nueva pareja.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 120,
+    "titulo": "Yo nunca...",
+    "frase": "Lo he hecho en una fiesta.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 121,
+    "titulo": "Yo nunca...",
+    "frase": "Me he liado con alguien en una discoteca.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 122,
+    "titulo": "Yo nunca...",
+    "frase": "Lo he hecho en una fiesta.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 123,
+    "titulo": "Yo nunca...",
+    "frase": "Me he sacado fotos desnudo.",
+    "icono": "fas fa-sort-numeric-down"
+  },
+  {
+    "id": 124,
+    "titulo": "Yo nunca...",
+    "frase": "Le he sacado fotos desnudo a otra persona.",
+    "icono": "fas fa-camera"
+  },
+  {
+    "id": 125,
+    "titulo": "A mí nunca...",
+    "frase": "Me han lamido el culo.",
+    "icono": "fas fa-grin-tongue"
+  },
+  {
+    "id": 126,
+    "titulo": "Yo nunca...",
+    "frase": "He lamido culo.",
+    "icono": "fas fa-grin-tongue"
+  },
+  {
+    "id": 127,
+    "titulo": "Yo nunca...",
+    "frase": "Lo he hecho en la ducha.",
+    "icono": "fas fa-shower"
+  },
+  {
+    "id": 128,
+    "titulo": "Yo nunca...",
+    "frase": "Lo he hecho con un virgen.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 129,
+    "titulo": "Yo nunca...",
+    "frase": "Me he medido el pene.",
+    "icono": "fas fa-ruler"
+  },
+  {
+    "id": 130,
+    "titulo": "A mí nunca...",
+    "frase": "Me ha puesto la violencia en la cama.",
+    "icono": "fas fa-fist-raised"
+  },
+  {
+    "id": 131,
+    "titulo": "Yo nunca...",
+    "frase": "He hecho un 69.",
+    "icono": "fas fa-yin-yang fa-rotate-90"
+  },
+  {
+    "id": 132,
+    "titulo": "Yo nunca...",
+    "frase": "Me he arrepentido de con quien habia perdido la virginidad.",
+    "icono": "fas fa-heart-broken"
+  },
+  {
+    "id": 133,
+    "titulo": "Yo nunca...",
+    "frase": "Me he alegrado por algo malo que le haya pasado a mi ex.",
+    "icono": "fas fa-grin"
+  },
+  {
+    "id": 134,
+    "titulo": "Yo nunca...",
+    "frase": "Lo he hecho mas de 5 veces en un dia.",
+    "icono": "fab fa-html5"
+  },
+  {
+    "id": 135,
+    "titulo": "Yo nunca...",
+    "frase": "Me he liado con un actual compañero de clase/trabajo.",
+    "icono": "fas fa-user-friends"
+  },
+  {
+    "id": 136,
+    "titulo": "Yo nunca...",
+    "frase": "Me he liado con un compañero de clase/trabajo.",
+    "icono": "fas fa-user-friends"
+  },
+  {
+    "id": 137,
+    "titulo": "Yo nunca...",
+    "frase": "He/me han hecho garganta profunda.",
+    "icono": "fas fa-ruler"
+  },
+  {
+    "id": 138,
+    "titulo": "Yo nunca...",
+    "frase": "Me he liado con alguien que besase realmente mal.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 139,
+    "titulo": "Yo nunca...",
+    "frase": "He creído que alguien presente me ha tirado la caña.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 140,
+    "titulo": "Yo nunca...",
+    "frase": "He mentido en este Yo nunca.",
+    "icono": "fas fa-poo"
+  },
+  {
+    "id": 141,
+    "titulo": "Yo nunca...",
+    "frase": "He ligado en otro país.",
+    "icono": "fas fa-globe-americas"
+  },
+  {
+    "id": 142,
+    "titulo": "Yo nunca...",
+    "frase": "He usado Tinder.",
+    "icono": "fas fa-fire"
+  },
+  {
+    "id": 143,
+    "titulo": "Yo nunca...",
+    "frase": "He usado Grindr.",
+    "icono": "fa fa-mars-double"
+  },
+  {
+    "id": 144,
+    "titulo": "Yo nunca...",
+    "frase": "He tenido un topo entre mis mejores amigos.",
+    "icono": "fas fa-heart-broken"
+  },
+  {
+    "id": 145,
+    "titulo": "Yo nunca...",
+    "frase": "He dejado caer Mentos en Coca-Cola.",
+    "icono": "fa fa-mug-hot"
+  },
+  {
+    "id": 146,
+    "titulo": "Yo nunca...",
+    "frase": "He grabado un video de mí mismo cantando o bailando.",
+    "icono": "fas fa-video"
+  },
+  {
+    "id": 147,
+    "titulo": "Yo nunca...",
+    "frase": "He llorado en la ducha.",
+    "icono": "fas fa-shower"
+  },
+  {
+    "id": 148,
+    "titulo": "Yo nunca...",
+    "frase": "He follado en la ducha.",
+    "icono": "fas fa-shower"
+  },
+  {
+    "id": 149,
+    "titulo": "Yo nunca...",
+    "frase": "Me he más de 3 horas viendo TikToks.",
+    "icono": "fab fa-tiktok"
+  },
+  {
+    "id": 150,
+    "titulo": "Yo nunca...",
+    "frase": "He tenido miedo de los payasos.",
+    "icono": "fas fa-ghost"
+  },
+  {
+    "id": 151,
+    "titulo": "Yo nunca...",
+    "frase": "He tenido miedo de los fantasmas.",
+    "icono": "fas fa-ghost"
+  },
+  {
+    "id": 152,
+    "titulo": "Yo nunca...",
+    "frase": "He jugado a la Ouija.",
+    "icono": "fas fa-ghost"
+  },
+  {
+    "id": 153,
+    "titulo": "Yo nunca...",
+    "frase": "He visto una película porno entera.",
+    "icono": "fas fa-film"
+  },
+  {
+    "id": 154,
+    "titulo": "Yo nunca...",
+    "frase": "He bebido siendo menor de edad.",
+    "icono": "fas fa-sort-numeric-down"
+  },
+  {
+    "id": 155,
+    "titulo": "Yo nunca...",
+    "frase": "He hecho un control de alcoholemia.",
+    "icono": "fas fa-wind"
+  },
+  {
+    "id": 156,
+    "titulo": "Yo nunca...",
+    "frase": "He dado positivo en un control de alcoholemia.",
+    "icono": "fas fa-wind"
+  },
+  {
+    "id": 157,
+    "titulo": "Yo nunca...",
+    "frase": "He hecho trampas en un examen.",
+    "icono": "fas fa-pen"
+  },
+  {
+    "id": 158,
+    "titulo": "A mí nunca...",
+    "frase": "Se me ha escapado algo que no debía contar.",
+    "icono": "fas fa-comment-slash"
+  },
+  {
+    "id": 159,
+    "titulo": "Yo nunca...",
+    "frase": "He aprendido a tocar un instrumento.",
+    "icono": "fas fa-guitar"
+  },
+  {
+    "id": 160,
+    "titulo": "Yo nunca...",
+    "frase": "He estado esposado.",
+    "icono": "fas fa-hands"
+  },
+  {
+    "id": 161,
+    "titulo": "Yo nunca...",
+    "frase": "He sentido que me moría.",
+    "icono": "fas fa-skull-crossbones"
+  },
+  {
+    "id": 162,
+    "titulo": "Yo nunca...",
+    "frase": "He estado cerca de morir.",
+    "icono": "fas fa-skull-crossbones"
+  },
+  {
+    "id": 163,
+    "titulo": "Yo nunca...",
+    "frase": "He ligado con un jeque.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 164,
+    "titulo": "Yo nunca...",
+    "frase": "He ligado con un calvo.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 165,
+    "titulo": "Yo nunca...",
+    "frase": "He dicho te quiero sin pensarlo bien.",
+    "icono": "fas fa-kiss-wink-heart"
+  },
+  {
+    "id": 166,
+    "titulo": "Yo nunca...",
+    "frase": "He intentado ser vegetariano.",
+    "icono": "fas fa-carrot"
+  },
+  {
+    "id": 167,
+    "titulo": "Yo nunca...",
+    "frase": "He nadado desnudo.",
+    "icono": "fas fa-swimmer"
+  },
+  {
+    "id": 168,
+    "titulo": "Yo nunca...",
+    "frase": "He usado popper.",
+    "icono": "fas fa-prescription-bottle"
+  },
+  {
+    "id": 169,
+    "titulo": "Yo nunca...",
+    "frase": "He usado cocaína.",
+    "icono": "fas fa-snowflake"
+  },
+  {
+    "id": 170,
+    "titulo": "Yo nunca...",
+    "frase": "He sospechado que un familiar tenía un amante.",
+    "icono": "fas fa-heart"
+  },
+  {
+    "id": 171,
+    "titulo": "Yo nunca...",
+    "frase": "He perdido el conocimiento.",
+    "icono": "fas fa-skull-crossbones"
+  },
+  {
+    "id": 172,
+    "titulo": "Yo nunca...",
+    "frase": "He hecho un tatuaje a alguien.",
+    "icono": "fas fa-pen-fancy"
   }
 ]

@@ -486,5 +486,325 @@
     "taboo2": "Alcohol",
     "taboo3": "Beber",
     "taboo4": "Coca Cola"
+  },
+  {
+    "id": 61,
+    "palabra": "Regaliz",
+    "taboo1": "Chuche",
+    "taboo2": "Largo",
+    "taboo3": "Negro",
+    "taboo4": "Rojo"
+  },
+  {
+    "id": 62,
+    "palabra": "Dumbo",
+    "taboo1": "Elefante",
+    "taboo2": "Disney",
+    "taboo3": "Película",
+    "taboo4": "Circo"
+  },
+  {
+    "id": 63,
+    "palabra": "Microondas",
+    "taboo1": "Electrodoméstico",
+    "taboo2": "Calentar",
+    "taboo3": "Comida",
+    "taboo4": "Horno"
+  },
+  {
+    "id": 64,
+    "palabra": "Bad Bunny",
+    "taboo1": "Conejo Malo",
+    "taboo2": "Cantante",
+    "taboo3": "Benito",
+    "taboo4": "Yonaguni"
+  },
+  {
+    "id": 65,
+    "palabra": "Tenis",
+    "taboo1": "Raqueta",
+    "taboo2": "Deporte",
+    "taboo3": "Zapatos",
+    "taboo4": "Pies"
+  },
+  {
+    "id": 66,
+    "palabra": "León",
+    "taboo1": "Melena",
+    "taboo2": "Savana",
+    "taboo3": "Gato",
+    "taboo4": "Rey"
+  },
+  {
+    "id": 67,
+    "palabra": "Londres",
+    "taboo1": "Inglaterra",
+    "taboo2": "Big Ben",
+    "taboo3": "Ciudad",
+    "taboo4": "Reino Unido"
+  },
+  {
+    "id": 68,
+    "palabra": "Niebla",
+    "taboo1": "Nube",
+    "taboo2": "Ver",
+    "taboo3": "Blanco",
+    "taboo4": "Tiempo"
+  },
+  {
+    "id": 69,
+    "palabra": "Popper",
+    "taboo1": "Limpiar",
+    "taboo2": "Zapato",
+    "taboo3": "Droga",
+    "taboo4": "Oler"
+  },
+  {
+    "id": 70,
+    "palabra": "Riverland",
+    "taboo1": "Festival",
+    "taboo2": "Camping",
+    "taboo3": "Mala gestión",
+    "taboo4": "Basura"
+  },
+  {
+    "id": 71,
+    "palabra": "Bad Bunny",
+    "taboo1": "Conejo Malo",
+    "taboo2": "Cantante",
+    "taboo3": "Benito",
+    "taboo4": "Yonaguni"
+  },
+  {
+    "id": 72,
+    "palabra": "Influencer",
+    "taboo1": "Fotos",
+    "taboo2": "Redes sociales",
+    "taboo3": "Vídeos",
+    "taboo4": "Seguidores"
+  },
+  {
+    "id": 73,
+    "palabra": "Roncar",
+    "taboo1": "Dormir",
+    "taboo2": "Ruido",
+    "taboo3": "Sonido",
+    "taboo4": "Nariz"
+  },
+  {
+    "id": 74,
+    "palabra": "Pizza",
+    "taboo1": "Italia",
+    "taboo2": "Comida",
+    "taboo3": "Horno",
+    "taboo4": "Redondo"
+  },
+  {
+    "id": 75,
+    "palabra": "Mariposa",
+    "taboo1": "Insecto",
+    "taboo2": "Alas",
+    "taboo3": "Volar",
+    "taboo4": "Colores"
+  },
+  {
+    "id": 76,
+    "palabra": "Cumpleaños",
+    "taboo1": "Nacer",
+    "taboo2": "Regalo",
+    "taboo3": "Día",
+    "taboo4": "Celebrar"
+  },
+  {
+    "id": 77,
+    "palabra": "Marte",
+    "taboo1": "Planeta",
+    "taboo2": "Rojo",
+    "taboo3": "Cielo",
+    "taboo4": "Vida"
+  },
+  {
+    "id": 78,
+    "palabra": "Fresa",
+    "taboo1": "Rojo",
+    "taboo2": "Dulce",
+    "taboo3": "Semilla",
+    "taboo4": "Exterior"
+  },
+  {
+    "id": 79,
+    "palabra": "Sushi",
+    "taboo1": "Japón",
+    "taboo2": "Pescado",
+    "taboo3": "Arroz",
+    "taboo4": "Palillos"
+  },
+  {
+    "id": 80,
+    "palabra": "Satisfyer",
+    "taboo1": "Platanomelón",
+    "taboo2": "Juguete",
+    "taboo3": "Sexo",
+    "taboo4": "Masturbación"
+  },
+  {
+    "id": 81,
+    "palabra": "RuPaul",
+    "taboo1": "Drag Queen",
+    "taboo2": "Netflix",
+    "taboo3": "Disfraz",
+    "taboo4": "Presentador"
+  },
+  {
+    "id": 82,
+    "palabra": "Cars",
+    "taboo1": "Disney",
+    "taboo2": "Pixar",
+    "taboo3": "Coches",
+    "taboo4": "Rayo McQueen"
+  },
+  {
+    "id": 83,
+    "palabra": "Fútbol",
+    "taboo1": "Deporte",
+    "taboo2": "Pelota",
+    "taboo3": "Portería",
+    "taboo4": "Equipo"
+  },
+  {
+    "id": 84,
+    "palabra": "Harry Potter",
+    "taboo1": "Magia",
+    "taboo2": "Hogwarts",
+    "taboo3": "TERF",
+    "taboo4": "Daniel Radcliffe"
+  },
+  {
+    "id": 85,
+    "palabra": "Pene",
+    "taboo1": "Polla",
+    "taboo2": "Manguera",
+    "taboo3": "Sable láser",
+    "taboo4": "La que se enchufa"
+  },
+  {
+    "id": 86,
+    "palabra": "Pene",
+    "taboo1": "Polla",
+    "taboo2": "Manguera",
+    "taboo3": "Sable láser",
+    "taboo4": "La que se enchufa"
+  },
+  {
+    "id": 87,
+    "palabra": "Payaso",
+    "taboo1": "Circo",
+    "taboo2": "Reír",
+    "taboo3": "Maquillaje",
+    "taboo4": "Zapatos"
+  },
+  {
+    "id": 88,
+    "palabra": "Batman",
+    "taboo1": "Gotham",
+    "taboo2": "Superhéroe",
+    "taboo3": "Robin",
+    "taboo4": "Crimen"
+  },
+  {
+    "id": 89,
+    "palabra": "Torre Eiffel",
+    "taboo1": "París",
+    "taboo2": "Hierro",
+    "taboo3": "Monumento",
+    "taboo4": "Alto"
+  },
+  {
+    "id": 90,
+    "palabra": "Nutella",
+    "taboo1": "Chocolate",
+    "taboo2": "Nocilla",
+    "taboo3": "Dulce",
+    "taboo4": "Marrón"
+  },
+  {
+    "id": 91,
+    "palabra": "Nude",
+    "taboo1": "Foto",
+    "taboo2": "Sexual",
+    "taboo3": "Desnudo",
+    "taboo4": "Íntimo"
+  },
+  {
+    "id": 92,
+    "palabra": "Fantasma",
+    "taboo1": "Miedo",
+    "taboo2": "Espíritu",
+    "taboo3": "Castillo",
+    "taboo4": "Sábana"
+  },
+  {
+    "id": 93,
+    "palabra": "Cocaína",
+    "taboo1": "Nieve",
+    "taboo2": "Droga",
+    "taboo3": "Nariz",
+    "taboo4": "Blanco"
+  },
+  {
+    "id": 94,
+    "palabra": "Scape Room",
+    "taboo1": "Historia",
+    "taboo2": "Acertijos",
+    "taboo3": "Habitación",
+    "taboo4": "Escapar"
+  },
+  {
+    "id": 95,
+    "palabra": "Monja",
+    "taboo1": "Religión",
+    "taboo2": "Convento",
+    "taboo3": "Hermana",
+    "taboo4": "Rezar"
+  },
+  {
+    "id": 96,
+    "palabra": "Cerdo",
+    "taboo1": "Animal",
+    "taboo2": "Embutido",
+    "taboo3": "Jamón",
+    "taboo4": "Fiambre"
+  },
+  {
+    "id": 97,
+    "palabra": "Alfombra",
+    "taboo1": "Flores",
+    "taboo2": "Suelo",
+    "taboo3": "Moqueta",
+    "taboo4": "Volar"
+  },
+  {
+    "id": 98,
+    "palabra": "League of Legends",
+    "taboo1": "Videojuego",
+    "taboo2": "Ducha",
+    "taboo3": "Riot",
+    "taboo4": "Multijugador"
+  },
+  {
+    "id": 99,
+    "palabra": "C. Tangana",
+    "taboo1": "Cantante",
+    "taboo2": "Madrileño",
+    "taboo3": "Rosalía",
+    "taboo4": "Llorando en la limo"
+  },
+  {
+    "id": 100,
+    "palabra": "Pirata",
+    "taboo1": "Calavera",
+    "taboo2": "Barco",
+    "taboo3": "Mar",
+    "taboo4": "Jack Sparrow"
   }
 ]
