@@ -86,7 +86,7 @@
 												<div class="d-flex flex-column flex-left pb-10">
 													<!-- <a href="yonunca.html" class="btn btn-dark text-uppercase text-white font-weight-bolder px-16 py-4">Otra</a> -->
 													<div id="btnComienzo" class="d-flex flex-row justify-content-around pt-10">
-														<button onclick="listWords()" class="btn btn-dark rounded-circle h-60px w-60px"><i style="font-size: 2em;" class="fa fa-list p-0"></i></button>
+														<button onclick="listWords()" class="btn btn-dark rounded-circle h-60px w-60px"><p id="wordNumber" class="m-0"style="font-size: 2em;">0</p></button>
 														<button onclick="start()" class="btn btn-dark rounded-circle h-60px w-60px"><i style="font-size: 2em;" class="fa fa-play p-0"></i></button>
 													</div>
                                                     <div id="btnContenido" class="d-flex flex-column flex-center" style="visibility: hidden;">
@@ -144,8 +144,8 @@
 							<i aria-hidden="true" class="ki ki-close"></i>
 						</button>
 					</div>
-					<div class="modal-body" style="height: 300px;">
-						<h5>Para comenzar, cada jugador debe escribir 1 o 2 palabras. Después se realizan 3 rondas: 
+					<div class="modal-body" style="max-height: 300px;">
+						<h5>Para comenzar, cada jugador debe escribir 1 o 2 palabras. Después se realizan 4 rondas: 
                             <br/><br/>
                             <ol>
                                 <li><span style="font-weight: bold;">Describir:</span> debéis describir la palabra.</li>
@@ -160,7 +160,7 @@
 			</div>
 		</div>
 
-        <div class="modal fade" id="listadoPalabras" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
+		<div class="modal fade" id="listadoPalabras" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
 			<div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -169,7 +169,7 @@
 							<i aria-hidden="true" class="ki ki-close"></i>
 						</button>
 					</div>
-					<div class="modal-body">
+					<div class="modal-body" style="max-height: 200px;">
 						<h5>
                             <ul id="ulPalabras">
                                 
@@ -202,6 +202,7 @@
                 const newWord = $("#input").val();
                 palabras.push(newWord);
                 $("#input").val('');
+				$("#wordNumber").text(palabras.length);
             }
 
             function listWords() {
