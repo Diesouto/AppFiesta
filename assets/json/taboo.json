@@ -689,11 +689,11 @@
   },
   {
     "id": 86,
-    "palabra": "Pene",
-    "taboo1": "Polla",
-    "taboo2": "Manguera",
-    "taboo3": "Sable láser",
-    "taboo4": "La que se enchufa"
+    "palabra": "Pescador",
+    "taboo1": "Pez",
+    "taboo2": "Caña",
+    "taboo3": "Chuvasquero",
+    "taboo4": "Trabajo"
   },
   {
     "id": 87,
@@ -806,5 +806,101 @@
     "taboo2": "Barco",
     "taboo3": "Mar",
     "taboo4": "Jack Sparrow"
+  },
+  {
+    "id": 101,
+    "palabra": "Pedro Sanchez",
+    "taboo1": "Perro",
+    "taboo2": "Presidente",
+    "taboo3": "Español",
+    "taboo4": "PSOE"
+  },
+  {
+    "id": 102,
+    "palabra": "Pedro Pascal",
+    "taboo1": "Actor",
+    "taboo2": "TLOU",
+    "taboo3": "Robin",
+    "taboo4": "Buenorro"
+  },
+  {
+    "id": 103,
+    "palabra": "Gallina",
+    "taboo1": "Huevo",
+    "taboo2": "Pájaro",
+    "taboo3": "Zorro",
+    "taboo4": "Pato"
+  },
+  {
+    "id": 104,
+    "palabra": "Pingüino",
+    "taboo1": "Madagascar",
+    "taboo2": "Traje",
+    "taboo3": "Volar",
+    "taboo4": "Frío"
+  },
+  {
+    "id": 105,
+    "palabra": "Lamprea",
+    "taboo1": "Río",
+    "taboo2": "Serpiente",
+    "taboo3": "Chupar",
+    "taboo4": "Alargado"
+  },
+  {
+    "id": 106,
+    "palabra": "Adolf Hitler",
+    "taboo1": "WW2",
+    "taboo2": "Holocausto",
+    "taboo3": "Alemania",
+    "taboo4": "Stalin"
+  },
+  {
+    "id": 107,
+    "palabra": "Albert Einstein",
+    "taboo1": "Relatividad",
+    "taboo2": "Físico",
+    "taboo3": "Científico",
+    "taboo4": "Alemania"
+  },
+  {
+    "id": 108,
+    "palabra": "Arnold Schwarzenegger",
+    "taboo1": "Actor",
+    "taboo2": "Terminator",
+    "taboo3": "I'll be back",
+    "taboo4": "Hollywood"
+  },
+  {
+    "id": 109,
+    "palabra": "Benedict Cumberbatch",
+    "taboo1": "Doctor Strange",
+    "taboo2": "Sherlock Holmes",
+    "taboo3": "Actor",
+    "taboo4": "Hollywood"
+  },
+  {
+    "id": 110,
+    "palabra": "Bob Marley",
+    "taboo1": "Reggae",
+    "taboo2": "Porro",
+    "taboo3": "Marihuana",
+    "taboo4": "Jamaica"
+  },
+  {
+    "id": 111,
+    "palabra": "Brad Pitt",
+    "taboo1": "Angelina Jolie",
+    "taboo2": "Actor",
+    "taboo3": "Club de la lucha",
+    "taboo4": "Hollywood"
+  },
+  {
+    "id": 112,
+    "palabra": "Bruce Lee",
+    "taboo1": "China",
+    "taboo2": "Kung Fu",
+    "taboo3": "Jackie Chan",
+    "taboo4": "Karate"
   }
 ]

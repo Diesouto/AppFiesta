@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "Salir de fiesta",
+    "frase0": "estar en la previa",
+    "frase1": "llegar a casa"
+  },
+  {
+    "titulo": "Irse a la playa",
+    "frase0": "preparar la mochila",
+    "frase1": "llegar a casa"
+  },
+  {
+    "titulo": "Empezar una relación",
+    "frase0": "abrirse Tinder",
+    "frase1": "empezar a salir"
+  },
+  {
+    "titulo": "Ir al cine",
+    "frase0": "ver la cartelera",
+    "frase1": "salir de la película"
+  },
+  {
+    "titulo": "Preparar un examen",
+    "frase0": "repasar el día anterior",
+    "frase1": "entregar el examen"
+  },
+  {
+    "titulo": "Ir a una fiesta de disfraces",
+    "frase0": "enterarse de la temática",
+    "frase1": "llegar a la fiesta"
+  },
+  {
+    "titulo": "Comer sushi",
+    "frase0": "llegar al garito",
+    "frase1": "pagar la cuenta"
+  }
+]
