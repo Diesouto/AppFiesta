@@ -33,5 +33,25 @@
     "titulo": "Comer sushi",
     "frase0": "llegar al garito",
     "frase1": "pagar la cuenta"
+  },
+  {
+    "titulo": "Grabar un TikTok",
+    "frase0": "poner el móvil",
+    "frase1": "publicarlo"
+  },
+  {
+    "titulo": "Ir a una graduación",
+    "frase0": "prepararse en casa",
+    "frase1": "volver de la fiesta"
+  },
+  {
+    "titulo": "Ir de concierto",
+    "frase0": "comprar las entradas",
+    "frase1": "salir del público"
+  },
+  {
+    "titulo": "Ir al carnaval de Redondela",
+    "frase0": "llegar a Redondela",
+    "frase1": "subirse al bus/coche"
   }
 ]

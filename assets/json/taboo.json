@@ -902,5 +902,13 @@
     "taboo2": "Kung Fu",
     "taboo3": "Jackie Chan",
     "taboo4": "Karate"
+  },
+  {
+    "id": 113,
+    "palabra": "Teléfono",
+    "taboo1": "Apps",
+    "taboo2": "Llamar",
+    "taboo3": "Número",
+    "taboo4": "Distancia"
   }
 ]
